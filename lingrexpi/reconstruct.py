@@ -66,7 +66,14 @@ def clean_sound(sound):
 
 
 def alm2tok(seq, gap="-"):
-    return [clean_sound(x) for x in seq if x != gap]
+    return [clean_sound(x) for x in unsegment(seq) if x != gap]
+
+
+def unsegment(seq):
+    out = []
+    for itm in seq:
+        out += itm.split('.')
+    return out
 
 
 class CorPaRClassifier(object):
@@ -247,7 +254,7 @@ class Trainer(ReconstructionBase):
     Base class to split data into test and training sets.
     """
 
-    def split(self, proportions=None, seed=None):
+    def split(self, proportions=None, seed=None, minrefs=1):
         """
         Split into training, test, and evaluation set.
         """
@@ -259,7 +266,7 @@ class Trainer(ReconstructionBase):
         sample = {}
         for cogid, alignment, languages in self.iter_alignments(
                 valid_target=True):
-            if alignment[:-1]:
+            if alignment[:-1] and len(languages) > minrefs:
                 sample[cogid] = (alignment[:-1], alignment[-1], languages[:-1])
         cogids = list(sample)
 
@@ -489,20 +496,33 @@ class PatternReconstructor(ReconstructionBase):
 
 
 
-def eval_by_dist(data, func=None):
+def eval_by_dist(data, func=None, **kw):
+    """
+    Evaluate by measuring distances between sequences.
+    
+    @note: Defaults to the unnormalized edit distance.
+    """
     func = func or edit_dist
     scores = []
     for seqA, seqB in data:
-        scores += [func(seqA, seqB)]
+        if not seqA:
+            seqA = ["?"]
+        if not seqB:
+            seqB = ["?"]
+        scores += [func(seqA, seqB, **kw)]
     return sum(scores)/len(scores)
 
 
-def eval_by_bcubes(data, func=None):
+def eval_by_bcubes(data, func=None, **kw):
     numsA, numsB = {"": 0}, {"": 0}
     func = nw_align
     almsA, almsB = [], []
     for seqA, seqB in data:
-        almA, almB, score = func(seqA, seqB)
+        if not seqA:
+            seqA = ["?"]
+        if not seqB:
+            seqB = ["?"]
+        almA, almB, score = func(seqA, seqB, **kw)
         for a, b in zip(almA, almB):
             if not a in numsA:
                 numsA[a] = max(numsA.values())+1

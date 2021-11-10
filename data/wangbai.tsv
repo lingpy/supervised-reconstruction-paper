@@ -4,8 +4,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 23	Gongxing	(birds)cry/chirp	mæ12	mæ12	m æ ¹²	1
 24	Enqi	(birds)cry/chirp	mæ21	mæ21	m æ ²¹	1
 25	Jinxing	(birds)cry/chirp	man21	man21	m a n ²¹	1
-26	Dashi	(birds)cry/chirp	mɚ21	mɚ21	m ɚ/ə ²¹	1
-27	Mazhelong	(birds)cry/chirp	mɚ̃21	mɚ̃21	m ɚ/ə̃ ²¹	1
+26	Dashi	(birds)cry/chirp	mɚ21	mɚ21	m ə˞ ²¹	1
+27	Mazhelong	(birds)cry/chirp	mɚ̃21	mɚ̃21	m ə̃˞ ²¹	1
 28	ProtoBai	(fruit) be ripe	dzro4	dzro4	ɖʐ o ⁴	9
 29	Tuoluo	(fruit) be ripe	ʐy42	ʐy42	ʐ y ⁴²	9
 30	Gongxing	(fruit) be ripe	dzao21	dzao21	dz ao ²¹	9
@@ -32,9 +32,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 51	Ega	(people) crawl	ma44	ma44	m a ⁴⁴	32
 52	Jinman	(people) crawl	ma55	ma55	m a ⁵⁵	32
 53	Jinxing	(people) crawl	ma44	ma44	m a ⁴⁴	32
-54	Dashi	(people) crawl	mɚ44	mɚ44	m ɚ/ə ⁴⁴	32
+54	Dashi	(people) crawl	mɚ44	mɚ44	m ə˞ ⁴⁴	32
 55	Zhoucheng	(people) crawl	mɛ44	mɛ44	m ɛ ⁴⁴	32
-56	Mazhelong	(people) crawl	mɚ44	mɚ44	m ɚ/ə ⁴⁴	32
+56	Mazhelong	(people) crawl	mɚ44	mɚ44	m ə˞ ⁴⁴	32
 57	ProtoBai	(rain) fall	ɣu4	ɣu4	ɣ u ⁴	43
 58	Tuoluo	(rain) fall	(ʐi33)luo42	luo42	l u/w o ⁴²	45
 59	Enqi	(rain) fall	u21	u21	u ²¹	44
@@ -45,11 +45,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 64	Zhoucheng	(rain) fall	ou42(vu33ɕi44)	ou42	ou ⁴²	44
 65	Mazhelong	(rain) fall	ɣo42	ɣo42	ɣ o ⁴²	43
 66	ProtoBai	(rice) seedling	dzri1	dzri1	ɖʐ i ¹	53
-67	Tuoluo	(rice) seedling	ʐɚ35	ʐɚ35	ʐ ɚ/ə ³⁵	53
+67	Tuoluo	(rice) seedling	ʐɚ35	ʐɚ35	ʐ ə˞ ³⁵	53
 68	Gongxing	(rice) seedling	dʐi21	dʐi21	ɖʐ i ²¹	53
 69	Enqi	(rice) seedling	tsɿ21	tsɿ21	ts ɿ ²¹	53
 70	Ega	(rice) seedling	tsɛ21	tsɛ21	ts ɛ ²¹	53
-71	Jinman	(rice) seedling	tɕɚ21	tɕɚ21	tɕ ɚ/ə ²¹	53
+71	Jinman	(rice) seedling	tɕɚ21	tɕɚ21	tɕ ə˞ ²¹	53
 72	Jinxing	(rice) seedling	tsa21	tsa21	ts a ²¹	53
 73	Dashi	(rice) seedling	tʂi31	tʂi31	ʈʂ i ³¹	53
 74	Zhoucheng	(rice) seedling	tsi21	tsi21	ts i ²¹	53
@@ -62,7 +62,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 81	Jinman	(soul); spirit	pʰã42mã42	pʰã42mã42	pʰ ã ⁴² + m ã ⁴²	64 65
 82	Jinxing	(soul); spirit	pʰan31man31	pʰan31man31	pʰ a n ³¹ + m a n ³¹	64 65
 83	Zhoucheng	(soul); spirit	pʰo31miɛ31	pʰo31miɛ31	pʰ o ³¹ + m i/j ɛ ³¹	64 65
-84	Mazhelong	(soul); spirit	pʰɚ21mɚ̃21	pʰɚ21mɚ̃21	pʰ ɚ/ə ²¹ + m ɚ/ə̃ ²¹	64 65
+84	Mazhelong	(soul); spirit	pʰɚ21mɚ̃21	pʰɚ21mɚ̃21	pʰ ə˞ ²¹ + m ə̃˞ ²¹	64 65
 85	ProtoBai	(wasps) sting	tʰro4	tʰro4	tʰ r o ⁴	82
 86	Tuoluo	(wasps) sting	tʰiu42	tʰiu42	tʰ i u ⁴²	82
 87	Gongxing	(wasps) sting	ŋaŋ24	ŋaŋ24	ŋ a ŋ ²⁴	83
@@ -137,7 +137,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 149	Ega	[castrate (chicken)]	ɲia44	ɲia44	ɲ i/j a ⁴⁴	161
 150	Jinman	[castrate (chicken)]	ɲio55	ɲio55	ɲ i/j o ⁵⁵	161
 151	Jinxing	[castrate (chicken)]	mian55	mian55	m i/j a n ⁵⁵	161
-152	Dashi	[castrate (chicken)]	mier35 (this is strange: should it be "miɚ35"?)	mier35	m i/j er/e ³⁵	161
+152	Dashi	[castrate (chicken)]	mier35 (this is strange: should it be "miɚ35"?)	mier35	m i/j ə˞ ³⁵	161
 153	ProtoBai	[cow louse]	pe1	pe1	p e ¹	172
 154	Gongxing	[cow louse]	(ŋɯ21ɕi24)	ŋɯ21ɕi24	ŋ ɯ ²¹ + ɕ i ²⁴	170 171
 155	Enqi	[cow louse]	pi24	pi24	p i ²⁴	172
@@ -171,7 +171,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 190	Gongxing	a half	pfw22	pfw22	pf ɯ ²²	207
 191	Enqi	a half	po22	po22	p o ²²	207
 192	Ega	a half	fe22	fe22	f e ²²	207
-193	Jinman	a half	fɚ22	fɚ22	f ɚ/ə ²²	207
+193	Jinman	a half	fɚ22	fɚ22	f ə˞ ²²	207
 194	Zhoucheng	a half	po21	po21	p o ²¹	207
 195	Mazhelong	a half	po21	po21	p o ²¹	207
 196	ProtoBai	a year old	sʰua4	sʰua4	sʰ u/w a ⁴	216
@@ -197,7 +197,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 216	Gongxing	alcoholic beverage	tsoŋ22	tsoŋ22	ts o ŋ ²²	236
 217	Enqi	alcoholic beverage	tso22	tso22	ts o ²²	236
 218	Ega	alcoholic beverage	tsõ22	tsõ22	ts õ ²²	236
-219	Jinman	alcoholic beverage	tsŋ22	tsŋ22	ts */ə ŋ ²²	236
+219	Jinman	alcoholic beverage	tsŋ22	tsŋ22	ts Ø/ə ŋ ²²	236
 220	Jinxing	alcoholic beverage	tsṽ33	tsṽ33	ts ṽ/ʯ̃ ³³	236
 221	Dashi	alcoholic beverage	tsõ33	tsõ33	ts õ ³³	236
 222	Zhoucheng	alcoholic beverage	tsi33	tsi33	ts i ³³	236
@@ -229,15 +229,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 248	Ega	ask; question	tɕya44	tɕya44	tɕ y a ⁴⁴	279
 249	Jinman	ask; question	tɕua55	tɕua55	tɕ u/w a ⁵⁵	280
 250	Jinxing	ask; question	pia44	pia44	p i/j a ⁴⁴	278
-251	Dashi	ask; question	piɚ44	piɚ44	p i/j ɚ/ə ⁴⁴	278
+251	Dashi	ask; question	piɚ44	piɚ44	p i/j ə˞ ⁴⁴	278
 252	Zhoucheng	ask; question	piɛ44	piɛ44	p i/j ɛ ⁴⁴	278
-253	Mazhelong	ask; question	piɚ44	piɚ44	p i/j ɚ/ə ⁴⁴	278
+253	Mazhelong	ask; question	piɚ44	piɚ44	p i/j ə˞ ⁴⁴	278
 254	ProtoBai	astringent; like unripe	sri4	sri4	s r i ⁴	289
 255	Tuoluo	astringent; like unripe	ʂi4	ʂi4	ʂ i ⁴	289
 256	Gongxing	astringent; like unripe	tsua24	tsua24	ts u/w a ²⁴	289
 257	Enqi	astringent; like unripe	sɿ55	sɿ55	s ɿ ⁵⁵	289
 258	Ega	astringent; like unripe	(kʰui42/tsʰi42)	tsʰi42)	tsʰ i ⁴²	289
-259	Jinman	astringent; like unripe	ʂɚ55	ʂɚ55	ʂ ɚ/ə ⁵⁵	289
+259	Jinman	astringent; like unripe	ʂɚ55	ʂɚ55	ʂ ə˞ ⁵⁵	289
 260	Jinxing	astringent; like unripe	sa44	sa44	s a ⁴⁴	289
 261	Dashi	astringent; like unripe	ʂi44	ʂi44	ʂ i ⁴⁴	289
 262	Zhoucheng	astringent; like unripe	si55	si55	s i ⁵⁵	289
@@ -251,7 +251,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 270	Jinxing	at night; in the evening	pẽ55	pẽ55	p ẽ ⁵⁵	300
 271	Dashi	at night; in the evening	pe33	pe33	p e ³³	300
 272	Zhoucheng	at night; in the evening	pe33	pe33	p e ³³	300
-273	Mazhelong	at night; in the evening	(ɕɚ55pʰo55)	ɕɚ55pʰo55	ɕ ɚ/ə ⁵⁵ + pʰ o ⁵⁵	304 300
+273	Mazhelong	at night; in the evening	(ɕɚ55pʰo55)	ɕɚ55pʰo55	ɕ ə˞ ⁵⁵ + pʰ o ⁵⁵	304 300
 274	ProtoBai	axe	pɯ2	pɯ2	p ɯ ²	316
 275	Tuoluo	axe	pɯ33	pɯ33	p ɯ ³³	316
 276	Gongxing	axe	pu33	pu33	p u ³³	316
@@ -335,7 +335,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 354	Jinxing	be blind	tan55	tan55	t a n ⁵⁵	412
 355	Dashi	be blind	[ɕa13]	ɕa13	ɕ a ¹³	411
 356	Zhoucheng	be blind	tɛ35	tɛ35	t ɛ ³⁵	412
-357	Mazhelong	be blind	tɚ55	tɚ55	t ɚ/ə ⁵⁵	412
+357	Mazhelong	be blind	tɚ55	tɚ55	t ə˞ ⁵⁵	412
 358	ProtoBai	be hungry	tɕɯ1	tɕɯ1	tɕ ɯ ¹	422
 359	Tuoluo	be hungry	tɕiɯ55qʰɔ42	tɕiɯ55qʰɔ42	tɕ i/j ɯ ⁵⁵ + qʰ ɔ ⁴²	422 423
 360	Gongxing	be hungry	tɕi22qʰa55	tɕi22qʰa55	tɕ i ²² + qʰ a ⁵⁵	422 423
@@ -363,9 +363,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 382	Ega	be on the other side of (a river)	qa42	qa42	q a ⁴²	452
 383	Jinman	be on the other side of (a river)	qa55	qa55	q a ⁵⁵	452
 384	Jinxing	be on the other side of (a river)	ka44	ka44	k a ⁴⁴	452
-385	Dashi	be on the other side of (a river)	kɚ44	kɚ44	k ɚ/ə ⁴⁴	452
+385	Dashi	be on the other side of (a river)	kɚ44	kɚ44	k ə˞ ⁴⁴	452
 386	Zhoucheng	be on the other side of (a river)	kɛ55	kɛ55	k ɛ ⁵⁵	452
-387	Mazhelong	be on the other side of (a river)	kɚ44	kɚ44	k ɚ/ə ⁴⁴	452
+387	Mazhelong	be on the other side of (a river)	kɚ44	kɚ44	k ə˞ ⁴⁴	452
 388	ProtoBai	be thirsty	qʰa4	qʰa4	qʰ a ⁴	463
 389	Tuoluo	be thirsty	qʰɔ42	qʰɔ42	qʰ ɔ ⁴²	463
 390	Gongxing	be thirsty	qʰa24	qʰa24	qʰ a ²⁴	463
@@ -387,7 +387,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 406	Zhoucheng	bed	tso21	tso21	ts o ²¹	474
 407	Mazhelong	bed	(tɕʰyi21)	tɕʰyi21	tɕʰ y/ɥ i ²¹	474
 408	ProtoBai	bee	pʰjuŋ1	pʰjuŋ1	pʰ j u ŋ ¹	490
-409	Tuoluo	bee	fɚ̃55	fɚ̃55	f ɚ/ə̃ ⁵⁵	490
+409	Tuoluo	bee	fɚ̃55	fɚ̃55	f ə̃˞ ⁵⁵	490
 410	Gongxing	bee	pfuŋ55	pfuŋ55	pf u ŋ ⁵⁵	490
 411	Enqi	bee	fo24	fo24	f o ²⁴	490
 412	Ega	bee	xõ55	xõ55	x õ ⁵⁵	491
@@ -397,11 +397,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 416	Zhoucheng	bee	fv55	fv55	f v/ʯ ⁵⁵	490
 417	Mazhelong	bee	pʰen55	pʰen55	pʰ e n ⁵⁵	490
 418	ProtoBai	belly	pju4	pju4	p j u ⁴	501
-419	Tuoluo	belly	fɚ42	fɚ42	f ɚ/ə ⁴²	501
+419	Tuoluo	belly	fɚ42	fɚ42	f ə˞ ⁴²	501
 420	Gongxing	belly	[ʐi21]	ʐi21	ʐ i ²¹	502
 421	Enqi	belly	fo24	fo24	f o ²⁴	501
 422	Ega	belly	xu44	xu44	x u ⁴⁴	502
-423	Jinman	belly	[ʐɚ42]	ʐɚ42	ʐ ɚ/ə ⁴²	502
+423	Jinman	belly	[ʐɚ42]	ʐɚ42	ʐ ə˞ ⁴²	502
 424	Jinxing	belly	fv44	fv44	f v/ʯ ⁴⁴	501
 425	Dashi	belly	fo44	fo44	f o ⁴⁴	501
 426	Zhoucheng	belly	fv44	fv44	f v/ʯ ⁴⁴	501
@@ -417,7 +417,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 436	Zhoucheng	big	to42	to42	t o ⁴²	512
 437	Mazhelong	big	do42	do42	d o ⁴²	512
 438	ProtoBai	bind; tie up	bjo4	bjo4	b j o ⁴	523
-439	Tuoluo	bind; tie up	vɚ42	vɚ42	v ɚ/ə ⁴²	523
+439	Tuoluo	bind; tie up	vɚ42	vɚ42	v ə˞ ⁴²	523
 440	Gongxing	bind; tie up	bvu21	bvu21	b v u ²¹	523
 441	Enqi	bind; tie up	fo21	fo21	f o ²¹	523
 442	Ega	bind; tie up	u42	u42	u ⁴²	524
@@ -437,11 +437,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 456	Zhoucheng	bird	tsou44	tsou44	ts ou ⁴⁴	534
 457	Mazhelong	bird	tso44	tso44	ts o ⁴⁴	534
 458	ProtoBai	bird's nest	kʰro3	kʰro3	kʰ r o ³	545
-459	Tuoluo	bird's nest	tʂʰɚ21	tʂʰɚ21	ʈʂʰ ɚ/ə ²¹	545
+459	Tuoluo	bird's nest	tʂʰɚ21	tʂʰɚ21	ʈʂʰ ə˞ ²¹	545
 460	Gongxing	bird's nest	tʂʰi42	tʂʰi42	ʈʂʰ i ⁴²	545
 461	Enqi	bird's nest	(tiɯ24)	tiɯ24	t i/j ɯ ²⁴	546
 462	Ega	bird's nest	tsʰɛ44	tsʰɛ44	tsʰ ɛ ⁴⁴	545
-463	Jinman	bird's nest	tɕʰɚ42	tɕʰɚ42	tɕʰ ɚ/ə ⁴²	545
+463	Jinman	bird's nest	tɕʰɚ42	tɕʰɚ42	tɕʰ ə˞ ⁴²	545
 464	Jinxing	bird's nest	kʰv31	kʰv31	kʰ v/ʯ ³¹	545
 465	Dashi	bird's nest	kʰo33	kʰo33	kʰ o ³³	545
 466	Zhoucheng	bird's nest	kʰv33	kʰv33	kʰ v/ʯ ³³	545
@@ -457,7 +457,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 476	Zhoucheng	bitter	kʰu31	kʰu31	kʰ u ³¹	556
 477	Mazhelong	bitter	kʰu33kʰǝɯ33	kʰu33kʰǝɯ33	kʰ u ³³ + kʰ əɯ ³³	556 557
 478	ProtoBai	black	χɯ4	χɯ4	χ ɯ ⁴	568
-479	Tuoluo	black	[xɚ42]	xɚ42	x ɚ/ə ⁴²	568
+479	Tuoluo	black	[xɚ42]	xɚ42	x ə˞ ⁴²	568
 480	Gongxing	black	χe24	χe24	χ e ²⁴	568
 481	Enqi	black	χɯ55	χɯ55	χ ɯ ⁵⁵	568
 482	Ega	black	xɯ44	xɯ44	x ɯ ⁴⁴	568
@@ -499,7 +499,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 518	Gongxing	boat; ship	jen12	jen12	j e n ¹²	610
 519	Enqi	boat; ship	ɲia21	ɲia21	ɲ i/j a ²¹	611
 520	Ega	boat; ship	ɲa21	ɲa21	ɲ a ²¹	611
-521	Jinman	boat; ship	ɲɚ21	ɲɚ21	ɲ ɚ/ə ²¹	611
+521	Jinman	boat; ship	ɲɚ21	ɲɚ21	ɲ ə˞ ²¹	611
 522	Jinxing	boat; ship	jen21	jen21	j e n ²¹	610
 523	Dashi	boat; ship	jen21	jen21	j e n ²¹	610
 524	Zhoucheng	boat; ship	je21	je21	j e ²¹	610
@@ -523,7 +523,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 542	Jinxing	brains	nõ33	nõ33	n õ ³³	632
 543	Dashi	brains	nõ33	nõ33	n õ ³³	632
 544	Zhoucheng	brains	[nao31kʰv55/nao31tsi33]	nao31tsi33]	n ao ³¹ + ts i ³³	632 634
-545	Mazhelong	brains	nɚ̃22ɕyi22	nɚ̃22ɕyi22	n ɚ/ə̃ ²² + ɕ y/ɥ i ²²	632 633
+545	Mazhelong	brains	nɚ̃22ɕyi22	nɚ̃22ɕyi22	n ə̃˞ ²² + ɕ y/ɥ i ²²	632 633
 546	ProtoBai	breasts	ba4	ba4	b a ⁴	645
 547	Tuoluo	breasts	bo42	bo42	b o ⁴²	645
 548	Gongxing	breasts	ba21	ba21	b a ²¹	645
@@ -566,9 +566,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 585	Ega	buy	ma42	ma42	m a ⁴²	689
 586	Jinman	buy	ma42	ma42	m a ⁴²	689
 587	Jinxing	buy	ma42	ma42	m a ⁴²	689
-588	Dashi	buy	mɚ42	mɚ42	m ɚ/ə ⁴²	689
+588	Dashi	buy	mɚ42	mɚ42	m ə˞ ⁴²	689
 589	Zhoucheng	buy	mɛ42	mɛ42	m ɛ ⁴²	689
-590	Mazhelong	buy	mɚ21	mɚ21	m ɚ/ə ²¹	689
+590	Mazhelong	buy	mɚ21	mɚ21	m ə˞ ²¹	689
 591	ProtoBai	cane, vine	mɛ5	mɛ5	m ɛ ⁵	700
 592	Tuoluo	cane, vine	mɛ21	mɛ21	m ɛ ²¹	700
 593	Gongxing	cane, vine	men42	men42	m e n ⁴²	700
@@ -580,11 +580,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 599	Zhoucheng	cane, vine	me21	me21	m e ²¹	700
 600	Mazhelong	cane, vine	me21	me21	m e ²¹	700
 601	ProtoBai	carry (shoulder)	bjo2	bjo2	b j o ²	711
-602	Tuoluo	carry (shoulder)	vɚ33	vɚ33	v ɚ/ə ³³	712
+602	Tuoluo	carry (shoulder)	vɚ33	vɚ33	v ə˞ ³³	712
 603	Ega	carry (shoulder)	vɛ22	vɛ22	v ɛ ²²	712
 604	Jinman	carry (shoulder)	ve22	ve22	v e ²²	712
 605	Jinxing	carry (shoulder)	v33	v33	v/ʯ ³³	713
-606	Dashi	carry (shoulder)	(jɚ31)	jɚ31	j ɚ/ə ³¹	711
+606	Dashi	carry (shoulder)	(jɚ31)	jɚ31	j ə˞ ³¹	711
 607	Zhoucheng	carry (shoulder)	(jɛ21)	jɛ21	j ɛ ²¹	711
 608	Mazhelong	carry (shoulder)	pa21[/piɛ̃42]	pa21	p a ²¹	712
 609	Mazhelong	carry (shoulder)	pa21[/piɛ̃42]	piɛ̃42]	p i/j ɛ̃ ⁴²	711
@@ -604,9 +604,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 623	Ega	catch; capture	ka44	ka44	k a ⁴⁴	742
 624	Jinman	catch; capture	ka55	ka55	k a ⁵⁵	742
 625	Jinxing	catch; capture	ka44	ka44	k a ⁴⁴	742
-626	Dashi	catch; capture	kɚ44	kɚ44	k ɚ/ə ⁴⁴	742
+626	Dashi	catch; capture	kɚ44	kɚ44	k ə˞ ⁴⁴	742
 627	Zhoucheng	catch; capture	kɛ44	kɛ44	k ɛ ⁴⁴	742
-628	Mazhelong	catch; capture	kɚ44	kɚ44	k ɚ/ə ⁴⁴	742
+628	Mazhelong	catch; capture	kɚ44	kɚ44	k ə˞ ⁴⁴	742
 629	ProtoBai	cattle	ŋɯ1b	ŋɯ1b	ŋ ɯ 1b/¹	752
 630	Tuoluo	cattle	ŋe35	ŋe35	ŋ e ³⁵	752
 631	Gongxing	cattle	ŋe12	ŋe12	ŋ e ¹²	752
@@ -678,11 +678,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 697	Zhoucheng	chopsticks	tsv31	tsv31	ts v/ʯ ³¹	820
 698	Mazhelong	chopsticks	tsǝɯ21	tsǝɯ21	ts əɯ ²¹	820
 707	ProtoBai	classifier [back of firewood]	bjo2	bjo2	b j o ²	831
-708	Tuoluo	classifier [back of firewood]	vɚ33	vɚ33	v ɚ/ə ³³	831
+708	Tuoluo	classifier [back of firewood]	vɚ33	vɚ33	v ə˞ ³³	831
 709	Gongxing	classifier [back of firewood]	(Iæn42) (what consonant iss "I"?, should be checked in any case)	Iæn42)	I/j æ n ⁴²	831
 710	Enqi	classifier [back of firewood]	(Iæ43) (dito, GX)	Iæ43)	I/j æ ⁴³	831
 711	Jinxing	classifier [back of firewood]	v33	v33	v/ʯ ³³	832
-712	Dashi	classifier [back of firewood]	(jɚ42)	jɚ42	j ɚ/ə ⁴²	831
+712	Dashi	classifier [back of firewood]	(jɚ42)	jɚ42	j ə˞ ⁴²	831
 713	Mazhelong	classifier [back of firewood]	bi33	bi33	b i ³³	831
 714	ProtoBai	classifier [birds]	djɯ1	djɯ1	d j ɯ ¹	839
 715	Tuoluo	classifier [birds]	diɯ35	diɯ35	d i/j ɯ ³⁵	839
@@ -740,9 +740,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 767	Ega	classifier [room]	qa55	qa55	q a ⁵⁵	896
 768	Jinman	classifier [room]	qo55	qo55	q o ⁵⁵	896
 769	Jinxing	classifier [room]	kɛ̃55	kɛ̃55	k ɛ̃ ⁵⁵	896
-770	Dashi	classifier [room]	kɚ35	kɚ35	k ɚ/ə ³⁵	896
+770	Dashi	classifier [room]	kɚ35	kɚ35	k ə˞ ³⁵	896
 771	Zhoucheng	classifier [room]	kɛ55	kɛ55	k ɛ ⁵⁵	896
-772	Mazhelong	classifier [room]	kɚ̃55	kɚ̃55	k ɚ/ə̃ ⁵⁵	896
+772	Mazhelong	classifier [room]	kɚ̃55	kɚ̃55	k ə̃˞ ⁵⁵	896
 699	ProtoBai	classifier [sack of rice]	noŋ1b	noŋ1b	n o ŋ 1b/¹	907
 700	Tuoluo	classifier [sack of rice]	noŋ35	noŋ35	n o ŋ ³⁵	907
 701	Gongxing	classifier [sack of rice]	nõ12	nõ12	n õ ¹²	907
@@ -786,7 +786,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 805	Ega	cliffy; precipitous	tɕya55	tɕya55	tɕ y a ⁵⁵	950
 806	Jinman	cliffy; precipitous	tɕya55	tɕya55	tɕ y a ⁵⁵	950
 807	Jinxing	cliffy; precipitous	pʰiɛ55	pʰiɛ55	pʰ i/j ɛ ⁵⁵	949
-808	Dashi	cliffy; precipitous	pʰiɚ55	pʰiɚ55	pʰ i/j ɚ/ə ⁵⁵	949
+808	Dashi	cliffy; precipitous	pʰiɚ55	pʰiɚ55	pʰ i/j ə˞ ⁵⁵	949
 809	Zhoucheng	cliffy; precipitous	pʰiɛ55	pʰiɛ55	pʰ i/j ɛ ⁵⁵	949
 810	Mazhelong	cliffy; precipitous	[tǝɯ21]	tǝɯ21	t əɯ ²¹	952
 811	ProtoBai	close (the mouth)	me1a	me1a	m e 1a/¹	960
@@ -853,7 +853,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 872	Gongxing	compensate	bæ12	bæ12	b æ ¹²	1026
 873	Enqi	compensate	pæ21	pæ21	p æ ²¹	1026
 874	Jinxing	compensate	pa21	pa21	p a ²¹	1026
-875	Dashi	compensate	pɚ21	pɚ21	p ɚ/ə ²¹	1026
+875	Dashi	compensate	pɚ21	pɚ21	p ə˞ ²¹	1026
 876	Zhoucheng	compensate	pʰǝ42	pʰǝ42	pʰ ə ⁴²	1026
 877	Mazhelong	compensate	(tã42)	tã42	t ã ⁴²	1027
 878	ProtoBai	cook; boil	tsrɔ2	tsrɔ2	ts r ɔ ²	1035
@@ -883,7 +883,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 902	Jinxing	copper, bronze	[tṽ21]	tṽ21	t ṽ/ʯ̃ ²¹	1055
 903	Dashi	copper, bronze	[tõ21]	tõ21	t õ ²¹	1055
 904	Zhoucheng	copper, bronze	kɛ33	kɛ33	k ɛ ³³	1056
-905	Mazhelong	copper, bronze	kɚ̃33	kɚ̃33	k ɚ/ə̃ ³³	1056
+905	Mazhelong	copper, bronze	kɚ̃33	kɚ̃33	k ə̃˞ ³³	1056
 906	ProtoBai	corpse	tsʰoŋ1	tsʰoŋ1	tsʰ o ŋ ¹	1066
 907	Tuoluo	corpse	tsʰoŋ55	tsʰoŋ55	tsʰ o ŋ ⁵⁵	1066
 908	Gongxing	corpse	tsʰoŋ55	tsʰoŋ55	tsʰ o ŋ ⁵⁵	1066
@@ -908,7 +908,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 927	Ega	cry (verb or noun?, should be made clear later on)	qʰu44	qʰu44	qʰ u ⁴⁴	1086
 928	Jinman	cry (verb or noun?, should be made clear later on)	qʰo55	qʰo55	qʰ o ⁵⁵	1086
 929	Jinxing	cry (verb or noun?, should be made clear later on)	kʰou44	kʰou44	kʰ ou ⁴⁴	1086
-930	Dashi	cry (verb or noun?, should be made clear later on)	mɚ31	mɚ31	m ɚ/ə ³¹	1085
+930	Dashi	cry (verb or noun?, should be made clear later on)	mɚ31	mɚ31	m ə˞ ³¹	1085
 931	Zhoucheng	cry (verb or noun?, should be made clear later on)	kʰɑ44	kʰɑ44	kʰ ɑ ⁴⁴	1086
 932	Mazhelong	cry (verb or noun?, should be made clear later on)	kʰo44	kʰo44	kʰ o ⁴⁴	1086
 933	ProtoBai	curved; crooked; bent	kʰo4	kʰo4	kʰ o ⁴	1097
@@ -928,9 +928,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 947	Ega	cut (meat)	ɕa44	ɕa44	ɕ a ⁴⁴	1107
 948	Jinman	cut (meat)	ɕa55qa21	ɕa55qa21	ɕ a ⁵⁵ + q a ²¹	1107 1108
 949	Jinxing	cut (meat)	sa44	sa44	s a ⁴⁴	1107
-950	Dashi	cut (meat)	ʂʰɚ44	ʂʰɚ44	ʂʰ ɚ/ə ⁴⁴	1107
+950	Dashi	cut (meat)	ʂʰɚ44	ʂʰɚ44	ʂʰ ə˞ ⁴⁴	1107
 951	Zhoucheng	cut (meat)	sɛ44	sɛ44	s ɛ ⁴⁴	1107
-952	Mazhelong	cut (meat)	sɚ44	sɚ44	s ɚ/ə ⁴⁴	1107
+952	Mazhelong	cut (meat)	sɚ44	sɚ44	s ə˞ ⁴⁴	1107
 953	ProtoBai	cut up (vegetable)	tsʰuaŋ2	tsʰuaŋ2	tsʰ u/w a ŋ ²	1119
 954	Tuoluo	cut up (vegetable)	tsʰoŋ33	tsʰoŋ33	tsʰ o ŋ ³³	1119
 955	Gongxing	cut up (vegetable)	tsʰuaŋ22	tsʰuaŋ22	tsʰ u/w a ŋ ²²	1119
@@ -950,9 +950,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 969	Jinxing	cut/rip open	pʰa44	pʰa44	pʰ a ⁴⁴	1130
 970	Dashi	cut/rip open	pʰou33	pʰou33	pʰ ou ³³	1130
 971	Zhoucheng	cut/rip open	pʰɛ33	pʰɛ33	pʰ ɛ ³³	1130
-972	Mazhelong	cut/rip open	pʰɚ44	pʰɚ44	pʰ ɚ/ə ⁴⁴	1130
+972	Mazhelong	cut/rip open	pʰɚ44	pʰɚ44	pʰ ə˞ ⁴⁴	1130
 973	ProtoBai	dark	χɯ4	χɯ4	χ ɯ ⁴	1143
-974	Tuoluo	dark	[xɚ42]	xɚ42	x ɚ/ə ⁴²	1143
+974	Tuoluo	dark	[xɚ42]	xɚ42	x ə˞ ⁴²	1143
 975	Gongxing	dark	χe24	χe24	χ e ²⁴	1143
 976	Ega	dark	xɯ44	xɯ44	x ɯ ⁴⁴	1143
 977	Jinman	dark	a42pa42	a42pa42	a ⁴² + p a ⁴²	1144 1145
@@ -988,13 +988,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1007	Zhoucheng	dead	ɕi33	ɕi33	ɕ i ³³	1173
 1008	Mazhelong	dead	ɕi33	ɕi33	ɕ i ³³	1173
 1009	ProtoBai	deep	sʰreŋ1	sʰreŋ1	sʰ r e ŋ ¹	1184
-1010	Tuoluo	deep	ʂɚ̃55	ʂɚ̃55	ʂ ɚ/ə̃ ⁵⁵	1184
+1010	Tuoluo	deep	ʂɚ̃55	ʂɚ̃55	ʂ ə̃˞ ⁵⁵	1184
 1011	Gongxing	deep	ʂi55	ʂi55	ʂ i ⁵⁵	1184
 1012	Enqi	deep	sɿ24	sɿ24	s ɿ ²⁴	1184
 1013	Ega	deep	sɛ55	sɛ55	s ɛ ⁵⁵	1184
 1014	Jinman	deep	xõ55	xõ55	x õ ⁵⁵	1184
 1015	Jinxing	deep	san55	san55	s a n ⁵⁵	1184
-1016	Dashi	deep	ʂʰɚ55	ʂʰɚ55	ʂʰ ɚ/ə ⁵⁵	1184
+1016	Dashi	deep	ʂʰɚ55	ʂʰɚ55	ʂʰ ə˞ ⁵⁵	1184
 1017	Zhoucheng	deep	si55	si55	s i ⁵⁵	1184
 1018	Mazhelong	deep	sen55	sen55	s e n ⁵⁵	1184
 1019	ProtoBai	die	sji2	sji2	s j i ²	1195
@@ -1008,7 +1008,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1027	Zhoucheng	die	ɕi33	ɕi33	ɕ i ³³	1195
 1028	Mazhelong	die	ɕi33	ɕi33	ɕ i ³³	1195
 1029	ProtoBai	direction; orientation	pjɛ2	pjɛ2	p j ɛ ²	1206
-1030	Tuoluo	direction; orientation	fɚ33	fɚ33	f ɚ/ə ³³	1206
+1030	Tuoluo	direction; orientation	fɚ33	fɚ33	f ə˞ ³³	1206
 1031	Gongxing	direction; orientation	(ɢo12pʰu55)	ɢo12pʰu55	ɣ o ¹² + pʰ u ⁵⁵	1207 1206
 1032	Enqi	direction; orientation	fE22	fE22	f ᴇ/ɛ ²²	1206
 1033	Ega	direction; orientation	(pʰu55)	pʰu55	pʰ u ⁵⁵	1206
@@ -1018,7 +1018,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1037	Zhoucheng	direction; orientation	(po33)	po33	p o ³³	1206
 1038	Mazhelong	direction; orientation	[xõ33]	xõ33	x õ ³³	1207
 1039	ProtoBai	divide; share (things)	pjen1	pjen1	p j e n ¹	1221
-1040	Tuoluo	divide; share (things)	fɚ55	fɚ55	f ɚ/ə ⁵⁵	1218
+1040	Tuoluo	divide; share (things)	fɚ55	fɚ55	f ə˞ ⁵⁵	1218
 1041	Gongxing	divide; share (things)	pfũ55	pfũ55	pf ũ ⁵⁵	1218
 1042	Enqi	divide; share (things)	fE24	fE24	f ᴇ/ɛ ²⁴	1218
 1043	Ega	divide; share (things)	xuɛ55	xuɛ55	x u/w ɛ ⁵⁵	1219
@@ -1110,9 +1110,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1129	Ega	ear; spike	tɕya22	tɕya22	tɕ y a ²²	1316
 1130	Jinman	ear; spike	ʈõ22	ʈõ22	ʈ õ ²²	1317
 1131	Jinxing	ear; spike	tsuan33	tsuan33	ts u/w a n ³³	1315
-1132	Dashi	ear; spike	tʂuɚ̃33	tʂuɚ̃33	ʈʂ u/w ɚ̃/ə̃ ³³	1315
+1132	Dashi	ear; spike	tʂuɚ̃33	tʂuɚ̃33	ʈʂ u/w ə̃˞ ³³	1315
 1133	Zhoucheng	ear; spike	tsuɛ33	tsuɛ33	ts u/w ɛ ³³	1315
-1134	Mazhelong	ear; spike	tsuɚ33	tsuɚ33	ts u/w ɚ ³³	1315
+1134	Mazhelong	ear; spike	tsuɚ33	tsuɚ33	ts u/w ə˞ ³³	1315
 1135	ProtoBai	early	tsu2	tsu2	ts u ²	1326
 1136	Tuoluo	early	tɕyi33	tɕyi33	tɕ y/ɥ i ³³	1326
 1137	Gongxing	early	tɕy22	tɕy22	tɕ y ²²	1326
@@ -1219,7 +1219,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1238	Gongxing	excrement	ʂi22	ʂi22	ʂ i ²²	1451
 1239	Enqi	excrement	sɿ22	sɿ22	s ɿ ²²	1451
 1240	Ega	excrement	sɛ22	sɛ22	s ɛ ²²	1451
-1241	Jinman	excrement	ʂɚ22	ʂɚ22	ʂ ɚ/ə ²²	1451
+1241	Jinman	excrement	ʂɚ22	ʂɚ22	ʂ ə˞ ²²	1451
 1242	Jinxing	excrement	si33	si33	s i ³³	1451
 1243	Dashi	excrement	si33	si33	s i ³³	1451
 1244	Zhoucheng	excrement	si33	si33	s i ³³	1451
@@ -1245,7 +1245,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1264	Zhoucheng	far	tue33	tue33	t u/w e ³³	1473
 1265	Mazhelong	far	tsuen33	tsuen33	ts u/w e n ³³	1473
 1266	ProtoBai	fart	pʰjɛ3	pʰjɛ3	pʰ j ɛ ³	1484
-1267	Tuoluo	fart	fɚ21	fɚ21	f ɚ/ə ²¹	1484
+1267	Tuoluo	fart	fɚ21	fɚ21	f ə˞ ²¹	1484
 1268	Gongxing	fart	pfʰu55	pfʰu55	pfʰ u ⁵⁵	1484
 1269	Enqi	fart	fE43	fE43	f ᴇ/ɛ ⁴³	1484
 1270	Ega	fart	fɛ22	fɛ22	f ɛ ²²	1484
@@ -1281,11 +1281,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1300	Ega	fight	(so55qa21)	so55qa21	s o ⁵⁵ + q a ²¹	1519 1518
 1301	Jinman	fight	(so55qã42)	so55qã42	s o ⁵⁵ + q ã ⁴²	1519 1518
 1302	Jinxing	fight	tan44	tan44	t a n ⁴⁴	1518
-1303	Dashi	fight	tɚ̃44	tɚ̃44	t ɚ/ə̃ ⁴⁴	1518
+1303	Dashi	fight	tɚ̃44	tɚ̃44	t ə̃˞ ⁴⁴	1518
 1304	Zhoucheng	fight	tɛ44	tɛ44	t ɛ ⁴⁴	1518
-1305	Mazhelong	fight	tɚ̃44	tɚ̃44	t ɚ/ə̃ ⁴⁴	1518
+1305	Mazhelong	fight	tɚ̃44	tɚ̃44	t ə̃˞ ⁴⁴	1518
 1306	ProtoBai	fill (a bowl with rice)	qɯ1	qɯ1	q ɯ ¹	1532
-1307	Tuoluo	fill (a bowl with rice)	qɚ55	qɚ55	q ɚ/ə ⁵⁵	1532
+1307	Tuoluo	fill (a bowl with rice)	qɚ55	qɚ55	q ə˞ ⁵⁵	1532
 1308	Gongxing	fill (a bowl with rice)	qe55	qe55	q e ⁵⁵	1532
 1309	Enqi	fill (a bowl with rice)	qɯ24	qɯ24	q ɯ ²⁴	1532
 1310	Ega	fill (a bowl with rice)	qɯ55	qɯ55	q ɯ ⁵⁵	1532
@@ -1295,11 +1295,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1314	Zhoucheng	fill (a bowl with rice)	kɯ35	kɯ35	k ɯ ³⁵	1532
 1315	Mazhelong	fill (a bowl with rice)	kǝ55	kǝ55	k ə ⁵⁵	1532
 1316	ProtoBai	finger	hand+tsri2	sʰrɯ2+tsri2	sʰ r ɯ ² + ts r i ²	1543 1544
-1317	Tuoluo	finger	ɕɨɯ33tʂɚ33	ɕɨɯ33tʂɚ33	ɕ ɨ/j ɯ ³³ + ʈʂ ɚ/ə ³³	1543 1544
+1317	Tuoluo	finger	ɕɨɯ33tʂɚ33	ɕɨɯ33tʂɚ33	ɕ ɨ/j ɯ ³³ + ʈʂ ə˞ ³³	1543 1544
 1318	Gongxing	finger	ʂi22tʂi22	ʂi22tʂi22	ʂ i ²² + ʈʂ i ²²	1543 1544
 1319	Enqi	finger	ɕiɯ22tsɿ22	ɕiɯ22tsɿ22	ɕ i/j ɯ ²² + ts ɿ ²²	1543 1544
 1320	Ega	finger	ɕi22tsɛ22	ɕi22tsɛ22	ɕ i ²² + ts ɛ ²²	1543 1544
-1321	Jinman	finger	ɕi22tʂɚ22	ɕi22tʂɚ22	ɕ i ²² + ʈʂ ɚ/ə ²²	1543 1544
+1321	Jinman	finger	ɕi22tʂɚ22	ɕi22tʂɚ22	ɕ i ²² + ʈʂ ə˞ ²²	1543 1544
 1322	Jinxing	finger	sɯ33tsi33	sɯ33tsi33	s ɯ ³³ + ts i ³³	1543 1544
 1323	Dashi	finger	ʂɯ33ti31	ʂɯ33ti31	ʂ ɯ ³³ + t i ³¹	1543 1544
 1324	Zhoucheng	finger	sɯ33tsi33	sɯ33tsi33	s ɯ ³³ + ts i ³³	1543 1544
@@ -1343,13 +1343,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1362	Jinxing	five	ṽ33	ṽ33	ṽ/ʯ̃ ³³	1597
 1363	Dashi	five	õ33	õ33	õ ³³	1597
 1364	Zhoucheng	five	mu33	mu33	m u ³³	1599
-1365	Mazhelong	five	ŋ̍33 (added the character for vocalic consonants, not displayed in Wang 2006)	ŋ̍33	ŋ̍/ŋ */ə ŋ ³³	1598
+1365	Mazhelong	five	ŋ̍33 (added the character for vocalic consonants, not displayed in Wang 2006)	ŋ̍33	ŋ̍/ŋ Ø/ə ŋ ³³	1598
 1366	ProtoBai	fling; toss	sreŋ1	sreŋ1	s r e ŋ ¹	1609
-1367	Tuoluo	fling; toss	ʂɚ̃55	ʂɚ̃55	ʂ ɚ/ə̃ ⁵⁵	1609
+1367	Tuoluo	fling; toss	ʂɚ̃55	ʂɚ̃55	ʂ ə̃˞ ⁵⁵	1609
 1368	Gongxing	fling; toss	ʂi55	ʂi55	ʂ i ⁵⁵	1609
 1369	Enqi	fling; toss	sɿ24	sɿ24	s ɿ ²⁴	1609
 1370	Ega	fling; toss	sɛ55	sɛ55	s ɛ ⁵⁵	1609
-1371	Jinman	fling; toss	ʂɚ̃55	ʂɚ̃55	ʂ ɚ/ə̃ ⁵⁵	1609
+1371	Jinman	fling; toss	ʂɚ̃55	ʂɚ̃55	ʂ ə̃˞ ⁵⁵	1609
 1372	Jinxing	fling; toss	san55	san55	s a n ⁵⁵	1609
 1373	Dashi	fling; toss	(ju33)	ju33	j u ³³	1608
 1374	Mazhelong	fling; toss	[suɛ42]	suɛ42	s u/w ɛ ⁴²	1609
@@ -1364,7 +1364,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1383	Zhoucheng	float	pɯ21	pɯ21	p ɯ ²¹	1618
 1384	Mazhelong	float	pǝɯ21	pǝɯ21	p əɯ ²¹	1618
 1385	ProtoBai	fly	pje1	pje1	p j e ¹	1629
-1386	Tuoluo	fly	fɚ55	fɚ55	f ɚ/ə ⁵⁵	1629
+1386	Tuoluo	fly	fɚ55	fɚ55	f ə˞ ⁵⁵	1629
 1387	Gongxing	fly	pfu55	pfu55	pf u ⁵⁵	1629
 1388	Enqi	fly	fE24	fE24	f ᴇ/ɛ ²⁴	1629
 1389	Ega	fly	xuɛ55	xuɛ55	x u/w ɛ ⁵⁵	1630
@@ -1390,7 +1390,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1409	Ega	forest	dʑi42kɯ42	dʑi42kɯ42	dʑ i ⁴² + k ɯ ⁴²	1651 1653
 1410	Jinman	forest	ɖɯ42kɯ̃42	ɖɯ42kɯ̃42	ɖ ɯ ⁴² + k ɯ̃ ⁴²	1651 1653
 1411	Jinxing	forest	tsɯ31suɑ̃55	tsɯ31suɑ̃55	ts ɯ ³¹ + s u/w ɑ̃ ⁵⁵	1651 1654
-1412	Dashi	forest	tʂɯ21jɚ55	tʂɯ21jɚ55	ʈʂ ɯ ²¹ + j ɚ/ə ⁵⁵	1651 1652
+1412	Dashi	forest	tʂɯ21jɚ55	tʂɯ21jɚ55	ʈʂ ɯ ²¹ + j ə˞ ⁵⁵	1651 1652
 1413	Zhoucheng	forest	tsɯ31sua35	tsɯ31sua35	ts ɯ ³¹ + s u/w a ³⁵	1651 1654
 1414	Mazhelong	forest	ɕen55koŋ33	ɕen55koŋ33	ɕ e n ⁵⁵ + k o ŋ ³³	1655 1653
 1415	ProtoBai	four	sji4	sji4	s j i ⁴	1671
@@ -1417,7 +1417,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1436	Tuoluo	fraud	tɕɔ21	tɕɔ21	tɕ ɔ ²¹	1693
 1437	Enqi	fraud	(tɕia55a43tsi24)	tɕia55a43tsi24	tɕ i/j a ⁵⁵ + a ⁴³ + ts i ²⁴	1694 1695 1693
 1438	Ega	fraud	tɕa42	tɕa42	tɕ a ⁴²	1693
-1439	Jinman	fraud	(a42tʂɚ̃55)	a42tʂɚ̃55	a ⁴² + ʈʂ ɚ/ə̃ ⁵⁵	1695 1693
+1439	Jinman	fraud	(a42tʂɚ̃55)	a42tʂɚ̃55	a ⁴² + ʈʂ ə̃˞ ⁵⁵	1695 1693
 1440	Jinxing	fraud	tɕiɑ31	tɕiɑ31	tɕ i ɑ ³¹	1693
 1441	Dashi	fraud	tɕia31	tɕia31	tɕ i/j a ³¹	1693
 1442	Zhoucheng	fraud	tɕa31	tɕa31	tɕ a ³¹	1693
@@ -1441,7 +1441,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1460	Jinxing	frog	õ21(man55)	õ21	õ ²¹	1717
 1461	Dashi	frog	u31(mɚ55)	u31	u ³¹	1717
 1462	Zhoucheng	frog	ou21(mɛ31tsi33)	ou21	ou ²¹	1717
-1463	Mazhelong	frog	lv44ɛ33mɚ55tsi33	lv44ɛ33mɚ55tsi33	l v/ʯ ⁴⁴ + ɛ ³³ + m ɚ/ə ⁵⁵ + ts i ³³	1718 1717 1719 1720
+1463	Mazhelong	frog	lv44ɛ33mɚ55tsi33	lv44ɛ33mɚ55tsi33	l v/ʯ ⁴⁴ + ɛ ³³ + m ə˞ ⁵⁵ + ts i ³³	1718 1717 1719 1720
 1464	ProtoBai	frost	soŋ1	soŋ1	s o ŋ ¹	1731
 1465	Tuoluo	frost	ɕioŋ55	ɕioŋ55	ɕ i/j o ŋ ⁵⁵	1731
 1466	Gongxing	frost	soŋ55	soŋ55	s o ŋ ⁵⁵	1731
@@ -1494,7 +1494,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1513	Gongxing	ghost, spirit	tʂi22	tʂi22	ʈʂ i ²²	1784
 1514	Enqi	ghost, spirit	tsɿ22	tsɿ22	ts ɿ ²²	1784
 1515	Ega	ghost, spirit	tsɛ22	tsɛ22	ts ɛ ²²	1784
-1516	Jinman	ghost, spirit	tʂɚ22	tʂɚ22	ʈʂ ɚ/ə ²²	1784
+1516	Jinman	ghost, spirit	tʂɚ22	tʂɚ22	ʈʂ ə˞ ²²	1784
 1517	Jinxing	ghost, spirit	kv33	kv33	k v/ʯ ³³	1784
 1518	Dashi	ghost, spirit	ko33	ko33	k o ³³	1784
 1519	Zhoucheng	ghost, spirit	kv33	kv33	k v/ʯ ³³	1784
@@ -1532,7 +1532,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1551	ProtoBai	gold	tɕen1	tɕen1	tɕ e n ¹	1829
 1552	Tuoluo	gold	tɕien55	tɕien55	tɕ i/j e n ⁵⁵	1829
 1553	Gongxing	gold	tɕien55	tɕien55	tɕ i/j e n ⁵⁵	1829
-1554	Enqi	gold	tɕɨ24	tɕɨ24	tɕ ɨ/i ²⁴	1829
+1554	Enqi	gold	tɕɨ24	tɕɨ24	tɕ ɨ ²⁴	1829
 1555	Ega	gold	tɕi55	tɕi55	tɕ i ⁵⁵	1829
 1556	Jinman	gold	tɕĩ55	tɕĩ55	tɕ ĩ ⁵⁵	1829
 1557	Jinxing	gold	tɕien55	tɕien55	tɕ i/j e n ⁵⁵	1829
@@ -1586,9 +1586,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1605	Ega	guest	qʰa44	qʰa44	qʰ a ⁴⁴	1885
 1606	Jinman	guest	qʰa55	qʰa55	qʰ a ⁵⁵	1885
 1607	Jinxing	guest	kʰa44	kʰa44	kʰ a ⁴⁴	1885
-1608	Dashi	guest	kʰɚ44	kʰɚ44	kʰ ɚ/ə ⁴⁴	1885
+1608	Dashi	guest	kʰɚ44	kʰɚ44	kʰ ə˞ ⁴⁴	1885
 1609	Zhoucheng	guest	kʰɛ44	kʰɛ44	kʰ ɛ ⁴⁴	1885
-1610	Mazhelong	guest	kʰɚ44	kʰɚ44	kʰ ɚ/ə ⁴⁴	1885
+1610	Mazhelong	guest	kʰɚ44	kʰɚ44	kʰ ə˞ ⁴⁴	1885
 1611	ProtoBai	hair	ɕa	ɕa	ɕ a	1896
 1612	Tuoluo	hair	[diɯ35me55]	diɯ35me55	d i/j ɯ ³⁵ + m e ⁵⁵	1897 1898
 1613	Gongxing	hair	[di24miɛ12]	di24miɛ12	d i ²⁴ + m i/j ɛ ¹²	1897 1898
@@ -1759,9 +1759,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1778	Ega	horse	ma22	ma22	m a ²²	2085
 1779	Jinman	horse	mo22	mo22	m o ²²	2085
 1780	Jinxing	horse	man33	man33	m a n ³³	2085
-1781	Dashi	horse	mɚ33	mɚ33	m ɚ/ə ³³	2085
+1781	Dashi	horse	mɚ33	mɚ33	m ə˞ ³³	2085
 1782	Zhoucheng	horse	mɛ33	mɛ33	m ɛ ³³	2085
-1783	Mazhelong	horse	mɚ33	mɚ33	m ɚ/ə ³³	2085
+1783	Mazhelong	horse	mɚ33	mɚ33	m ə˞ ³³	2085
 1784	ProtoBai	hot	nje4	nje4	n j e ⁴	2096
 1785	Tuoluo	hot	jen42	jen42	j e n ⁴²	2096
 1786	Gongxing	hot	ɲi24	ɲi24	ɲ i ²⁴	2096
@@ -1800,9 +1800,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1819	Ega	hundred	pa44	pa44	p a ⁴⁴	2130
 1820	Jinman	hundred	pa55	pa55	p a ⁵⁵	2130
 1821	Jinxing	hundred	pa44	pa44	p a ⁴⁴	2130
-1822	Dashi	hundred	pɚ44	pɚ44	p ɚ/ə ⁴⁴	2130
+1822	Dashi	hundred	pɚ44	pɚ44	p ə˞ ⁴⁴	2130
 1823	Zhoucheng	hundred	pǝ44	pǝ44	p ə ⁴⁴	2130
-1824	Mazhelong	hundred	pɚ44	pɚ44	p ɚ/ə ⁴⁴	2130
+1824	Mazhelong	hundred	pɚ44	pɚ44	p ə˞ ⁴⁴	2130
 1825	ProtoBai	ice	sʰroŋ1	sʰroŋ1	sʰ r o ŋ ¹	2141
 1826	Tuoluo	ice	ɕioŋ55qa42	ɕioŋ55qa42	ɕ i/j o ŋ ⁵⁵ + q a ⁴²	2141 2145
 1827	Gongxing	ice	soŋ55ŋɛ24	soŋ55ŋɛ24	s o ŋ ⁵⁵ + ŋ ɛ ²⁴	2141 2144
@@ -1810,7 +1810,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1829	Ega	ice	ɕioŋ55	ɕioŋ55	ɕ i/j o ŋ ⁵⁵	2141
 1830	Jinman	ice	ɕiõ55	ɕiõ55	ɕ i õ ⁵⁵	2141
 1831	Jinxing	ice	sou55lou44pʰiɛ55	sou55lou44pʰiɛ55	s ou ⁵⁵ + l ou ⁴⁴ + pʰ i/j ɛ ⁵⁵	2141 2142 2143
-1832	Dashi	ice	ʂou55lou44pʰiɚ55	ʂou55lou44pʰiɚ55	ʂ ou ⁵⁵ + l ou ⁴⁴ + pʰ i/j ɚ/ə ⁵⁵	2141 2142 2143
+1832	Dashi	ice	ʂou55lou44pʰiɚ55	ʂou55lou44pʰiɚ55	ʂ ou ⁵⁵ + l ou ⁴⁴ + pʰ i/j ə˞ ⁵⁵	2141 2142 2143
 1833	Zhoucheng	ice	(tv21jɯ21)	tv21jɯ21	t v/ʯ ²¹ + j ɯ ²¹	2146 2143
 1834	Mazhelong	ice	ɕyɛ44pʰien33	ɕyɛ44pʰien33	ɕ y/ɥ ɛ ⁴⁴ + pʰ i/j e n ³³	2141 2143
 1835	ProtoBai	interest	bɯ1	bɯ1	b ɯ ¹	2163
@@ -1850,7 +1850,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1869	Zhoucheng	jar	ue21	ue21	u/w e ²¹	2195
 1870	Mazhelong	jar	a55ji21ven21	a55ji21ven21	a ⁵⁵ + j i ²¹ + v e n ²¹	2196 2197 2195
 1871	ProtoBai	kettle; pot	bjɛ4	bjɛ4	b j ɛ ⁴	2207
-1872	Tuoluo	kettle; pot	vɚ42	vɚ42	v ɚ/ə ⁴²	2207
+1872	Tuoluo	kettle; pot	vɚ42	vɚ42	v ə˞ ⁴²	2207
 1873	Gongxing	kettle; pot	bvu21	bvu21	b v u ²¹	2207
 1874	Enqi	kettle; pot	(la24)fE21	fE21	f ᴇ/ɛ ²¹	2207
 1875	Ega	kettle; pot	(li55ui42qʰo22)	li55ui42qʰo22	l i ⁵⁵ + u/w i ⁴² + qʰ o ²²	2206 2207 2205
@@ -1869,7 +1869,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1888	Zhoucheng	key	tsou42	tsou42	ts ou ⁴²	2218
 1889	Mazhelong	key	tsʰo42	tsʰo42	tsʰ o ⁴²	2218
 1890	ProtoBai	kneel	groŋ3	groŋ3	g r o ŋ ³	2235
-1891	Tuoluo	kneel	ʐɚ̃21	ʐɚ̃21	ʐ ɚ/ə̃ ²¹	2231
+1891	Tuoluo	kneel	ʐɚ̃21	ʐɚ̃21	ʐ ə̃˞ ²¹	2231
 1892	Gongxing	kneel	tʂi42	tʂi42	ʈʂ i ⁴²	2231
 1893	Enqi	kneel	dzɿ43	dzɿ43	dz ɿ ⁴³	2231
 1894	Ega	kneel	(tsɛ44kʰo44tsu21ko55)	tsɛ44kʰo44tsu21ko55	ts ɛ ⁴⁴ + kʰ o ⁴⁴ + ts u ²¹ + k o ⁵⁵	2232 2233 2231 2234
@@ -1923,7 +1923,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1942	Gongxing	lay (eggs)	sen42	sen42	s e n ⁴²	2291
 1943	Enqi	lay (eggs)	sE43	sE43	s ᴇ/ɛ ⁴³	2291
 1944	Ega	lay (eggs)	sɛ42	sɛ42	s ɛ ⁴²	2291
-1945	Jinman	lay (eggs)	sɚ̃42	sɚ̃42	s ɚ/ə̃ ⁴²	2291
+1945	Jinman	lay (eggs)	sɚ̃42	sɚ̃42	s ə̃˞ ⁴²	2291
 1946	Jinxing	lay (eggs)	sen42	sen42	s e n ⁴²	2291
 1947	Dashi	lay (eggs)	ɕien42	ɕien42	ɕ i/j e n ⁴²	2291
 1948	Zhoucheng	lay (eggs)	se42	se42	s e ⁴²	2291
@@ -1966,7 +1966,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 1985	Jinxing	leg	kou44	kou44	k ou ⁴⁴	2342
 1986	Dashi	leg	kou44	kou44	k ou ⁴⁴	2342
 1987	Zhoucheng	leg	ko44	ko44	k o ⁴⁴	2342
-1988	Mazhelong	leg	kʰuɚ21/ko44	kʰuɚ21	kʰ u/w ɚ ²¹	2342
+1988	Mazhelong	leg	kʰuɚ21/ko44	kʰuɚ21	kʰ u/w ə˞ ²¹	2342
 1989	Mazhelong	leg	kʰuɚ21/ko44	ko44	k o ⁴⁴	2342
 1990	ProtoBai	leopard; panther	baŋ4	baŋ4	b a ŋ ⁴	2355
 1991	Gongxing	leopard; panther	pi42	pi42	p i ⁴²	2355
@@ -1981,7 +1981,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2000	Gongxing	lick, lap	dʐi22	dʐi22	ɖʐ i ²²	2364
 2001	Enqi	lick, lap	dzɿ22	dzɿ22	dz ɿ ²²	2364
 2002	Ega	lick, lap	tsɛ22	tsɛ22	ts ɛ ²²	2364
-2003	Jinman	lick, lap	ʐɚ̃22	ʐɚ̃22	ʐ ɚ/ə̃ ²²	2364
+2003	Jinman	lick, lap	ʐɚ̃22	ʐɚ̃22	ʐ ə̃˞ ²²	2364
 2004	Jinxing	lick, lap	tsi33	tsi33	ts i ³³	2364
 2005	Dashi	lick, lap	tʂi33	tʂi33	ʈʂ i ³³	2364
 2006	Zhoucheng	lick, lap	tsi33	tsi33	ts i ³³	2364
@@ -2012,9 +2012,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2012	Ega	light	tɕʰa55	tɕʰa55	tɕʰ a ⁵⁵	2395
 2013	Jinman	light	ʈʰã55	ʈʰã55	ʈʰ ã ⁵⁵	2395
 2014	Jinxing	light	tsʰan55	tsʰan55	tsʰ a n ⁵⁵	2395
-2015	Dashi	light	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ɚ/ə̃ ⁵⁵	2395
+2015	Dashi	light	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ə̃˞ ⁵⁵	2395
 2016	Zhoucheng	light	tsʰɛ55	tsʰɛ55	tsʰ ɛ ⁵⁵	2395
-2017	Mazhelong	light	tsʰɚ55	tsʰɚ55	tsʰ ɚ/ə ⁵⁵	2395
+2017	Mazhelong	light	tsʰɚ55	tsʰɚ55	tsʰ ə˞ ⁵⁵	2395
 2018	ProtoBai	listen	tɕʰæ1	tɕʰæ1	tɕʰ æ ¹	2406
 2019	Tuoluo	listen	tɕʰiaŋ55	tɕʰiaŋ55	tɕʰ i/j a ŋ ⁵⁵	2406
 2020	Gongxing	listen	tɕʰian55	tɕʰian55	tɕʰ i/j a n ⁵⁵	2406
@@ -2022,9 +2022,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2022	Ega	listen	tɕʰia55	tɕʰia55	tɕʰ i/j a ⁵⁵	2406
 2023	Jinman	listen	tɕʰiã55	tɕʰiã55	tɕʰ i ã ⁵⁵	2406
 2024	Jinxing	listen	tɕʰian55	tɕʰian55	tɕʰ i/j a n ⁵⁵	2406
-2025	Dashi	listen	tɕʰiɚ̃55	tɕʰiɚ̃55	tɕʰ i/j ɚ̃/ə̃ ⁵⁵	2406
+2025	Dashi	listen	tɕʰiɚ̃55	tɕʰiɚ̃55	tɕʰ i/j ə̃˞ ⁵⁵	2406
 2026	Zhoucheng	listen	tɕʰiɛ55	tɕʰiɛ55	tɕʰ i/j ɛ ⁵⁵	2406
-2027	Mazhelong	listen	tɕʰɚ̃55	tɕʰɚ̃55	tɕʰ ɚ/ə̃ ⁵⁵	2406
+2027	Mazhelong	listen	tɕʰɚ̃55	tɕʰɚ̃55	tɕʰ ə̃˞ ⁵⁵	2406
 2028	ProtoBai	live; reside	ko5	ko5	k o ⁵	2417
 2029	Tuoluo	live; reside	ky21	ky21	k y ²¹	2417
 2030	Gongxing	live; reside	kao42	kao42	k ao ⁴²	2417
@@ -2066,12 +2066,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2066	Zhoucheng	long	tsou21	tsou21	ts ou ²¹	2450
 2067	Mazhelong	long	tsoŋ21	tsoŋ21	ts o ŋ ²¹	2450
 2068	ProtoBai	lose (a game)	tsʰreŋ1	tsʰreŋ1	tsʰ r e ŋ ¹	2463
-2069	Tuoluo	lose (a game)	tʂʰɚ̃55[//ʂv55]	tʂʰɚ̃55	ʈʂʰ ɚ/ə̃ ⁵⁵	2461
+2069	Tuoluo	lose (a game)	tʂʰɚ̃55[//ʂv55]	tʂʰɚ̃55	ʈʂʰ ə̃˞ ⁵⁵	2461
 2070	Tuoluo	lose (a game)	tʂʰɚ̃55[//ʂv55]	ʂv55]	ʂ v/ʯ ⁵⁵	2461
 2071	Gongxing	lose (a game)	tʂi22	tʂi22	ʈʂ i ²²	2461
 2072	Enqi	lose (a game)	tsʰɿ24	tsʰɿ24	tsʰ ɿ ²⁴	2461
 2073	Ega	lose (a game)	(a42ɣo21)	a42ɣo21	a ⁴² + ɣ o ²¹	2462 2461
-2074	Jinman	lose (a game)	tʂɚ55	tʂɚ55	ʈʂ ɚ/ə ⁵⁵	2461
+2074	Jinman	lose (a game)	tʂɚ55	tʂɚ55	ʈʂ ə˞ ⁵⁵	2461
 2075	Jinxing	lose (a game)	tsʰi55	tsʰi55	tsʰ i ⁵⁵	2461
 2076	Dashi	lose (a game)	[ʂo35]	ʂo35	ʂ o ³⁵	2461
 2077	Zhoucheng	lose (a game)	tsʰi55	tsʰi55	tsʰ i ⁵⁵	2461
@@ -2083,8 +2083,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2083	Ega	loud	(do42)	do42	d o ⁴²	2475
 2084	Jinman	loud	ma21	ma21	m a ²¹	2474
 2085	Jinxing	loud	man21	man21	m a n ²¹	2474
-2086	Dashi	loud	mɚ21	mɚ21	m ɚ/ə ²¹	2474
-2087	Mazhelong	loud	mɚ̃21	mɚ̃21	m ɚ/ə̃ ²¹	2474
+2086	Dashi	loud	mɚ21	mɚ21	m ə˞ ²¹	2474
+2087	Mazhelong	loud	mɚ̃21	mɚ̃21	m ə̃˞ ²¹	2474
 2088	ProtoBai	louse	ɕi4	ɕi4	ɕ i ⁴	2484
 2089	Tuoluo	louse	ɕi42	ɕi42	ɕ i ⁴²	2484
 2090	Gongxing	louse	ɕi24	ɕi24	ɕ i ²⁴	2484
@@ -2171,7 +2171,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2171	Enqi	mare	mE22mo22	mE22mo22	m ᴇ/ɛ ²² + m o ²²	2576 2577
 2172	Jinman	mare	mo22mo22	mo22mo22	m o ²² + m o ²²	2577 2576
 2173	Jinxing	mare	man33mõ33	man33mõ33	m a n ³³ + m õ ³³	2576 2577
-2174	Dashi	mare	mɚ33mõ33	mɚ33mõ33	m ɚ/ə ³³ + m õ ³³	2576 2577
+2174	Dashi	mare	mɚ33mõ33	mɚ33mõ33	m ə˞ ³³ + m õ ³³	2576 2577
 2175	ProtoBai	mare	ɕa4	ɕa4	ɕ a ⁴	2578
 2176	Tuoluo	mare	ɕia42	ɕia42	ɕ i/j a ⁴²	2578
 2177	Gongxing	mare	ɕia24	ɕia24	ɕ i/j a ²⁴	2578
@@ -2187,9 +2187,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2187	Ega	meat	qa21	qa21	q a ²¹	2600
 2188	Jinman	meat	qa21	qa21	q a ²¹	2600
 2189	Jinxing	meat	ka21	ka21	k a ²¹	2600
-2190	Dashi	meat	kɚ21	kɚ21	k ɚ/ə ²¹	2600
+2190	Dashi	meat	kɚ21	kɚ21	k ə˞ ²¹	2600
 2191	Zhoucheng	meat	kɛ21	kɛ21	k ɛ ²¹	2600
-2192	Mazhelong	meat	kɚ21	kɚ21	k ɚ/ə ²¹	2600
+2192	Mazhelong	meat	kɚ21	kɚ21	k ə˞ ²¹	2600
 2193	ProtoBai	medicine	jɔ4	jɔ4	j ɔ ⁴	2611
 2194	Tuoluo	medicine	jɔ42	jɔ42	j ɔ ⁴²	2611
 2195	Gongxing	medicine	ju42	ju42	j u ⁴²	2611
@@ -2255,7 +2255,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2255	Enqi	mountain	ɕio43 (general)/ɕiE24 (snow mountain)	ɕio43	ɕ i/j o ⁴³	2685
 2256	Enqi	mountain	ɕio43 (general)/ɕiE24 (snow mountain)	ɕiE24	ɕ i ᴇ/ɛ ²⁴	2685
 2257	Ega	mountain	sɛ55	sɛ55	s ɛ ⁵⁵	2685
-2258	Jinman	mountain	ʂɚ̃55	ʂɚ̃55	ʂ ɚ/ə̃ ⁵⁵	2685
+2258	Jinman	mountain	ʂɚ̃55	ʂɚ̃55	ʂ ə̃˞ ⁵⁵	2685
 2259	Jinxing	mountain	sṽ42	sṽ42	s ṽ/ʯ̃ ⁴²	2685
 2260	Dashi	mountain	ʂo42	ʂo42	ʂ o ⁴²	2685
 2261	Zhoucheng	mountain	sv53	sv53	s v/ʯ ⁵³	2685
@@ -2291,7 +2291,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2291	Zhoucheng	muddy; turbid	tsɯ42	tsɯ42	ts ɯ ⁴²	2720
 2292	Mazhelong	muddy; turbid	tsʰv42	tsʰv42	tsʰ v/ʯ ⁴²	2720
 2293	ProtoBai	muntjac; barking deer	bjo4	bjo4	b j o ⁴	2731
-2294	Tuoluo	muntjac; barking deer	vɚ42	vɚ42	v ɚ/ə ⁴²	2731
+2294	Tuoluo	muntjac; barking deer	vɚ42	vɚ42	v ə˞ ⁴²	2731
 2295	Gongxing	muntjac; barking deer	bvu21	bvu21	b v u ²¹	2731
 2296	Enqi	muntjac; barking deer	(tʰia55)vo21	vo21	v o ²¹	2731
 2297	Ega	muntjac; barking deer	wa42	wa42	w a ⁴²	2731
@@ -2299,13 +2299,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2299	Zhoucheng	muntjac; barking deer	v42	v42	v/ʯ ⁴²	2732
 2300	Mazhelong	muntjac; barking deer	v42	v42	v/ʯ ⁴²	2732
 2301	ProtoBai	mushroom	sreŋ2	sreŋ2	s r e ŋ ²	2740
-2302	Tuoluo	mushroom	ʂɚ̃33	ʂɚ̃33	ʂ ɚ/ə̃ ³³	2740
+2302	Tuoluo	mushroom	ʂɚ̃33	ʂɚ̃33	ʂ ə̃˞ ³³	2740
 2303	Gongxing	mushroom	ʂẽ22	ʂẽ22	ʂ ẽ ²²	2740
 2304	Enqi	mushroom	ɕiæ	ɕiæ	ɕ i/j æ	2740
 2305	Ega	mushroom	sɛ22	sɛ22	s ɛ ²²	2740
-2306	Jinman	mushroom	ʂɚ̃22	ʂɚ̃22	ʂ ɚ/ə̃ ²²	2740
+2306	Jinman	mushroom	ʂɚ̃22	ʂɚ̃22	ʂ ə̃˞ ²²	2740
 2307	Jinxing	mushroom	san33	san33	s a n ³³	2740
-2308	Dashi	mushroom	(tɕʰɚ55mu33)	tɕʰɚ55mu33	tɕʰ ɚ/ə ⁵⁵ + m u ³³	2740 2741
+2308	Dashi	mushroom	(tɕʰɚ55mu33)	tɕʰɚ55mu33	tɕʰ ə˞ ⁵⁵ + m u ³³	2740 2741
 2309	Zhoucheng	mushroom	sɛ33	sɛ33	s ɛ ³³	2740
 2310	Mazhelong	mushroom	sen33	sen33	s e n ³³	2740
 2311	Tuoluo	musk	ji21ɕioŋ55	ji21ɕioŋ55	j i ²¹ + ɕ i/j o ŋ ⁵⁵	2754 2755
@@ -2326,7 +2326,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2326	Jinxing	nail	sɯ33ka44	sɯ33ka44	s ɯ ³³ + k a ⁴⁴	2771 2772
 2327	Dashi	nail	ʂɯ33ka44	ʂɯ33ka44	ʂ ɯ ³³ + k a ⁴⁴	2771 2772
 2328	Zhoucheng	nail	sɯ33ka44	sɯ33ka44	s ɯ ³³ + k a ⁴⁴	2771 2772
-2329	Mazhelong	nail	sǝɯ33kɚ44	sǝɯ33kɚ44	s əɯ ³³ + k ɚ/ə ⁴⁴	2771 2772
+2329	Mazhelong	nail	sǝɯ33kɚ44	sǝɯ33kɚ44	s əɯ ³³ + k ə˞ ⁴⁴	2771 2772
 2330	ProtoBai	nail; tack	tɕæŋ1	tɕæŋ1	tɕ æ ŋ ¹	2791
 2331	Tuoluo	nail; tack	tɕaŋ55	tɕaŋ55	tɕ a ŋ ⁵⁵	2791
 2332	Gongxing	nail; tack	(tsen22zaŋ24)	tsen22zaŋ24	ts e n ²² + z a ŋ ²⁴	2791 2793
@@ -2334,9 +2334,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2334	Ega	nail; tack	[ti55tsi22]	ti55tsi22	t i ⁵⁵ + ts i ²²	2792 2791
 2335	Jinman	nail; tack	(tɕʰi55tsẽ22)	tɕʰi55tsẽ22	tɕʰ i ⁵⁵ + ts ẽ ²²	2791 2794
 2336	Jinxing	nail; tack	tɕian55	tɕian55	tɕ i/j a n ⁵⁵	2791
-2337	Dashi	nail; tack	tɕiɚ̃35	tɕiɚ̃35	tɕ i/j ɚ̃/ə̃ ³⁵	2791
+2337	Dashi	nail; tack	tɕiɚ̃35	tɕiɚ̃35	tɕ i/j ə̃˞ ³⁵	2791
 2338	Zhoucheng	nail; tack	tɕiɛ55	tɕiɛ55	tɕ i/j ɛ ⁵⁵	2791
-2339	Mazhelong	nail; tack	tɕiɚ55	tɕiɚ55	tɕ i/j ɚ/ə ⁵⁵	2791
+2339	Mazhelong	nail; tack	tɕiɚ55	tɕiɚ55	tɕ i/j ə˞ ⁵⁵	2791
 2340	ProtoBai	name	mjæ1	mjæ1	m j æ ¹	2805
 2341	Tuoluo	name	ɲua55	ɲua55	ɲ u/w a ⁵⁵	2806
 2342	Gongxing	name	ɲuɛ55	ɲuɛ55	ɲ u/w ɛ ⁵⁵	2806
@@ -2344,19 +2344,19 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2344	Ega	name	ɲya55	ɲya55	ɲ y a ⁵⁵	2806
 2345	Jinman	name	ɲo55	ɲo55	ɲ o ⁵⁵	2806
 2346	Jinxing	name	mian55	mian55	m i/j a n ⁵⁵	2805
-2347	Dashi	name	miɚ35	miɚ35	m i/j ɚ/ə ³⁵	2805
+2347	Dashi	name	miɚ35	miɚ35	m i/j ə˞ ³⁵	2805
 2348	Zhoucheng	name	miɛ35	miɛ35	m i/j ɛ ³⁵	2805
-2349	Mazhelong	name	miɚ55	miɚ55	m i/j ɚ/ə ⁵⁵	2805
+2349	Mazhelong	name	miɚ55	miɚ55	m i/j ə˞ ⁵⁵	2805
 2350	ProtoBai	narrow	træ4	træ4	ʈ æ ⁴	2816
 2351	Tuoluo	narrow	tia42	tia42	t i/j a ⁴²	2816
 2352	Gongxing	narrow	tsæ24	tsæ24	ts æ ²⁴	2816
 2353	Enqi	narrow	tia55	tia55	t i/j a ⁵⁵	2816
 2354	Ega	narrow	(so55)tɛ44	tɛ44	t ɛ ⁴⁴	2816
-2355	Jinman	narrow	tʂɚ55	tʂɚ55	ʈʂ ɚ/ə ⁵⁵	2816
+2355	Jinman	narrow	tʂɚ55	tʂɚ55	ʈʂ ə˞ ⁵⁵	2816
 2356	Jinxing	narrow	tsa44	tsa44	ts a ⁴⁴	2816
-2357	Dashi	narrow	tʂɚ33	tʂɚ33	ʈʂ ɚ/ə ³³	2816
+2357	Dashi	narrow	tʂɚ33	tʂɚ33	ʈʂ ə˞ ³³	2816
 2358	Zhoucheng	narrow	tsɛ44	tsɛ44	ts ɛ ⁴⁴	2816
-2359	Mazhelong	narrow	tsɚ44	tsɚ44	ts ɚ/ə ⁴⁴	2816
+2359	Mazhelong	narrow	tsɚ44	tsɚ44	ts ə˞ ⁴⁴	2816
 2360	ProtoBai	near	dzren2	dzren2	ɖʐ e n ²	2827
 2361	Tuoluo	near	jen33	jen33	j e n ³³	2827
 2362	Gongxing	near	dʑien22	dʑien22	dʑ i/j e n ²²	2827
@@ -2367,13 +2367,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2367	Zhoucheng	near	tɕie33	tɕie33	tɕ i/j e ³³	2827
 2368	Mazhelong	near	tɕen33	tɕen33	tɕ e n ³³	2827
 2369	ProtoBai	needle	tsreŋ1	tsreŋ1	ts r e ŋ ¹	2837
-2370	Tuoluo	needle	tʂɚ̃55	tʂɚ̃55	ʈʂ ɚ/ə̃ ⁵⁵	2837
-2371	Gongxing	needle	tʂɚ55	tʂɚ55	ʈʂ ɚ/ə ⁵⁵	2837
+2370	Tuoluo	needle	tʂɚ̃55	tʂɚ̃55	ʈʂ ə̃˞ ⁵⁵	2837
+2371	Gongxing	needle	tʂɚ55	tʂɚ55	ʈʂ ə˞ ⁵⁵	2837
 2372	Enqi	needle	tsɿ24	tsɿ24	ts ɿ ²⁴	2837
 2373	Ega	needle	tsẽ55	tsẽ55	ts ẽ ⁵⁵	2837
-2374	Jinman	needle	tʂɚ̃55	tʂɚ̃55	ʈʂ ɚ/ə̃ ⁵⁵	2837
+2374	Jinman	needle	tʂɚ̃55	tʂɚ̃55	ʈʂ ə̃˞ ⁵⁵	2837
 2375	Jinxing	needle	tsan55	tsan55	ts a n ⁵⁵	2837
-2376	Dashi	needle	tʂmɚ̃35	tʂmɚ̃35	ʈʂ m ɚ/ə̃ ³⁵	2837
+2376	Dashi	needle	tʂmɚ̃35	tʂmɚ̃35	ʈʂ m ə̃˞ ³⁵	2837
 2377	Zhoucheng	needle	tsi35	tsi35	ts i ³⁵	2837
 2378	Mazhelong	needle	tsen55	tsen55	ts e n ⁵⁵	2837
 2379	ProtoBai	nephew	di4	di4	d i ⁴	2848
@@ -2452,7 +2452,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2452	Zhoucheng	onion, scallion	tsʰi55[/fi31tsʰu31]	fi31tsʰu31]	f i ³¹ + tsʰ u ³¹	2929 2928
 2453	Mazhelong	onion, scallion	tsʰoŋ55	tsʰoŋ55	tsʰ o ŋ ⁵⁵	2928
 2454	ProtoBai	open	qʰɯ̃1	qʰɯ̃1	qʰ ɯ̃ ¹	2941
-2455	Tuoluo	open	qʰɚ̃55	qʰɚ̃55	qʰ ɚ/ə̃ ⁵⁵	2941
+2455	Tuoluo	open	qʰɚ̃55	qʰɚ̃55	qʰ ə̃˞ ⁵⁵	2941
 2456	Gongxing	open	qʰe55	qʰe55	qʰ e ⁵⁵	2941
 2457	Enqi	open	qʰɯ24	qʰɯ24	qʰ ɯ ²⁴	2941
 2458	Ega	open	qʰɯ55	qʰɯ55	qʰ ɯ ⁵⁵	2941
@@ -2466,7 +2466,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2466	Gongxing	outside	uaŋ24	uaŋ24	u/w a ŋ ²⁴	2952
 2467	Enqi	outside	ua55	ua55	u/w a ⁵⁵	2952
 2468	Ega	outside	ŋua44	ŋua44	ŋ u/w a ⁴⁴	2952
-2469	Jinman	outside	(pɯ55ʐɚ21nõ22)	pɯ55ʐɚ21nõ22	p ɯ ⁵⁵ + ʐ ɚ/ə ²¹ + n õ ²²	2953 2954 2952
+2469	Jinman	outside	(pɯ55ʐɚ21nõ22)	pɯ55ʐɚ21nõ22	p ɯ ⁵⁵ + ʐ ə˞ ²¹ + n õ ²²	2953 2954 2952
 2470	Jinxing	outside	uɑ̃44	uɑ̃44	u/w ɑ̃ ⁴⁴	2952
 2471	Dashi	outside	uaŋ33	uaŋ33	u/w a ŋ ³³	2952
 2472	Zhoucheng	outside	ua44	ua44	u/w a ⁴⁴	2952
@@ -2498,11 +2498,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2498	Zhoucheng	paint	tɕʰi55	tɕʰi55	tɕʰ i ⁵⁵	2990
 2499	Mazhelong	paint	tɕʰi44	tɕʰi44	tɕʰ i ⁴⁴	2990
 2500	ProtoBai	paper	tsri2	tsri2	ts r i ²	2998
-2501	Tuoluo	paper	tʂɚ̃33	tʂɚ̃33	ʈʂ ɚ/ə̃ ³³	2998
+2501	Tuoluo	paper	tʂɚ̃33	tʂɚ̃33	ʈʂ ə̃˞ ³³	2998
 2502	Gongxing	paper	tʂi22	tʂi22	ʈʂ i ²²	2998
 2503	Enqi	paper	tsɿ22	tsɿ22	ts ɿ ²²	2998
 2504	Ega	paper	tsɛ22	tsɛ22	ts ɛ ²²	2998
-2505	Jinman	paper	tʂɚ̃22	tʂɚ̃22	ʈʂ ɚ/ə̃ ²²	2998
+2505	Jinman	paper	tʂɚ̃22	tʂɚ̃22	ʈʂ ə̃˞ ²²	2998
 2506	Jinxing	paper	tsi33	tsi33	ts i ³³	2998
 2507	Dashi	paper	tʂi33	tʂi33	ʈʂ i ³³	2998
 2508	Zhoucheng	paper	tsi33	tsi33	ts i ³³	2998
@@ -2604,11 +2604,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2604	Zhoucheng	pheasant	(je21ke35)	je21ke35	j e ²¹ + k e ³⁵	3107 3106
 2605	Mazhelong	pheasant	(koŋ42ke55/tien33)	tien33)	t i/j e n ³³	3106
 2606	ProtoBai	pick up	dzri4	dzri4	ɖʐ i ⁴	3117
-2607	Tuoluo	pick up	ʐɚ42	ʐɚ42	ʐ ɚ/ə ⁴²	3117
+2607	Tuoluo	pick up	ʐɚ42	ʐɚ42	ʐ ə˞ ⁴²	3117
 2608	Gongxing	pick up	dʐi21	dʐi21	ɖʐ i ²¹	3117
 2609	Enqi	pick up	tsɿ21	tsɿ21	ts ɿ ²¹	3117
 2610	Ega	pick up	tsɛ42	tsɛ42	ts ɛ ⁴²	3117
-2611	Jinman	pick up	tʂɚ42	tʂɚ42	ʈʂ ɚ/ə ⁴²	3117
+2611	Jinman	pick up	tʂɚ42	tʂɚ42	ʈʂ ə˞ ⁴²	3117
 2612	Jinxing	pick up	tsa42	tsa42	ts a ⁴²	3117
 2613	Dashi	pick up	tʂi42	tʂi42	ʈʂ i ⁴²	3117
 2614	Zhoucheng	pick up	tsi42	tsi42	ts i ⁴²	3117
@@ -2620,9 +2620,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2620	Ega	pick up (food with chopstick)	qa42	qa42	q a ⁴²	3128
 2621	Jinman	pick up (food with chopstick)	qa55	qa55	q a ⁵⁵	3128
 2622	Jinxing	pick up (food with chopstick)	ka42	ka42	k a ⁴²	3128
-2623	Dashi	pick up (food with chopstick)	kɚ42	kɚ42	k ɚ/ə ⁴²	3128
+2623	Dashi	pick up (food with chopstick)	kɚ42	kɚ42	k ə˞ ⁴²	3128
 2624	Zhoucheng	pick up (food with chopstick)	kɛ42	kɛ42	k ɛ ⁴²	3128
-2625	Mazhelong	pick up (food with chopstick)	kʰɚ42	kʰɚ42	kʰ ɚ/ə ⁴²	3128
+2625	Mazhelong	pick up (food with chopstick)	kʰɚ42	kʰɚ42	kʰ ə˞ ⁴²	3128
 2626	ProtoBai	pick up (food with chopstick) [fasten the belt]	qʰoŋ1	qʰoŋ1	qʰ o ŋ ¹	3139
 2627	Tuoluo	pick up (food with chopstick) [fasten the belt]	kʰo55	kʰo55	kʰ o ⁵⁵	3139
 2628	Gongxing	pick up (food with chopstick) [fasten the belt]	qʰao55	qʰao55	qʰ ao ⁵⁵	3139
@@ -2654,13 +2654,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2654	Zhoucheng	pillar	tsɯ33	tsɯ33	ts ɯ ³³	3161
 2655	Mazhelong	pillar	dzǝɯ33	dzǝɯ33	dz əɯ ³³	3161
 2656	ProtoBai	pillow	tsren2	tsren2	ts r e n ²	3172
-2657	Tuoluo	pillow	tʂɚ̃33(diɯ35)	tʂɚ̃33	ʈʂ ɚ/ə̃ ³³	3172
+2657	Tuoluo	pillow	tʂɚ̃33(diɯ35)	tʂɚ̃33	ʈʂ ə̃˞ ³³	3172
 2658	Gongxing	pillow	tʂi22(di12)	tʂi22	ʈʂ i ²²	3172
 2659	Enqi	pillow	tsɿ22(tiǝ21)	tsɿ22	ts ɿ ²²	3172
 2660	Ega	pillow	tsɛ22(tɕi21)	tsɛ22	ts ɛ ²²	3172
-2661	Jinman	pillow	tʂɚ22(ʈɯ21)	tʂɚ22	ʈʂ ɚ/ə ²²	3172
+2661	Jinman	pillow	tʂɚ22(ʈɯ21)	tʂɚ22	ʈʂ ə˞ ²²	3172
 2662	Jinxing	pillow	tsi33(tǝ31)	tsi33	ts i ³³	3172
-2663	Dashi	pillow	tʂɚ33(ti31pu33)	tʂɚ33	ʈʂ ɚ/ə ³³	3172
+2663	Dashi	pillow	tʂɚ33(ti31pu33)	tʂɚ33	ʈʂ ə˞ ³³	3172
 2664	Zhoucheng	pillow	tsi33(tɯ21)	tsi33	ts i ³³	3172
 2665	Mazhelong	pillow	tsen33(tǝɯ21)	tsen33	ts e n ³³	3172
 2666	ProtoBai	pine	zroŋ1	zroŋ1	z r o ŋ ¹	3184
@@ -2686,9 +2686,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2686	Gongxing	piss; pee	ʂi22	ʂi22	ʂ i ²²	3205
 2687	Enqi	piss; pee	ɕɯ22	ɕɯ22	ɕ ɯ ²²	3205
 2688	Ega	piss; pee	sɛ22	sɛ22	s ɛ ²²	3205
-2689	Jinman	piss; pee	ʂɚ22	ʂɚ22	ʂ ɚ/ə ²²	3205
+2689	Jinman	piss; pee	ʂɚ22	ʂɚ22	ʂ ə˞ ²²	3205
 2690	Zhoucheng	piss; pee	si33	si33	s i ³³	3205
-2691	Mazhelong	piss; pee	ɕɚ̃55	ɕɚ̃55	ɕ ɚ/ə̃ ⁵⁵	3205
+2691	Mazhelong	piss; pee	ɕɚ̃55	ɕɚ̃55	ɕ ə̃˞ ⁵⁵	3205
 2692	ProtoBai	plank; board	pæn2	pæn2	p æ n ²	3214
 2693	Tuoluo	plank; board	paŋ33	paŋ33	p a ŋ ³³	3214
 2694	Gongxing	plank; board	pan22	pan22	p a n ²²	3214
@@ -2696,9 +2696,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2696	Ega	plank; board	pa22 (Wang 2006 has: pa225, probably a mistake)	pa22	p a ²²	3214
 2697	Jinman	plank; board	põ42	põ42	p õ ⁴²	3214
 2698	Jinxing	plank; board	pan33	pan33	p a n ³³	3214
-2699	Dashi	plank; board	pɚ̃33	pɚ̃33	p ɚ/ə̃ ³³	3214
+2699	Dashi	plank; board	pɚ̃33	pɚ̃33	p ə̃˞ ³³	3214
 2700	Zhoucheng	plank; board	pɛ33	pɛ33	p ɛ ³³	3214
-2701	Mazhelong	plank; board	pɚ̃33	pɚ̃33	p ɚ/ə̃ ³³	3214
+2701	Mazhelong	plank; board	pɚ̃33	pɚ̃33	p ə̃˞ ³³	3214
 2702	ProtoBai	plough; till	tso4	tso4	ts o ⁴	3225
 2703	Tuoluo	plough; till	tsu42	tsu42	ts u ⁴²	3225
 2704	Gongxing	plough; till	tsu24	tsu24	ts u ²⁴	3225
@@ -2743,9 +2743,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2743	Ega	price	qa423	qa423	q a 423/⁴³	3274
 2744	Jinman	price	qa42	qa42	q a ⁴²	3274
 2745	Jinxing	price	ka42	ka42	k a ⁴²	3274
-2746	Dashi	price	kɚ42	kɚ42	k ɚ/ə ⁴²	3274
+2746	Dashi	price	kɚ42	kɚ42	k ə˞ ⁴²	3274
 2747	Zhoucheng	price	kɛ42	kɛ42	k ɛ ⁴²	3274
-2748	Mazhelong	price	kɚ42	kɚ42	k ɚ/ə ⁴²	3274
+2748	Mazhelong	price	kɚ42	kɚ42	k ə˞ ⁴²	3274
 2749	ProtoBai	pull (a quilt over oneself)	tʰa4	tʰa4	tʰ a ⁴	3285
 2750	Tuoluo	pull (a quilt over oneself)	tʰɔ42	tʰɔ42	tʰ ɔ ⁴²	3285
 2751	Gongxing	pull (a quilt over oneself)	tʰa24	tʰa24	tʰ a ²⁴	3285
@@ -2817,13 +2817,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2817	Zhoucheng	read	ɣɯ42	ɣɯ42	ɣ ɯ ⁴²	3351
 2818	Mazhelong	read	[tʰou42]	tʰou42	tʰ ou ⁴²	3353
 2819	ProtoBai	real	tsreŋ1	tsreŋ1	ts r e ŋ ¹	3362
-2820	Tuoluo	real	tʂɚ̃55	tʂɚ̃55	ʈʂ ɚ/ə̃ ⁵⁵	3362
+2820	Tuoluo	real	tʂɚ̃55	tʂɚ̃55	ʈʂ ə̃˞ ⁵⁵	3362
 2821	Gongxing	real	tʂẽ12	tʂẽ12	ʈʂ ẽ ¹²	3362
 2822	Enqi	real	tsɿ24	tsɿ24	ts ɿ ²⁴	3362
 2823	Ega	real	tsɛ55	tsɛ55	ts ɛ ⁵⁵	3362
-2824	Jinman	real	tʂɚ̃55	tʂɚ̃55	ʈʂ ɚ/ə̃ ⁵⁵	3362
+2824	Jinman	real	tʂɚ̃55	tʂɚ̃55	ʈʂ ə̃˞ ⁵⁵	3362
 2825	Jinxing	real	tsan55	tsan55	ts a n ⁵⁵	3362
-2826	Dashi	real	tʂɚ̃35	tʂɚ̃35	ʈʂ ɚ/ə̃ ³⁵	3362
+2826	Dashi	real	tʂɚ̃35	tʂɚ̃35	ʈʂ ə̃˞ ³⁵	3362
 2827	Zhoucheng	real	tsi35	tsi35	ts i ³⁵	3362
 2828	Mazhelong	real	tsen55	tsen55	ts e n ⁵⁵	3362
 2829	ProtoBai	red	tʰræ4	tʰræ4	tʰ r æ ⁴	3373
@@ -2833,7 +2833,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2833	Ega	red	tɕʰa44	tɕʰa44	tɕʰ a ⁴⁴	3373
 2834	Jinman	red	ʈʰa55	ʈʰa55	ʈʰ a ⁵⁵	3373
 2835	Jinxing	red	tsʰa44	tsʰa44	tsʰ a ⁴⁴	3373
-2836	Dashi	red	tʂʰɚ44	tʂʰɚ44	ʈʂʰ ɚ/ə ⁴⁴	3373
+2836	Dashi	red	tʂʰɚ44	tʂʰɚ44	ʈʂʰ ə˞ ⁴⁴	3373
 2837	Zhoucheng	red	tsʰɛ44	tsʰɛ44	tsʰ ɛ ⁴⁴	3373
 2838	Mazhelong	red	[xoŋ33]	xoŋ33	x o ŋ ³³	3374
 2839	ProtoBai	resin, colophony	mɛ1a	mɛ1a	m ɛ 1a/¹	3384
@@ -2855,7 +2855,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2855	Jinxing	return	jɑ44	jɑ44	j ɑ ⁴⁴	3397
 2856	Dashi	return	ja44	ja44	j a ⁴⁴	3397
 2857	Zhoucheng	return	(jo31)	jo31	j o ³¹	3397
-2858	Mazhelong	return	(xɚ31tiã55)	xɚ31tiã55	x ɚ/ə ³¹ + t i ã ⁵⁵	3398 3399
+2858	Mazhelong	return	(xɚ31tiã55)	xɚ31tiã55	x ə˞ ³¹ + t i ã ⁵⁵	3398 3399
 2859	ProtoBai	rice	mǝ2	mǝ2	m ə ²	3409
 2860	Tuoluo	rice	mi33	mi33	m i ³³	3409
 2861	Gongxing	rice	mi22	mi22	m i ²²	3409
@@ -2971,7 +2971,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 2971	Zhoucheng	salty	tsʰou31	tsʰou31	tsʰ ou ³¹	3525
 2972	Mazhelong	salty	kʰǝɯ33	kʰǝɯ33	kʰ əɯ ³³	3525
 2973	ProtoBai	sand	sʰrɔ1	sʰrɔ1	sʰ r ɔ ¹	3536
-2974	Tuoluo	sand	ɕɨo55	ɕɨo55	ɕ i/j o ⁵⁵	3536
+2974	Tuoluo	sand	ɕɨo55	ɕɨo55	ɕ ɨ/j o ⁵⁵	3536
 2975	Gongxing	sand	sao55	sao55	s ao ⁵⁵	3536
 2976	Enqi	sand	ɕio24	ɕio24	ɕ i/j o ²⁴	3536
 2977	Ega	sand	ɕio55mi22	ɕio55mi22	ɕ i/j o ⁵⁵ + m i ²²	3536 3537
@@ -3002,9 +3002,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3002	Ega	scale	qa44	qa44	q a ⁴⁴	3566
 3003	Jinman	scale	qa55	qa55	q a ⁵⁵	3566
 3004	Jinxing	scale	ka44	ka44	k a ⁴⁴	3566
-3005	Dashi	scale	kɚ44	kɚ44	k ɚ/ə ⁴⁴	3566
+3005	Dashi	scale	kɚ44	kɚ44	k ə˞ ⁴⁴	3566
 3006	Zhoucheng	scale	kɛ44	kɛ44	k ɛ ⁴⁴	3566
-3007	Mazhelong	scale	kɚ44	kɚ44	k ɚ/ə ⁴⁴	3566
+3007	Mazhelong	scale	kɚ44	kɚ44	k ə˞ ⁴⁴	3566
 3008	ProtoBai	scar	tsuŋ1	tsuŋ1	ts u ŋ ¹	3576
 3009	Tuoluo	scar	tsvŋ55	tsvŋ55	ts v/ʯ ŋ ⁵⁵	3576
 3010	Gongxing	scar	(qæ24)	qæ24	q æ ²⁴	3576
@@ -3030,11 +3030,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3030	Ega	scissor	qa42	qa42	q a ⁴²	3601
 3031	Jinman	scissor	qa55	qa55	q a ⁵⁵	3601
 3032	Jinxing	scissor	ka42	ka42	k a ⁴²	3601
-3033	Dashi	scissor	kɚ42	kɚ42	k ɚ/ə ⁴²	3601
+3033	Dashi	scissor	kɚ42	kɚ42	k ə˞ ⁴²	3601
 3034	Zhoucheng	scissor	kɛ42	kɛ42	k ɛ ⁴²	3601
 3035	Mazhelong	scissor	tsʰɛ42	tsʰɛ42	tsʰ ɛ ⁴²	3601
 3036	ProtoBai	scoop up (water); ladle out	qɯ1	qɯ1	q ɯ ¹	3612
-3037	Tuoluo	scoop up (water); ladle out	qɚ55	qɚ55	q ɚ/ə ⁵⁵	3612
+3037	Tuoluo	scoop up (water); ladle out	qɚ55	qɚ55	q ə˞ ⁵⁵	3612
 3038	Gongxing	scoop up (water); ladle out	qe55	qe55	q e ⁵⁵	3612
 3039	Enqi	scoop up (water); ladle out	qɯ24	qɯ24	q ɯ ²⁴	3612
 3040	Ega	scoop up (water); ladle out	qɯ55	qɯ55	q ɯ ⁵⁵	3612
@@ -3082,7 +3082,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3082	Zhoucheng	seep [sweep]	[so33]	so33	s o ³³	3656
 3083	Mazhelong	seep [sweep]	[sǝɯ33]	sǝɯ33	s əɯ ³³	3656
 3084	ProtoBai	sell	ɢɯ1	ɢɯ1	ɣ ɯ ¹	3667
-3085	Tuoluo	sell	ʁɚ35	ʁɚ35	ʁ ɚ/ə ³⁵	3668
+3085	Tuoluo	sell	ʁɚ35	ʁɚ35	ʁ ə˞ ³⁵	3668
 3086	Gongxing	sell	ɢe12	ɢe12	ɣ e ¹²	3667
 3087	Enqi	sell	qɯ21	qɯ21	q ɯ ²¹	3667
 3088	Ega	sell	qɯ21	qɯ21	q ɯ ²¹	3667
@@ -3108,9 +3108,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3108	Ega	shadow	qa22	qa22	q a ²²	3689
 3109	Jinman	shadow	qã22	qã22	q ã ²²	3689
 3110	Jinxing	shadow	kɛ̃33	kɛ̃33	k ɛ̃ ³³	3689
-3111	Dashi	shadow	kɚ̃33	kɚ̃33	k ɚ/ə̃ ³³	3689
+3111	Dashi	shadow	kɚ̃33	kɚ̃33	k ə̃˞ ³³	3689
 3112	Zhoucheng	shadow	(zi21tsʰɛ55)	zi21tsʰɛ55	z i ²¹ + tsʰ ɛ ⁵⁵	3690 3689
-3113	Mazhelong	shadow	kɚ̃33	kɚ̃33	k ɚ/ə̃ ³³	3689
+3113	Mazhelong	shadow	kɚ̃33	kɚ̃33	k ə̃˞ ³³	3689
 3114	ProtoBai	sharp	ji3	ji3	j i ³	3701
 3115	Tuoluo	sharp	ji21	ji21	j i ²¹	3701
 3116	Gongxing	sharp	ʑi42	ʑi42	ʑ i ⁴²	3703
@@ -3128,9 +3128,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3128	Ega	shave (the head)	(ɕia44)	ɕia44	ɕ i/j a ⁴⁴	3712
 3129	Jinman	shave (the head)	(ɕiu44)	ɕiu44	ɕ i u ⁴⁴	3713
 3130	Jinxing	shave (the head)	tɕian31	tɕian31	tɕ i/j a n ³¹	3712
-3131	Dashi	shave (the head)	tɕiɚ̃21	tɕiɚ̃21	tɕ i/j ɚ̃/ə̃ ²¹	3712
+3131	Dashi	shave (the head)	tɕiɚ̃21	tɕiɚ̃21	tɕ i/j ə̃˞ ²¹	3712
 3132	Zhoucheng	shave (the head)	tɕiɛ31	tɕiɛ31	tɕ i/j ɛ ³¹	3712
-3133	Mazhelong	shave (the head)	tɕiɚ̃21	tɕiɚ̃21	tɕ i/j ɚ̃/ə̃ ²¹	3712
+3133	Mazhelong	shave (the head)	tɕiɚ̃21	tɕiɚ̃21	tɕ i/j ə̃˞ ²¹	3712
 3134	ProtoBai	sheep (general)	njo1	njo1	n j o ¹	3723
 3135	Tuoluo	sheep (general)	joŋ35	joŋ35	j o ŋ ³⁵	3723
 3136	Gongxing	sheep (general)	joŋ12	joŋ12	j o ŋ ¹²	3723
@@ -3226,9 +3226,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3226	Ega	slanting; learning	qʰua55	qʰua55	qʰ u/w a ⁵⁵	3825
 3227	Jinman	slanting; learning	qʰue55	qʰue55	qʰ u/w e ⁵⁵	3825
 3228	Jinxing	slanting; learning	[pʰiɛ55]	pʰiɛ55	pʰ i/j ɛ ⁵⁵	3824
-3229	Dashi	slanting; learning	[pʰiɚ55]	pʰiɚ55	pʰ i/j ɚ/ə ⁵⁵	3824
+3229	Dashi	slanting; learning	[pʰiɚ55]	pʰiɚ55	pʰ i/j ə˞ ⁵⁵	3824
 3230	Zhoucheng	slanting; learning	[uɛ35]	uɛ35	u/w ɛ ³⁵	3825
-3231	Mazhelong	slanting; learning	kʰuɚ55	kʰuɚ55	kʰ u/w ɚ ⁵⁵	3825
+3231	Mazhelong	slanting; learning	kʰuɚ55	kʰuɚ55	kʰ u/w ə˞ ⁵⁵	3825
 3232	ProtoBai	smoke	fire+sjen1	xui2+sjen1	x u/w i ² + s j e n ¹	3834 3835
 3233	Tuoluo	smoke	xue33ɕien55	xue33ɕien55	x u/w e ³³ + ɕ i/j e n ⁵⁵	3834 3835
 3234	Gongxing	smoke	xui22ɕi55	xui22ɕi55	x u/w i ²² + ɕ i ⁵⁵	3834 3835
@@ -3246,9 +3246,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3246	Ega	smooth	pa21	pa21	p a ²¹	3855
 3247	Jinman	smooth	pã21	pã21	p ã ²¹	3855
 3248	Jinxing	smooth	pan21	pan21	p a n ²¹	3855
-3249	Dashi	smooth	pɚ̃21	pɚ̃21	p ɚ/ə̃ ²¹	3855
+3249	Dashi	smooth	pɚ̃21	pɚ̃21	p ə̃˞ ²¹	3855
 3250	Zhoucheng	smooth	pɛ21	pɛ21	p ɛ ²¹	3855
-3251	Mazhelong	smooth	pɚ̃21	pɚ̃21	p ɚ/ə̃ ²¹	3855
+3251	Mazhelong	smooth	pɚ̃21	pɚ̃21	p ə̃˞ ²¹	3855
 3252	ProtoBai	snake	pu2	pu2	p u ²	3867
 3253	Tuoluo	snake	(qɔ44)pɯ33	pɯ33	p ɯ ³³	3867
 3254	Gongxing	snake	(qe55)pu22	pu22	p u ²²	3867
@@ -3257,11 +3257,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3257	Jinman	snake	(ko55)pu22	pu22	p u ²²	3867
 3258	Mazhelong	snake	(ko55ku22)	ko55ku22	k o ⁵⁵ + k u ²²	3869 3866
 3259	ProtoBai	snake	kʰro2	kʰro2	kʰ r o ²	3866
-3260	Tuoluo	snake	tʂʰɚ̃33	tʂʰɚ̃33	ʈʂʰ ɚ/ə̃ ³³	3866
+3260	Tuoluo	snake	tʂʰɚ̃33	tʂʰɚ̃33	ʈʂʰ ə̃˞ ³³	3866
 3261	Gongxing	snake	tʂʰi22	tʂʰi22	ʈʂʰ i ²²	3866
 3262	Enqi	snake	tsʰɿ22	tsʰɿ22	tsʰ ɿ ²²	3866
 3263	Ega	snake	ʃʰɛ22	ʃʰɛ22	ʃʰ ɛ ²²	3866
-3264	Jinman	snake	tɕʰiɚ̃22	tɕʰiɚ̃22	tɕʰ i/j ɚ̃/ə̃ ²²	3866
+3264	Jinman	snake	tɕʰiɚ̃22	tɕʰiɚ̃22	tɕʰ i/j ə̃˞ ²²	3866
 3265	Jinxing	snake	kʰv33	kʰv33	kʰ v/ʯ ³³	3866
 3266	Dashi	snake	kʰo33	kʰo33	kʰ o ³³	3866
 3267	Zhoucheng	snake	kʰv33	kʰv33	kʰ v/ʯ ³³	3866
@@ -3285,7 +3285,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3285	Jinxing	soak; steep	(pʰɑ44)	pʰɑ44	pʰ ɑ ⁴⁴	3899
 3286	Dashi	soak; steep	tsi21	tsi21	ts i ²¹	3896
 3287	Zhoucheng	soak; steep	tsi21	tsi21	ts i ²¹	3896
-3288	Mazhelong	soak; steep	(ɣɚ44)	ɣɚ44	ɣ ɚ/ə ⁴⁴	3896
+3288	Mazhelong	soak; steep	(ɣɚ44)	ɣɚ44	ɣ ə˞ ⁴⁴	3896
 3289	ProtoBai	soft	pʰæ1	pʰæ1	pʰ æ ¹	3907
 3290	Tuoluo	soft	pʰa55	pʰa55	pʰ a ⁵⁵	3907
 3291	Gongxing	soft	pʰæ55	pʰæ55	pʰ æ ⁵⁵	3907
@@ -3293,9 +3293,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3293	Ega	soft	pʰa55	pʰa55	pʰ a ⁵⁵	3907
 3294	Jinman	soft	pʰa55pʰa55	pʰa55pʰa55	pʰ a ⁵⁵ + pʰ a ⁵⁵	3907 3908
 3295	Jinxing	soft	pʰa55	pʰa55	pʰ a ⁵⁵	3907
-3296	Dashi	soft	pʰɚ55	pʰɚ55	pʰ ɚ/ə ⁵⁵	3907
+3296	Dashi	soft	pʰɚ55	pʰɚ55	pʰ ə˞ ⁵⁵	3907
 3297	Zhoucheng	soft	pʰɛ55	pʰɛ55	pʰ ɛ ⁵⁵	3907
-3298	Mazhelong	soft	pʰɚ55	pʰɚ55	pʰ ɚ/ə ⁵⁵	3907
+3298	Mazhelong	soft	pʰɚ55	pʰɚ55	pʰ ə˞ ⁵⁵	3907
 3299	ProtoBai	soil; earth	tʰu2	tʰu2	tʰ u ²	3922
 3300	ProtoBai	soil; earth	nɛ1b	nɛ1b	n ɛ 1b/¹	3921
 3301	Tuoluo	soil; earth	tʰoŋ33	tʰoŋ33	tʰ o ŋ ³³	3922
@@ -3304,14 +3304,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3304	Ega	soil; earth	nɛ215	nɛ215	n ɛ 215/²¹	3921
 3305	Jinman	soil; earth	ne21	ne21	n e ²¹	3921
 3306	Jinxing	soil; earth	tʰu33	tʰu33	tʰ u ³³	3922
-3307	Dashi	soil; earth	(pʰɚ55le21)	pʰɚ55le21	pʰ ɚ/ə ⁵⁵ + l e ²¹	3919 3920
+3307	Dashi	soil; earth	(pʰɚ55le21)	pʰɚ55le21	pʰ ə˞ ⁵⁵ + l e ²¹	3919 3920
 3308	Zhoucheng	soil; earth	tʰu33	tʰu33	tʰ u ³³	3922
 3309	Mazhelong	soil; earth	ne42	ne42	n e ⁴²	3921
 3310	ProtoBai	soldier	kroŋ1	kroŋ1	k r o ŋ ¹	3934
 3311	Tuoluo	soldier	tʂẽ55	tʂẽ55	ʈʂ ẽ ⁵⁵	3932
 3312	Enqi	soldier	(næ24tsi22)	næ24tsi22	n æ ²⁴ + ts i ²²	3933 3932
 3313	Ega	soldier	tse55	tse55	ts e ⁵⁵	3932
-3314	Jinman	soldier	tʂɚ̃55	tʂɚ̃55	ʈʂ ɚ/ə̃ ⁵⁵	3932
+3314	Jinman	soldier	tʂɚ̃55	tʂɚ̃55	ʈʂ ə̃˞ ⁵⁵	3932
 3315	Jinxing	soldier	kṽ55	kṽ55	k ṽ/ʯ̃ ⁵⁵	3932
 3316	Dashi	soldier	kõ55	kõ55	k õ ⁵⁵	3932
 3317	Zhoucheng	soldier	kv35	kv35	k v/ʯ ³⁵	3932
@@ -3332,9 +3332,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3332	Ega	sound	tɕʰia55	tɕʰia55	tɕʰ i/j a ⁵⁵	3953
 3333	Jinman	sound	ʈã55	ʈã55	ʈ ã ⁵⁵	3953
 3334	Jinxing	sound	tsʰan55	tsʰan55	tsʰ a n ⁵⁵	3953
-3335	Dashi	sound	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ɚ/ə̃ ⁵⁵	3953
+3335	Dashi	sound	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ə̃˞ ⁵⁵	3953
 3336	Zhoucheng	sound	tsʰɛ55	tsʰɛ55	tsʰ ɛ ⁵⁵	3953
-3337	Mazhelong	sound	tsʰɚ55	tsʰɚ55	tsʰ ɚ/ə ⁵⁵	3953
+3337	Mazhelong	sound	tsʰɚ55	tsʰɚ55	tsʰ ə˞ ⁵⁵	3953
 3338	ProtoBai	soup	χæn1	χæn1	χ æ n ¹	3964
 3339	Tuoluo	soup	xaŋ55	xaŋ55	x a ŋ ⁵⁵	3964
 3340	Gongxing	soup	han55	han55	h a n ⁵⁵	3964
@@ -3342,7 +3342,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3342	Ega	soup	xã55	xã55	x ã ⁵⁵	3964
 3343	Jinman	soup	xã55	xã55	x ã ⁵⁵	3964
 3344	Jinxing	soup	xan55	xan55	x a n ⁵⁵	3964
-3345	Dashi	soup	xɚ̃55	xɚ̃55	x ɚ/ə̃ ⁵⁵	3964
+3345	Dashi	soup	xɚ̃55	xɚ̃55	x ə̃˞ ⁵⁵	3964
 3346	Zhoucheng	soup	xɛ55	xɛ55	x ɛ ⁵⁵	3964
 3347	Mazhelong	soup	(tsi55)	tsi55	ts i ⁵⁵	3965
 3348	ProtoBai	sour	sʰuaŋ1	sʰuaŋ1	sʰ u/w a ŋ ¹	3975
@@ -3365,7 +3365,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3365	Mazhelong	speech; words; language	(ɣo21)	ɣo21	ɣ o ²¹	3989
 3366	ProtoBai	spit (noun or verb?)	tsʰri1	tsʰri1	tsʰ r i ¹	3996
 3367	Tuoluo	spit (noun or verb?)	tɕʰi42(/fɚ55tʰɔ21)	tɕʰi42	tɕʰ i ⁴²	3996
-3368	Tuoluo	spit (noun or verb?)	tɕʰi42(/fɚ55tʰɔ21)	fɚ55tʰɔ21)	f ɚ/ə ⁵⁵ + tʰ ɔ ²¹	3997 3996
+3368	Tuoluo	spit (noun or verb?)	tɕʰi42(/fɚ55tʰɔ21)	fɚ55tʰɔ21)	f ə˞ ⁵⁵ + tʰ ɔ ²¹	3997 3996
 3369	Gongxing	spit (noun or verb?)	(pfu12tʰua42)	pfu12tʰua42	pf u ¹² + tʰ u/w a ⁴²	3997 3996
 3370	Enqi	spit (noun or verb?)	(fE24tʰo43)	fE24tʰo43	f ᴇ/ɛ ²⁴ + tʰ o ⁴³	3997 3996
 3371	Ega	spit (noun or verb?)	(fɛ55tʰo42)	fɛ55tʰo42	f ɛ ⁵⁵ + tʰ o ⁴²	3997 3996
@@ -3391,9 +3391,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3391	Ega	star	ɕia55	ɕia55	ɕ i/j a ⁵⁵	4023
 3392	Jinman	star	ɕiã55	ɕiã55	ɕ i ã ⁵⁵	4023
 3393	Jinxing	star	ɕian55	ɕian55	ɕ i/j a n ⁵⁵	4023
-3394	Dashi	star	ɕiɚ̃55	ɕiɚ̃55	ɕ i/j ɚ̃/ə̃ ⁵⁵	4023
+3394	Dashi	star	ɕiɚ̃55	ɕiɚ̃55	ɕ i/j ə̃˞ ⁵⁵	4023
 3395	Zhoucheng	star	ɕiɛ55	ɕiɛ55	ɕ i/j ɛ ⁵⁵	4023
-3396	Mazhelong	star	ɕɚ̃55	ɕɚ̃55	ɕ ɚ/ə̃ ⁵⁵	4023
+3396	Mazhelong	star	ɕɚ̃55	ɕɚ̃55	ɕ ə̃˞ ⁵⁵	4023
 3397	ProtoBai	steam	drɯ̃1	drɯ̃1	d r ɯ̃ ¹	4034
 3398	Tuoluo	steam	dĩ55	dĩ55	d ĩ ⁵⁵	4034
 3399	Gongxing	steam	dzẽ12	dzẽ12	dz ẽ ¹²	4034
@@ -3470,11 +3470,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3470	Zhoucheng	stir-fry; stir	tsʰu33	tsʰu33	tsʰ u ³³	4112
 3471	Mazhelong	stir-fry; stir	tsʰu33	tsʰu33	tsʰ u ³³	4112
 3472	ProtoBai	stomach	r-wu4	r-wu4	r/w u ⁴	4123
-3473	Tuoluo	stomach	ʐɚ42	ʐɚ42	ʐ ɚ/ə ⁴²	4124
+3473	Tuoluo	stomach	ʐɚ42	ʐɚ42	ʐ ə˞ ⁴²	4124
 3474	Gongxing	stomach	ʐi22	ʐi22	ʐ i ²²	4124
 3475	Enqi	stomach	zɿ21	zɿ21	z ɿ ²¹	4124
 3476	Ega	stomach	zɛ22	zɛ22	z ɛ ²²	4124
-3477	Jinman	stomach	ʐɚ42	ʐɚ42	ʐ ɚ/ə ⁴²	4124
+3477	Jinman	stomach	ʐɚ42	ʐɚ42	ʐ ə˞ ⁴²	4124
 3478	Jinxing	stomach	v42 [/uei55]	v42	v/ʯ ⁴²	4125
 3479	Jinxing	stomach	v42 [/uei55]	uei55]	u/w ei ⁵⁵	4123
 3480	Dashi	stomach	[uei55]]	uei55]	u/w ei ⁵⁵	4123
@@ -3518,11 +3518,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3518	Zhoucheng	straw or palm-bark rain cape	pi21?	pi21?	p i ²¹	4165
 3519	Mazhelong	straw or palm-bark rain cape	bi21	bi21	b i ²¹	4165
 3520	ProtoBai	stretch out (the arm)	tsʰren2	tsʰren2	tsʰ r e n ²	4176
-3521	Tuoluo	stretch out (the arm)	tʂʰɚ̃33	tʂʰɚ̃33	ʈʂʰ ɚ/ə̃ ³³	4176
-3522	Gongxing	stretch out (the arm)	tʂʰɚ̃22	tʂʰɚ̃22	ʈʂʰ ɚ/ə̃ ²²	4176
+3521	Tuoluo	stretch out (the arm)	tʂʰɚ̃33	tʂʰɚ̃33	ʈʂʰ ə̃˞ ³³	4176
+3522	Gongxing	stretch out (the arm)	tʂʰɚ̃22	tʂʰɚ̃22	ʈʂʰ ə̃˞ ²²	4176
 3523	Enqi	stretch out (the arm)	tsʰɿ22	tsʰɿ22	tsʰ ɿ ²²	4176
 3524	Ega	stretch out (the arm)	tsʰɛ22	tsʰɛ22	tsʰ ɛ ²²	4176
-3525	Jinman	stretch out (the arm)	tɕʰɚ̃22	tɕʰɚ̃22	tɕʰ ɚ/ə̃ ²²	4176
+3525	Jinman	stretch out (the arm)	tɕʰɚ̃22	tɕʰɚ̃22	tɕʰ ə̃˞ ²²	4176
 3526	Zhoucheng	stretch out (the arm)	tʰa55	tʰa55	tʰ a ⁵⁵	4176
 3527	Mazhelong	stretch out (the arm)	tsʰen33	tsʰen33	tsʰ e n ³³	4176
 3528	ProtoBai	stroke; touch	mɔ4	mɔ4	m ɔ ⁴	4185
@@ -3564,13 +3564,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3564	Zhoucheng	sweat	ŋa21	ŋa21	ŋ a ²¹	4216
 3565	Mazhelong	sweat	ɣaŋ21	ɣaŋ21	ɣ a ŋ ²¹	4217
 3566	ProtoBai	swell	tsʰreŋ1	tsʰreŋ1	tsʰ r e ŋ ¹	4227
-3567	Tuoluo	swell	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ɚ/ə̃ ⁵⁵	4227
-3568	Gongxing	swell	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ɚ/ə̃ ⁵⁵	4227
+3567	Tuoluo	swell	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ə̃˞ ⁵⁵	4227
+3568	Gongxing	swell	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ə̃˞ ⁵⁵	4227
 3569	Enqi	swell	tsʰɿ24	tsʰɿ24	tsʰ ɿ ²⁴	4227
 3570	Ega	swell	tsʰɛ55	tsʰɛ55	tsʰ ɛ ⁵⁵	4227
-3571	Jinman	swell	tʂʰɚ55	tʂʰɚ55	ʈʂʰ ɚ/ə ⁵⁵	4227
+3571	Jinman	swell	tʂʰɚ55	tʂʰɚ55	ʈʂʰ ə˞ ⁵⁵	4227
 3572	Jinxing	swell	tsʰan55	tsʰan55	tsʰ a n ⁵⁵	4227
-3573	Dashi	swell	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ɚ/ə̃ ⁵⁵	4227
+3573	Dashi	swell	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ə̃˞ ⁵⁵	4227
 3574	Zhoucheng	swell	tsʰi55	tsʰi55	tsʰ i ⁵⁵	4227
 3575	Mazhelong	swell	tsʰen55	tsʰen55	tsʰ e n ⁵⁵	4227
 3576	ProtoBai	tea	drɔ1	drɔ1	d r ɔ ¹	4238
@@ -3603,11 +3603,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3603	Zhoucheng	tear up, rip	pʰe55	pʰe55	pʰ e ⁵⁵	4260
 3604	Mazhelong	tear up, rip	pʰɛ55	pʰɛ55	pʰ ɛ ⁵⁵	4260
 3605	ProtoBai	ten	dzri4	dzri4	ɖʐ i ⁴	4271
-3606	Tuoluo	ten	ʐɚ42	ʐɚ42	ʐ ɚ/ə ⁴²	4271
+3606	Tuoluo	ten	ʐɚ42	ʐɚ42	ʐ ə˞ ⁴²	4271
 3607	Gongxing	ten	dʐi21	dʐi21	ɖʐ i ²¹	4271
 3608	Enqi	ten	tsɿ21	tsɿ21	ts ɿ ²¹	4271
 3609	Ega	ten	tsɛ42	tsɛ42	ts ɛ ⁴²	4271
-3610	Jinman	ten	tʂɚ42	tʂɚ42	ʈʂ ɚ/ə ⁴²	4271
+3610	Jinman	ten	tʂɚ42	tʂɚ42	ʈʂ ə˞ ⁴²	4271
 3611	Jinxing	ten	tsa42	tsa42	ts a ⁴²	4271
 3612	Dashi	ten	tʂi42	tʂi42	ʈʂ i ⁴²	4271
 3613	Zhoucheng	ten	tsi42	tsi42	ts i ⁴²	4271
@@ -3653,7 +3653,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3653	Zhoucheng	the upper part; up reaches; above	to33	to33	t o ³³	4315
 3654	Mazhelong	the upper part; up reaches; above	doŋ33	doŋ33	d o ŋ ³³	4315
 3655	ProtoBai	thick	ɢɯ2	ɢɯ2	ɣ ɯ ²	4326
-3656	Tuoluo	thick	ʁɚ33	ʁɚ33	ʁ ɚ/ə ³³	4327
+3656	Tuoluo	thick	ʁɚ33	ʁɚ33	ʁ ə˞ ³³	4327
 3657	Gongxing	thick	ɢe22	ɢe22	ɣ e ²²	4326
 3658	Enqi	thick	ɢɯ22	ɢɯ22	ɣ ɯ ²²	4326
 3659	Jinman	thick	qɯ̃42	qɯ̃42	q ɯ̃ ⁴²	4326
@@ -3688,7 +3688,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3688	Dashi	thorn; splinter	tɕʰi31	tɕʰi31	tɕʰ i ³¹	4357
 3689	Zhoucheng	thorn; splinter	tɕʰi31	tɕʰi31	tɕʰ i ³¹	4357
 3690	Mazhelong	thorn; splinter	tɕʰi21	tɕʰi21	tɕʰ i ²¹	4357
-3691	ProtoBai	thousand	tsjʰen1	tsjʰen1	e n ¹	4366
+3691	ProtoBai	thousand	tsjʰen1	tsjʰen1	tsʲʰ e n ¹	4366
 3692	Tuoluo	thousand	tɕʰien55	tɕʰien55	tɕʰ i/j e n ⁵⁵	4366
 3693	Gongxing	thousand	tɕʰian55	tɕʰian55	tɕʰ i/j a n ⁵⁵	4366
 3694	Enqi	thousand	tsʰi24	tsʰi24	tsʰ i ²⁴	4367
@@ -3735,11 +3735,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3715	Ega	thunder	xẽ55ma21	xẽ55ma21	x ẽ ⁵⁵ + m a ²¹	4411 4412
 3716	Jinman	thunder	xẽ55ma21	xẽ55ma21	x ẽ ⁵⁵ + m a ²¹	4411 4412
 3717	Jinxing	thunder	xen55man21	xen55man21	x e n ⁵⁵ + m a n ²¹	4411 4412
-3718	Dashi	thunder	xen55mɚ21	xen55mɚ21	x e n ⁵⁵ + m ɚ/ə ²¹	4411 4412
+3718	Dashi	thunder	xen55mɚ21	xen55mɚ21	x e n ⁵⁵ + m ə˞ ²¹	4411 4412
 3719	Zhoucheng	thunder	xe55mɛ21	xe55mɛ21	x e ⁵⁵ + m ɛ ²¹	4411 4412
-3720	Mazhelong	thunder	xen55mɚ21	xen55mɚ21	x e n ⁵⁵ + m ɚ/ə ²¹	4411 4412
+3720	Mazhelong	thunder	xen55mɚ21	xen55mɚ21	x e n ⁵⁵ + m ə˞ ²¹	4411 4412
 3721	ProtoBai	tie (a cow) to	bjo4	bjo4	b j o ⁴	4433
-3722	Tuoluo	tie (a cow) to	vɚ42	vɚ42	v ɚ/ə ⁴²	4433
+3722	Tuoluo	tie (a cow) to	vɚ42	vɚ42	v ə˞ ⁴²	4433
 3723	Gongxing	tie (a cow) to	bvw21	bwɯ21	b w ɯ ²¹	4433
 3724	Enqi	tie (a cow) to	fo21	fo21	f o ²¹	4433
 3725	Ega	tie (a cow) to	u21	u21	u ²¹	4432
@@ -3762,9 +3762,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3742	Enqi	tile	uæ43	uæ43	u/w æ ⁴	4452
 3743	Ega	tile	ŋua42	ŋua42	ŋ u/w a ⁴²	4452
 3744	Jinxing	tile	uan42	uan42	u/w a n ⁴²	4452
-3745	Dashi	tile	uɚ42	uɚ42	u/w ɚ/ə ⁴²	4452
+3745	Dashi	tile	uɚ42	uɚ42	u/w ə˞ ⁴²	4452
 3746	Zhoucheng	tile	uɛ42	uɛ42	u/w ɛ ⁴²	4452
-3747	Mazhelong	tile	vɚ31	vɚ31	v ɚ/ə ³¹	4452
+3747	Mazhelong	tile	vɚ31	vɚ31	v ə˞ ³¹	4452
 3767	ProtoBai	to be ill	bæn3	bæn3	b æ n ³	4462
 3768	Tuoluo	to be ill	baŋ21	baŋ21	b a ŋ ²¹	4462
 3769	Gongxing	to be ill	ban42	ban42	b a n ⁴²	4462
@@ -3772,9 +3772,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3771	Ega	to be ill	(su42)	su42	s u ⁴²	4463
 3772	Jinman	to be ill	(sõ42)	sõ42	s õ ⁴²	4463
 3773	Jinxing	to be ill	pan31	pan31	p a n ³¹	4462
-3774	Dashi	to be ill	pɚ̃31	pɚ̃31	p ɚ/ə̃ ³¹	4462
+3774	Dashi	to be ill	pɚ̃31	pɚ̃31	p ə̃˞ ³¹	4462
 3775	Zhoucheng	to be ill	pɛ21	pɛ21	p ɛ ²¹	4462
-3776	Mazhelong	to be ill	pɚ̃21	pɚ̃21	p ɚ/ə̃ ²¹	4462
+3776	Mazhelong	to be ill	pɚ̃21	pɚ̃21	p ə̃˞ ²¹	4462
 3777	ProtoBai	to bet	tu2	tu2	t u ²	4473
 3778	Tuoluo	to bet	tv33	tv33	t v/ʯ ³³	4473
 3779	Gongxing	to bet	(ta55)tu22	tu22	t u ²²	4473
@@ -3783,7 +3783,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3782	Jinman	to bet	(so55pu55)	so55pu55	s o ⁵⁵ + p u ⁵⁵	4474 4475
 3783	Jinxing	to bet	(tsʰi55pɔ55)	tsʰi55pɔ55	tsʰ i ⁵⁵ + p ɔ ⁵⁵	4474 4475
 3784	Dashi	to bet	tu33	tu33	t u ³³	4473
-3785	Mazhelong	to bet	[tɚ55tv21]	tɚ55tv21	t ɚ/ə ⁵⁵ + t v/ʯ ²¹	4474 4473
+3785	Mazhelong	to bet	[tɚ55tv21]	tɚ55tv21	t ə˞ ⁵⁵ + t v/ʯ ²¹	4474 4473
 3786	ProtoBai	to block (the wind)	be2	be2	b e ²	4491
 3787	Tuoluo	to block (the wind)	bi33	bi33	b i ³³	4491
 3788	Gongxing	to block (the wind)	bi22	bi22	b i ²²	4491
@@ -3801,7 +3801,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3800	Ega	to borrow (money)	[tɕia44]	tɕia44	tɕ i/j a ⁴⁴	4500
 3801	Jinman	to borrow (money)	tʰɯ̃55	tʰɯ̃55	tʰ ɯ̃ ⁵⁵	4501
 3802	Jinxing	to borrow (money)	[tɕia44]	tɕia44	tɕ i/j a ⁴⁴	4500
-3803	Dashi	to borrow (money)	[tɕiɚ44]	tɕiɚ44	tɕ i/j ɚ/ə ⁴⁴	4500
+3803	Dashi	to borrow (money)	[tɕiɚ44]	tɕiɚ44	tɕ i/j ə˞ ⁴⁴	4500
 3804	Zhoucheng	to borrow (money)	[tɕiɛ55]	tɕiɛ55	tɕ i/j ɛ ⁵⁵	4500
 3805	Mazhelong	to borrow (money)	tʰɯ44	tʰɯ44	tʰ ɯ ⁴⁴	4501
 3806	ProtoBai	to borrow (tools)	tɕæ1	tɕæ1	tɕ æ ¹	4511
@@ -3811,9 +3811,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3810	Ega	to borrow (tools)	tɕia44	tɕia44	tɕ i/j a ⁴⁴	4511
 3811	Jinman	to borrow (tools)	tɕia44	tɕia44	tɕ i/j a ⁴⁴	4511
 3812	Jinxing	to borrow (tools)	tɕia44	tɕia44	tɕ i/j a ⁴⁴	4511
-3813	Dashi	to borrow (tools)	tɕiɚ44	tɕiɚ44	tɕ i/j ɚ/ə ⁴⁴	4511
+3813	Dashi	to borrow (tools)	tɕiɚ44	tɕiɚ44	tɕ i/j ə˞ ⁴⁴	4511
 3814	Zhoucheng	to borrow (tools)	tɕiɛ55	tɕiɛ55	tɕ i/j ɛ ⁵⁵	4511
-3815	Mazhelong	to borrow (tools)	tɕɚ44	tɕɚ44	tɕ ɚ/ə ⁴⁴	4511
+3815	Mazhelong	to borrow (tools)	tɕɚ44	tɕɚ44	tɕ ə˞ ⁴⁴	4511
 3816	ProtoBai	to burn	ʂu1	ʂu1	ʂ u ¹	4522
 3817	Gongxing	to burn	ɕy55	ɕy55	ɕ y ⁵⁵	4522
 3818	Dashi	to burn	ʂu55	ʂu55	ʂ u ⁵⁵	4522
@@ -3860,11 +3860,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3859	Ega	to drop	tua42	tua42	t u/w a ⁴²	4571
 3860	Jinman	to drop	tua42	tua42	t u/w a ⁴²	4571
 3861	Jinxing	to drop	tuɑ42	tuɑ42	t u ɑ ⁴²	4573
-3862	Dashi	to drop	(nɚ31)	nɚ31	n ɚ/ə ³¹	4570
+3862	Dashi	to drop	(nɚ31)	nɚ31	n ə˞ ³¹	4570
 3863	Zhoucheng	to drop	tua42	tua42	t u/w a ⁴²	4571
 3864	Mazhelong	to drop	(dʑiaŋ21)	dʑiaŋ21	dʑ i/j a ŋ ²¹	4574
 3865	ProtoBai	to hook	qɯ1	qɯ1	q ɯ ¹	4581
-3866	Tuoluo	to hook	qɚ55	qɚ55	q ɚ/ə ⁵⁵	4581
+3866	Tuoluo	to hook	qɚ55	qɚ55	q ə˞ ⁵⁵	4581
 3867	Enqi	to hook	qɯ24	qɯ24	q ɯ ²⁴	4581
 3868	Ega	to hook	qɯ55	qɯ55	q ɯ ⁵⁵	4581
 3869	Jinman	to hook	qɯ55	qɯ55	q ɯ ⁵⁵	4581
@@ -3893,7 +3893,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3892	Zhoucheng	to leak	ɣɯ31	ɣɯ31	ɣ ɯ ³¹	4602
 3893	Mazhelong	to leak	ɣɯ21	ɣɯ21	ɣ ɯ ²¹	4602
 3894	ProtoBai	to owe (money)	bjɛ2	bjɛ2	b j ɛ ²	4613
-3895	Tuoluo	to owe (money)	vɚ33	vɚ33	v ɚ/ə ³³	4613
+3895	Tuoluo	to owe (money)	vɚ33	vɚ33	v ə˞ ³³	4613
 3896	Gongxing	to owe (money)	bvu22	bvu22	b v u ²²	4613
 3897	Enqi	to owe (money)	vE22	vE22	v ᴇ/ɛ ²²	4613
 3898	Ega	to owe (money)	vɛ22	vɛ22	v ɛ ²²	4613
@@ -3929,7 +3929,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3928	Ega	to poke; insert	pɛ42	pɛ42	p ɛ ⁴²	4647
 3929	Jinman	to poke; insert	pe42	pe42	p e ⁴²	4647
 3930	Jinxing	to poke; insert	pe42	pe42	p e ⁴²	4647
-3931	Dashi	to poke; insert	(tɕʰiɚ44)	tɕʰiɚ44	tɕʰ i/j ɚ/ə ⁴⁴	4646
+3931	Dashi	to poke; insert	(tɕʰiɚ44)	tɕʰiɚ44	tɕʰ i/j ə˞ ⁴⁴	4646
 3932	Zhoucheng	to poke; insert	pe42	pe42	p e ⁴²	4647
 3933	Mazhelong	to poke; insert	pʰɛ42	pʰɛ42	pʰ ɛ ⁴²	4647
 3934	ProtoBai	to rake (the fields)	bæ1	bæ1	b æ ¹	4657
@@ -3940,12 +3940,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3939	Jinxing	to rake (the fields)	pɑ44	pɑ44	p ɑ ⁴⁴	4657
 3940	Dashi	to rake (the fields)	pǝ21	pǝ21	p ə ²¹	4657
 3941	Zhoucheng	to rake (the fields)	pɛ21	pɛ21	p ɛ ²¹	4657
-3942	Mazhelong	to rake (the fields)	pɚ21	pɚ21	p ɚ/ə ²¹	4657
+3942	Mazhelong	to rake (the fields)	pɚ21	pɚ21	p ə˞ ²¹	4657
 3943	ProtoBai	to saw	pjo5	pjo5	p j o ⁵	4670
 3944	Tuoluo	to saw	fv21	fv21	f v/ʯ ²¹	4669
 3945	Ega	to saw	(ɕa44)fv42	fv42	f v/ʯ ⁴²	4669
 3946	Jinman	to saw	(ɕa44)fv42	fv42	f v/ʯ ⁴²	4669
-3947	Dashi	to saw	(ʂʰɚ44)	ʂʰɚ44	ʂʰ ɚ/ə ⁴⁴	4668
+3947	Dashi	to saw	(ʂʰɚ44)	ʂʰɚ44	ʂʰ ə˞ ⁴⁴	4668
 3948	Zhoucheng	to saw	fv42	fv42	f v/ʯ ⁴²	4669
 3949	Mazhelong	to saw	fv42	fv42	f v/ʯ ⁴²	4669
 3950	ProtoBai	to smell	tʰru1	tʰru1	tʰ r u ¹	4676
@@ -3965,9 +3965,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3964	Ega	to thunder	xẽ55ma21	xẽ55ma21	x ẽ ⁵⁵ + m a ²¹	4687 4688
 3965	Jinman	to thunder	xẽ55ma21	xẽ55ma21	x ẽ ⁵⁵ + m a ²¹	4687 4688
 3966	Jinxing	to thunder	xen55man21	xen55man21	x e n ⁵⁵ + m a n ²¹	4687 4688
-3967	Dashi	to thunder	xen55mɚ21	xen55mɚ21	x e n ⁵⁵ + m ɚ/ə ²¹	4687 4688
+3967	Dashi	to thunder	xen55mɚ21	xen55mɚ21	x e n ⁵⁵ + m ə˞ ²¹	4687 4688
 3968	Zhoucheng	to thunder	xe55mɛ21	xe55mɛ21	x e ⁵⁵ + m ɛ ²¹	4687 4688
-3969	Mazhelong	to thunder	xen55mɚ21	xen55mɚ21	x e n ⁵⁵ + m ɚ/ə ²¹	4687 4688
+3969	Mazhelong	to thunder	xen55mɚ21	xen55mɚ21	x e n ⁵⁵ + m ə˞ ²¹	4687 4688
 3970	ProtoBai	to water/sprinkle/irrigate	ɔ4	ɔ4	ɔ ⁴	4708
 3971	Tuoluo	to water/sprinkle/irrigate	o42	o42	o ⁴²	4708
 3972	Gongxing	to water/sprinkle/irrigate	(læ24)	læ24	l æ ²⁴	4709
@@ -3994,7 +3994,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 3993	Gongxing	tongue	djɛ21	djɛ21	d j ɛ ²¹	4731
 3994	Enqi	tongue	tjE21	tjE21	tʲ ᴇ/ɛ ²¹	4731
 3995	Ega	tongue	ti21	ti21	t i ²¹	4731
-3996	Jinman	tongue	ʈɚ42	ʈɚ42	ʈ ɚ/ə ⁴²	4731
+3996	Jinman	tongue	ʈɚ42	ʈɚ42	ʈ ə˞ ⁴²	4731
 3997	Jinxing	tongue	tse42	tse42	ts e ⁴²	4731
 3998	Dashi	tongue	tʂe42	tʂe42	ʈʂ e ⁴²	4731
 3999	Zhoucheng	tongue	tse42	tse42	ts e ⁴²	4731
@@ -4009,7 +4009,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4008	Dashi	trace; track	(tso13)	tso13	ts o ¹³	4742
 4009	Mazhelong	trace; track	tsoŋ55	tsoŋ55	ts o ŋ ⁵⁵	4742
 4010	ProtoBai	transplant (rice seedling); insert	pʰjen1	pʰjen1	pʰ j e n ¹	4755
-4011	Tuoluo	transplant (rice seedling); insert	fɚ55	fɚ55	f ɚ/ə ⁵⁵	4752
+4011	Tuoluo	transplant (rice seedling); insert	fɚ55	fɚ55	f ə˞ ⁵⁵	4752
 4012	Gongxing	transplant (rice seedling); insert	pfu55	pfu55	pf u ⁵⁵	4752
 4013	Enqi	transplant (rice seedling); insert	fE24	fE24	f ᴇ/ɛ ²⁴	4752
 4014	Ega	transplant (rice seedling); insert	(xue55)	xue55	x u/w e ⁵⁵	4753
@@ -4056,7 +4056,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4055	Zhoucheng	turtledove	(ku31ku55ku33)	ku31ku55ku33	k u ³¹ + k u ⁵⁵ + k u ³³	4799 4798 4800
 4056	Mazhelong	turtledove	tɕi55kǝɯ55	tɕi55kǝɯ55	tɕ i ⁵⁵ + k əɯ ⁵⁵	4798 4799
 4057	ProtoBai	twelve	ten+ne4	dzri4+ne4	ɖʐ i ⁴ + n e ⁴	4814 4815
-4058	Tuoluo	twelve	ʐɚ42ne42	ʐɚ42ne42	ʐ ɚ/ə ⁴² + n e ⁴²	4814 4815
+4058	Tuoluo	twelve	ʐɚ42ne42	ʐɚ42ne42	ʐ ə˞ ⁴² + n e ⁴²	4814 4815
 4059	Gongxing	twelve	dʐi21nɛ55	dʐi21nɛ55	ɖʐ i ²¹ + n ɛ ⁵⁵	4814 4815
 4060	Enqi	twelve	tsɿ21nE55	tsɿ21nE55	ts ɿ ²¹ + n ᴇ/ɛ ⁵⁵	4814 4815
 4061	Ega	twelve	tsɛ42(kv22)	tsɛ42	ts ɛ ⁴²	4814
@@ -4109,7 +4109,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4108	Gongxing	unseam (clothing)	tʰua224	tʰua224	tʰ u/w a ²²⁴	4879
 4109	Enqi	unseam (clothing)	(lo43)	lo43	l o ⁴³	4880
 4110	Ega	unseam (clothing)	tʰo55	tʰo55	tʰ o ⁵⁵	4879
-4111	Jinman	unseam (clothing)	ʈʰɚ55	ʈʰɚ55	ʈʰ ɚ/ə ⁵⁵	4879
+4111	Jinman	unseam (clothing)	ʈʰɚ55	ʈʰɚ55	ʈʰ ə˞ ⁵⁵	4879
 4112	Jinxing	unseam (clothing)	tʰe44	tʰe44	tʰ e ⁴⁴	4879
 4113	Dashi	unseam (clothing)	tʰe33	tʰe33	tʰ e ³³	4879
 4114	Zhoucheng	unseam (clothing)	tsʰu33	tsʰu33	tsʰ u ³³	4879
@@ -4154,7 +4154,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4153	Gongxing	vegetable oil	ji12	ji12	j i ¹²	4929
 4154	Enqi	vegetable oil	jɯ21	jɯ21	j ɯ ²¹	4929
 4155	Ega	vegetable oil	ji21	ji21	j i ²¹	4929
-4156	Jinman	vegetable oil	(tʂɚ55)	tʂɚ55	ʈʂ ɚ/ə ⁵⁵	4930
+4156	Jinman	vegetable oil	(tʂɚ55)	tʂɚ55	ʈʂ ə˞ ⁵⁵	4930
 4157	Jinxing	vegetable oil	jɯ21	jɯ21	j ɯ ²¹	4929
 4158	Dashi	vegetable oil	jɯ21	jɯ21	j ɯ ²¹	4929
 4159	Zhoucheng	vegetable oil	jɯ21	jɯ21	j ɯ ²¹	4929
@@ -4206,7 +4206,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4205	Ega	want; need	(tso42)	tso42	ts o ⁴²	4988
 4206	Jinman	want; need	ɲu42	ɲu42	ɲ u ⁴²	4987
 4207	Jinxing	want; need	jõ44	jõ44	j õ ⁴⁴	4987
-4208	Dashi	want; need	jŋ44	jŋ44	j */ə ŋ ⁴⁴	4987
+4208	Dashi	want; need	jŋ44	jŋ44	j Ø/ə ŋ ⁴⁴	4987
 4209	Zhoucheng	want; need	ɲiou44	ɲiou44	ɲ i/j ou ⁴⁴	4987
 4210	Mazhelong	want; need	ɲioŋ55	ɲioŋ55	ɲ i/j o ŋ ⁵⁵	4987
 4211	ProtoBai	water	ɕui2	ɕui2	ɕ u/w i ²	4998
@@ -4224,15 +4224,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4223	Gongxing	watery/thin (porridge)	tsʰan55	tsʰan55	tsʰ a n ⁵⁵	5009
 4224	Enqi	watery/thin (porridge)	tɕiæ24	tɕiæ24	tɕ i/j æ ²⁴	5009
 4225	Jinxing	watery/thin (porridge)	tɕʰian55	tɕʰian55	tɕʰ i/j a n ⁵⁵	5009
-4226	Dashi	watery/thin (porridge)	tɕʰiɚ̃55	tɕʰiɚ̃55	tɕʰ i/j ɚ̃/ə̃ ⁵⁵	5009
+4226	Dashi	watery/thin (porridge)	tɕʰiɚ̃55	tɕʰiɚ̃55	tɕʰ i/j ə̃˞ ⁵⁵	5009
 4227	Zhoucheng	watery/thin (porridge)	tɕʰiɛ55	tɕʰiɛ55	tɕʰ i/j ɛ ⁵⁵	5009
-4228	Mazhelong	watery/thin (porridge)	tɕʰɚ̃55	tɕʰɚ̃55	tɕʰ ɚ/ə̃ ⁵⁵	5009
+4228	Mazhelong	watery/thin (porridge)	tɕʰɚ̃55	tɕʰɚ̃55	tɕʰ ə̃˞ ⁵⁵	5009
 4229	ProtoBai	wave; wield	sreŋ1	sreŋ1	s r e ŋ ¹	5019
-4230	Tuoluo	wave; wield	ʂɚ̃55	ʂɚ̃55	ʂ ɚ/ə̃ ⁵⁵	5019
+4230	Tuoluo	wave; wield	ʂɚ̃55	ʂɚ̃55	ʂ ə̃˞ ⁵⁵	5019
 4231	Gongxing	wave; wield	ʂi55	ʂi55	ʂ i ⁵⁵	5019
 4232	Enqi	wave; wield	sɿ24	sɿ24	s ɿ ²⁴	5019
 4233	Ega	wave; wield	sɛ55	sɛ55	s ɛ ⁵⁵	5019
-4234	Jinman	wave; wield	ʂɚ55	ʂɚ55	ʂ ɚ/ə ⁵⁵	5019
+4234	Jinman	wave; wield	ʂɚ55	ʂɚ55	ʂ ə˞ ⁵⁵	5019
 4235	Jinxing	wave; wield	san55	san55	s a n ⁵⁵	5019
 4236	Dashi	wave; wield	ju33	ju33	j u ³³	5018
 4237	ProtoBai	wear (a bracelet)	tro4	tro4	ʈ o ⁴	5027
@@ -4247,7 +4247,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4246	ProtoBai	wear (a hat)	tjɯ5	tjɯ5	tʲ ɯ ⁵	5037
 4247	Tuoluo	wear (a hat)	tiɯ24	tiɯ24	t i/j ɯ ²⁴	5037
 4248	Gongxing	wear (a hat)	di24	di24	d i ²⁴	5037
-4249	Enqi	wear (a hat)	tɚ43	tɚ43	t ɚ/ə ⁴³	5037
+4249	Enqi	wear (a hat)	tɚ43	tɚ43	t ə˞ ⁴³	5037
 4250	Ega	wear (a hat)	tɯ42	tɯ42	t ɯ ⁴²	5037
 4251	Jinman	wear (a hat)	tẽ42	tẽ42	t ẽ ⁴²	5037
 4252	Jinxing	wear (a hat)	tǝ̃42	tǝ̃42	t ə̃ ⁴²	5037
@@ -4261,7 +4261,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4260	Ega	weave; knit	tɕi44	tɕi44	tɕ i ⁴⁴	5048
 4261	Jinman	weave; knit	ʈɯ55	ʈɯ55	ʈ ɯ ⁵⁵	5048
 4262	Jinxing	weave; knit	tsi55	tsi55	ts i ⁵⁵	5048
-4263	Dashi	weave; knit	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ɚ/ə̃ ⁵⁵	5048
+4263	Dashi	weave; knit	tʂʰɚ̃55	tʂʰɚ̃55	ʈʂʰ ə̃˞ ⁵⁵	5048
 4264	Zhoucheng	weave; knit	tsʰi55	tsʰi55	tsʰ i ⁵⁵	5048
 4265	Mazhelong	weave; knit	tsʰen55	tsʰen55	tsʰ e n ⁵⁵	5048
 4266	ProtoBai	weigh (food)	tsʰuen1	tsʰuen1	tsʰ u/w e n ¹	5059
@@ -4310,9 +4310,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGIDS
 4309	Ega	white	pa42	pa42	p a ⁴²	5111
 4310	Jinman	white	pa42	pa42	p a ⁴²	5111
 4311	Jinxing	white	pa42	pa42	p a ⁴²	5111
-4312	Dashi	white	pɚ42	pɚ42	p ɚ/ə ⁴²	5111
+4312	Dashi	white	pɚ42	pɚ42	p ə˞ ⁴²	5111
 4313	Zhoucheng	white	pɛ42	pɛ42	p ɛ ⁴²	5111
-4314	Mazhelong	white	pʰɚ42	pʰɚ42	pʰ ɚ/ə ⁴²	5111
+4314	Mazhelong	white	pʰɚ42	pʰɚ42	pʰ ə˞ ⁴²	5111
 4315	ProtoBai	wide	qʰua4	qʰua4	qʰ u/w a ⁴	5122
 4316	Tuoluo	wide	qʰuo42	qʰuo42	qʰ u/w o ⁴²	5122
 4317	Gongxing	wide	qʰua24	qʰua24	qʰ u/w a ²⁴	5122

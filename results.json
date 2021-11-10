@@ -1,0 +1,732 @@
+{
+  "bc": {
+    "ltkkaren-Categorical-APosProsFl": 0.7322695765571071,
+    "ltkkaren-Categorical-APosPros": 0.8019193076771061,
+    "ltkkaren-Categorical-APos": 0.8116426890130255,
+    "ltkkaren-Categorical-A": 0.8106461739210077,
+    "ltkkaren-ExtremeTrees-APosProsFl": 0.7857520385967435,
+    "ltkkaren-ExtremeTrees-APosPros": 0.810601478334803,
+    "ltkkaren-ExtremeTrees-APos": 0.7973420643792928,
+    "ltkkaren-ExtremeTrees-A": 0.8061722130021394,
+    "ltkkaren-SVM-APosProsFl": 0.7894446928568724,
+    "ltkkaren-SVM-APosPros": 0.8352618487029253,
+    "ltkkaren-SVM-APos": 0.813562736264271,
+    "ltkkaren-SVM-A": 0.8310222045051968,
+    "ltkkaren-CorPaR-APosProsFl": 0.5667040467757787,
+    "ltkkaren-CorPaR-APosPros": 0.7871357782377535,
+    "ltkkaren-CorPaR-APos": 0.7846091211466216,
+    "ltkkaren-CorPaR-A": 0.7768664612975442,
+    "yanglalo-Categorical-APosProsFl": 0.6314004067547716,
+    "yanglalo-Categorical-APosPros": 0.6324242174683574,
+    "yanglalo-Categorical-APos": 0.6246613434581257,
+    "yanglalo-Categorical-A": 0.6374941657508877,
+    "yanglalo-ExtremeTrees-APosProsFl": 0.6027412132646495,
+    "yanglalo-ExtremeTrees-APosPros": 0.5901097020132614,
+    "yanglalo-ExtremeTrees-APos": 0.5886251728057548,
+    "yanglalo-ExtremeTrees-A": 0.5693882637246303,
+    "yanglalo-SVM-APosProsFl": 0.6224904187249439,
+    "yanglalo-SVM-APosPros": 0.6436951509090247,
+    "yanglalo-SVM-APos": 0.6463201291338145,
+    "yanglalo-SVM-A": 0.6260684877134671,
+    "yanglalo-CorPaR-APosProsFl": 0.4217389681822311,
+    "yanglalo-CorPaR-APosPros": 0.518629272023119,
+    "yanglalo-CorPaR-APos": 0.4805046392745599,
+    "yanglalo-CorPaR-A": 0.48906524985607375,
+    "wangbai-Categorical-APosProsFl": 0.7118600232240431,
+    "wangbai-Categorical-APosPros": 0.7363512150422088,
+    "wangbai-Categorical-APos": 0.7469466456688614,
+    "wangbai-Categorical-A": 0.7339150432838613,
+    "wangbai-ExtremeTrees-APosProsFl": 0.7133376008565095,
+    "wangbai-ExtremeTrees-APosPros": 0.7178739667994091,
+    "wangbai-ExtremeTrees-APos": 0.7193148682072582,
+    "wangbai-ExtremeTrees-A": 0.7133431779576044,
+    "wangbai-SVM-APosProsFl": 0.7415793597017679,
+    "wangbai-SVM-APosPros": 0.7568731622455431,
+    "wangbai-SVM-APos": 0.7422418737396728,
+    "wangbai-SVM-A": 0.7459284278322119,
+    "wangbai-CorPaR-APosProsFl": 0.42031490070766975,
+    "wangbai-CorPaR-APosPros": 0.6557408634096659,
+    "wangbai-CorPaR-APos": 0.6510429073981894,
+    "wangbai-CorPaR-A": 0.6578036753856265,
+    "carvalhopurus-Categorical-APosProsFl": 0.652781627605284,
+    "carvalhopurus-Categorical-APosPros": 0.7043943062982536,
+    "carvalhopurus-Categorical-APos": 0.703642492357115,
+    "carvalhopurus-Categorical-A": 0.7410234871336594,
+    "carvalhopurus-ExtremeTrees-APosProsFl": 0.6703644090331929,
+    "carvalhopurus-ExtremeTrees-APosPros": 0.6876518491573376,
+    "carvalhopurus-ExtremeTrees-APos": 0.702006581065373,
+    "carvalhopurus-ExtremeTrees-A": 0.7133769640660114,
+    "carvalhopurus-SVM-APosProsFl": 0.7126752584563346,
+    "carvalhopurus-SVM-APosPros": 0.7382846478313089,
+    "carvalhopurus-SVM-APos": 0.7455589617724421,
+    "carvalhopurus-SVM-A": 0.7320655723176844,
+    "carvalhopurus-CorPaR-APosProsFl": 0.3496790634833126,
+    "carvalhopurus-CorPaR-APosPros": 0.44044865740743644,
+    "carvalhopurus-CorPaR-APos": 0.43899004205771236,
+    "carvalhopurus-CorPaR-A": 0.5388820085564425
+  },
+  "ed": {
+    "ltkkaren-Categorical-APosProsFl": 0.9085254833124793,
+    "ltkkaren-Categorical-APosPros": 0.6912136813184316,
+    "ltkkaren-Categorical-APos": 0.695422551475706,
+    "ltkkaren-Categorical-A": 0.6877389542735867,
+    "ltkkaren-ExtremeTrees-APosProsFl": 0.6897210767587962,
+    "ltkkaren-ExtremeTrees-APosPros": 0.6314722811756383,
+    "ltkkaren-ExtremeTrees-APos": 0.6862565238598592,
+    "ltkkaren-ExtremeTrees-A": 0.6616992677609116,
+    "ltkkaren-SVM-APosProsFl": 0.7282459083349494,
+    "ltkkaren-SVM-APosPros": 0.5696918112706368,
+    "ltkkaren-SVM-APos": 0.6185507717827803,
+    "ltkkaren-SVM-A": 0.5804930141808347,
+    "ltkkaren-CorPaR-APosProsFl": 1.561079386516971,
+    "ltkkaren-CorPaR-APosPros": 0.7594351472279314,
+    "ltkkaren-CorPaR-APos": 0.8004734428926118,
+    "ltkkaren-CorPaR-A": 0.7864502036282858,
+    "yanglalo-Categorical-APosProsFl": 0.8654682044991784,
+    "yanglalo-Categorical-APosPros": 0.9058304132424883,
+    "yanglalo-Categorical-APos": 0.909216957989377,
+    "yanglalo-Categorical-A": 0.8864993469171905,
+    "yanglalo-ExtremeTrees-APosProsFl": 0.9454288178513854,
+    "yanglalo-ExtremeTrees-APosPros": 0.9776401203378408,
+    "yanglalo-ExtremeTrees-APos": 0.9651184219185126,
+    "yanglalo-ExtremeTrees-A": 1.0252934936410265,
+    "yanglalo-SVM-APosProsFl": 0.9177260861686221,
+    "yanglalo-SVM-APosPros": 0.8579507974786806,
+    "yanglalo-SVM-APos": 0.8599871899924044,
+    "yanglalo-SVM-A": 0.900450578957487,
+    "yanglalo-CorPaR-APosProsFl": 1.6893958784229615,
+    "yanglalo-CorPaR-APosPros": 1.3206099674467238,
+    "yanglalo-CorPaR-APos": 1.437312625966326,
+    "yanglalo-CorPaR-A": 1.4179521611408348,
+    "wangbai-Categorical-APosProsFl": 0.9317087424029921,
+    "wangbai-Categorical-APosPros": 0.9432321083933987,
+    "wangbai-Categorical-APos": 0.8997720169809932,
+    "wangbai-Categorical-A": 0.9858797116861633,
+    "wangbai-ExtremeTrees-APosProsFl": 0.8958759088167979,
+    "wangbai-ExtremeTrees-APosPros": 0.9180916675657209,
+    "wangbai-ExtremeTrees-APos": 0.9076775375162471,
+    "wangbai-ExtremeTrees-A": 0.9296963936795634,
+    "wangbai-SVM-APosProsFl": 0.8581487104137876,
+    "wangbai-SVM-APosPros": 0.8187059527662613,
+    "wangbai-SVM-APos": 0.8588032218677379,
+    "wangbai-SVM-A": 0.8252303719344393,
+    "wangbai-CorPaR-APosProsFl": 2.211131131494291,
+    "wangbai-CorPaR-APosPros": 1.1585905912694132,
+    "wangbai-CorPaR-APos": 1.146101418450647,
+    "wangbai-CorPaR-A": 1.125871568823883,
+    "carvalhopurus-Categorical-APosProsFl": 1.2463414634146341,
+    "carvalhopurus-Categorical-APosPros": 1.0658536585365854,
+    "carvalhopurus-Categorical-APos": 0.9951219512195122,
+    "carvalhopurus-Categorical-A": 0.9170731707317074,
+    "carvalhopurus-ExtremeTrees-APosProsFl": 1.1634146341463414,
+    "carvalhopurus-ExtremeTrees-APosPros": 1.1195121951219513,
+    "carvalhopurus-ExtremeTrees-APos": 1.0341463414634147,
+    "carvalhopurus-ExtremeTrees-A": 1.0,
+    "carvalhopurus-SVM-APosProsFl": 1.048780487804878,
+    "carvalhopurus-SVM-APosPros": 0.9195121951219513,
+    "carvalhopurus-SVM-APos": 0.8853658536585366,
+    "carvalhopurus-SVM-A": 0.9585365853658536,
+    "carvalhopurus-CorPaR-APosProsFl": 2.9560975609756097,
+    "carvalhopurus-CorPaR-APosPros": 2.282926829268293,
+    "carvalhopurus-CorPaR-APos": 2.3804878048780487,
+    "carvalhopurus-CorPaR-A": 1.8146341463414635
+  },
+  "ned": {
+    "ltkkaren-Categorical-APosProsFl": 0.23283691019235103,
+    "ltkkaren-Categorical-APosPros": 0.17409056487334132,
+    "ltkkaren-Categorical-APos": 0.17782968032736027,
+    "ltkkaren-Categorical-A": 0.1751249104014298,
+    "ltkkaren-ExtremeTrees-APosProsFl": 0.17485734354362079,
+    "ltkkaren-ExtremeTrees-APosPros": 0.1667299704923909,
+    "ltkkaren-ExtremeTrees-APos": 0.1764077020396556,
+    "ltkkaren-ExtremeTrees-A": 0.17205350556035487,
+    "ltkkaren-SVM-APosProsFl": 0.18935689069695918,
+    "ltkkaren-SVM-APosPros": 0.14465658481297794,
+    "ltkkaren-SVM-APos": 0.16319681122855442,
+    "ltkkaren-SVM-A": 0.15090500754697242,
+    "ltkkaren-CorPaR-APosProsFl": 0.39733554901198154,
+    "ltkkaren-CorPaR-APosPros": 0.19395900418761697,
+    "ltkkaren-CorPaR-APos": 0.2062003950674275,
+    "ltkkaren-CorPaR-A": 0.19888672919494838,
+    "yanglalo-Categorical-APosProsFl": 0.27632181883444357,
+    "yanglalo-Categorical-APosPros": 0.2886170615122111,
+    "yanglalo-Categorical-APos": 0.28848085524840245,
+    "yanglalo-Categorical-A": 0.2820542400814502,
+    "yanglalo-ExtremeTrees-APosProsFl": 0.29988934666337036,
+    "yanglalo-ExtremeTrees-APosPros": 0.3078480348104676,
+    "yanglalo-ExtremeTrees-APos": 0.3062157367813183,
+    "yanglalo-ExtremeTrees-A": 0.32451820560341976,
+    "yanglalo-SVM-APosProsFl": 0.29332746462982084,
+    "yanglalo-SVM-APosPros": 0.27182867489992635,
+    "yanglalo-SVM-APos": 0.2734733480852159,
+    "yanglalo-SVM-A": 0.28453506210808777,
+    "yanglalo-CorPaR-APosProsFl": 0.49388712768344917,
+    "yanglalo-CorPaR-APosPros": 0.40146757467513194,
+    "yanglalo-CorPaR-APos": 0.42943224511105976,
+    "yanglalo-CorPaR-A": 0.42343316359316785,
+    "wangbai-Categorical-APosProsFl": 0.24208333333333332,
+    "wangbai-Categorical-APosPros": 0.24502539357167682,
+    "wangbai-Categorical-APos": 0.23417183751265094,
+    "wangbai-Categorical-A": 0.2593125596158555,
+    "wangbai-ExtremeTrees-APosProsFl": 0.236947891869118,
+    "wangbai-ExtremeTrees-APosPros": 0.2395531615026706,
+    "wangbai-ExtremeTrees-APos": 0.23729124817834493,
+    "wangbai-ExtremeTrees-A": 0.24302273180043163,
+    "wangbai-SVM-APosProsFl": 0.22594387789759454,
+    "wangbai-SVM-APosPros": 0.21256736941309168,
+    "wangbai-SVM-APos": 0.22773457922265775,
+    "wangbai-SVM-A": 0.2168314714349076,
+    "wangbai-CorPaR-APosProsFl": 0.5715229538589609,
+    "wangbai-CorPaR-APosPros": 0.29477143045516113,
+    "wangbai-CorPaR-APos": 0.29106252065684035,
+    "wangbai-CorPaR-A": 0.2890241002179992,
+    "carvalhopurus-Categorical-APosProsFl": 0.2729374758033295,
+    "carvalhopurus-Categorical-APosPros": 0.21940863337204802,
+    "carvalhopurus-Categorical-APos": 0.21613433991482772,
+    "carvalhopurus-Categorical-A": 0.19561556329849014,
+    "carvalhopurus-ExtremeTrees-APosProsFl": 0.24744483159117303,
+    "carvalhopurus-ExtremeTrees-APosPros": 0.23934862562911344,
+    "carvalhopurus-ExtremeTrees-APos": 0.22220770421989933,
+    "carvalhopurus-ExtremeTrees-A": 0.21776132404181184,
+    "carvalhopurus-SVM-APosProsFl": 0.22266260162601625,
+    "carvalhopurus-SVM-APosPros": 0.20870112272551297,
+    "carvalhopurus-SVM-APos": 0.2023586914440573,
+    "carvalhopurus-SVM-A": 0.21360143244289587,
+    "carvalhopurus-CorPaR-APosProsFl": 0.597367402245451,
+    "carvalhopurus-CorPaR-APosPros": 0.4679210220673636,
+    "carvalhopurus-CorPaR-APos": 0.49254742547425473,
+    "carvalhopurus-CorPaR-A": 0.3730807200929152
+  },
+  "datasets": [
+    [
+      "ltkkaren",
+      "ProtoKaren"
+    ],
+    [
+      "yanglalo",
+      "ProtoLalo"
+    ],
+    [
+      "wangbai",
+      "ProtoBai"
+    ],
+    [
+      "carvalhopurus",
+      "ProtoPurus"
+    ]
+  ],
+  "table": [
+    [
+      "ltkkaren",
+      "Categorical",
+      "APosProsFl",
+      0.7322695765571071,
+      0.9085254833124793,
+      0.23283691019235103
+    ],
+    [
+      "ltkkaren",
+      "Categorical",
+      "APosPros",
+      0.8019193076771061,
+      0.6912136813184316,
+      0.17409056487334132
+    ],
+    [
+      "ltkkaren",
+      "Categorical",
+      "APos",
+      0.8116426890130255,
+      0.695422551475706,
+      0.17782968032736027
+    ],
+    [
+      "ltkkaren",
+      "Categorical",
+      "A",
+      0.8106461739210077,
+      0.6877389542735867,
+      0.1751249104014298
+    ],
+    [
+      "ltkkaren",
+      "ExtremeTrees",
+      "APosProsFl",
+      0.7857520385967435,
+      0.6897210767587962,
+      0.17485734354362079
+    ],
+    [
+      "ltkkaren",
+      "ExtremeTrees",
+      "APosPros",
+      0.810601478334803,
+      0.6314722811756383,
+      0.1667299704923909
+    ],
+    [
+      "ltkkaren",
+      "ExtremeTrees",
+      "APos",
+      0.7973420643792928,
+      0.6862565238598592,
+      0.1764077020396556
+    ],
+    [
+      "ltkkaren",
+      "ExtremeTrees",
+      "A",
+      0.8061722130021394,
+      0.6616992677609116,
+      0.17205350556035487
+    ],
+    [
+      "ltkkaren",
+      "SVM",
+      "APosProsFl",
+      0.7894446928568724,
+      0.7282459083349494,
+      0.18935689069695918
+    ],
+    [
+      "ltkkaren",
+      "SVM",
+      "APosPros",
+      0.8352618487029253,
+      0.5696918112706368,
+      0.14465658481297794
+    ],
+    [
+      "ltkkaren",
+      "SVM",
+      "APos",
+      0.813562736264271,
+      0.6185507717827803,
+      0.16319681122855442
+    ],
+    [
+      "ltkkaren",
+      "SVM",
+      "A",
+      0.8310222045051968,
+      0.5804930141808347,
+      0.15090500754697242
+    ],
+    [
+      "ltkkaren",
+      "CorPaR",
+      "APosProsFl",
+      0.5667040467757787,
+      1.561079386516971,
+      0.39733554901198154
+    ],
+    [
+      "ltkkaren",
+      "CorPaR",
+      "APosPros",
+      0.7871357782377535,
+      0.7594351472279314,
+      0.19395900418761697
+    ],
+    [
+      "ltkkaren",
+      "CorPaR",
+      "APos",
+      0.7846091211466216,
+      0.8004734428926118,
+      0.2062003950674275
+    ],
+    [
+      "ltkkaren",
+      "CorPaR",
+      "A",
+      0.7768664612975442,
+      0.7864502036282858,
+      0.19888672919494838
+    ],
+    [
+      "yanglalo",
+      "Categorical",
+      "APosProsFl",
+      0.6314004067547716,
+      0.8654682044991784,
+      0.27632181883444357
+    ],
+    [
+      "yanglalo",
+      "Categorical",
+      "APosPros",
+      0.6324242174683574,
+      0.9058304132424883,
+      0.2886170615122111
+    ],
+    [
+      "yanglalo",
+      "Categorical",
+      "APos",
+      0.6246613434581257,
+      0.909216957989377,
+      0.28848085524840245
+    ],
+    [
+      "yanglalo",
+      "Categorical",
+      "A",
+      0.6374941657508877,
+      0.8864993469171905,
+      0.2820542400814502
+    ],
+    [
+      "yanglalo",
+      "ExtremeTrees",
+      "APosProsFl",
+      0.6027412132646495,
+      0.9454288178513854,
+      0.29988934666337036
+    ],
+    [
+      "yanglalo",
+      "ExtremeTrees",
+      "APosPros",
+      0.5901097020132614,
+      0.9776401203378408,
+      0.3078480348104676
+    ],
+    [
+      "yanglalo",
+      "ExtremeTrees",
+      "APos",
+      0.5886251728057548,
+      0.9651184219185126,
+      0.3062157367813183
+    ],
+    [
+      "yanglalo",
+      "ExtremeTrees",
+      "A",
+      0.5693882637246303,
+      1.0252934936410265,
+      0.32451820560341976
+    ],
+    [
+      "yanglalo",
+      "SVM",
+      "APosProsFl",
+      0.6224904187249439,
+      0.9177260861686221,
+      0.29332746462982084
+    ],
+    [
+      "yanglalo",
+      "SVM",
+      "APosPros",
+      0.6436951509090247,
+      0.8579507974786806,
+      0.27182867489992635
+    ],
+    [
+      "yanglalo",
+      "SVM",
+      "APos",
+      0.6463201291338145,
+      0.8599871899924044,
+      0.2734733480852159
+    ],
+    [
+      "yanglalo",
+      "SVM",
+      "A",
+      0.6260684877134671,
+      0.900450578957487,
+      0.28453506210808777
+    ],
+    [
+      "yanglalo",
+      "CorPaR",
+      "APosProsFl",
+      0.4217389681822311,
+      1.6893958784229615,
+      0.49388712768344917
+    ],
+    [
+      "yanglalo",
+      "CorPaR",
+      "APosPros",
+      0.518629272023119,
+      1.3206099674467238,
+      0.40146757467513194
+    ],
+    [
+      "yanglalo",
+      "CorPaR",
+      "APos",
+      0.4805046392745599,
+      1.437312625966326,
+      0.42943224511105976
+    ],
+    [
+      "yanglalo",
+      "CorPaR",
+      "A",
+      0.48906524985607375,
+      1.4179521611408348,
+      0.42343316359316785
+    ],
+    [
+      "wangbai",
+      "Categorical",
+      "APosProsFl",
+      0.7118600232240431,
+      0.9317087424029921,
+      0.24208333333333332
+    ],
+    [
+      "wangbai",
+      "Categorical",
+      "APosPros",
+      0.7363512150422088,
+      0.9432321083933987,
+      0.24502539357167682
+    ],
+    [
+      "wangbai",
+      "Categorical",
+      "APos",
+      0.7469466456688614,
+      0.8997720169809932,
+      0.23417183751265094
+    ],
+    [
+      "wangbai",
+      "Categorical",
+      "A",
+      0.7339150432838613,
+      0.9858797116861633,
+      0.2593125596158555
+    ],
+    [
+      "wangbai",
+      "ExtremeTrees",
+      "APosProsFl",
+      0.7133376008565095,
+      0.8958759088167979,
+      0.236947891869118
+    ],
+    [
+      "wangbai",
+      "ExtremeTrees",
+      "APosPros",
+      0.7178739667994091,
+      0.9180916675657209,
+      0.2395531615026706
+    ],
+    [
+      "wangbai",
+      "ExtremeTrees",
+      "APos",
+      0.7193148682072582,
+      0.9076775375162471,
+      0.23729124817834493
+    ],
+    [
+      "wangbai",
+      "ExtremeTrees",
+      "A",
+      0.7133431779576044,
+      0.9296963936795634,
+      0.24302273180043163
+    ],
+    [
+      "wangbai",
+      "SVM",
+      "APosProsFl",
+      0.7415793597017679,
+      0.8581487104137876,
+      0.22594387789759454
+    ],
+    [
+      "wangbai",
+      "SVM",
+      "APosPros",
+      0.7568731622455431,
+      0.8187059527662613,
+      0.21256736941309168
+    ],
+    [
+      "wangbai",
+      "SVM",
+      "APos",
+      0.7422418737396728,
+      0.8588032218677379,
+      0.22773457922265775
+    ],
+    [
+      "wangbai",
+      "SVM",
+      "A",
+      0.7459284278322119,
+      0.8252303719344393,
+      0.2168314714349076
+    ],
+    [
+      "wangbai",
+      "CorPaR",
+      "APosProsFl",
+      0.42031490070766975,
+      2.211131131494291,
+      0.5715229538589609
+    ],
+    [
+      "wangbai",
+      "CorPaR",
+      "APosPros",
+      0.6557408634096659,
+      1.1585905912694132,
+      0.29477143045516113
+    ],
+    [
+      "wangbai",
+      "CorPaR",
+      "APos",
+      0.6510429073981894,
+      1.146101418450647,
+      0.29106252065684035
+    ],
+    [
+      "wangbai",
+      "CorPaR",
+      "A",
+      0.6578036753856265,
+      1.125871568823883,
+      0.2890241002179992
+    ],
+    [
+      "carvalhopurus",
+      "Categorical",
+      "APosProsFl",
+      0.652781627605284,
+      1.2463414634146341,
+      0.2729374758033295
+    ],
+    [
+      "carvalhopurus",
+      "Categorical",
+      "APosPros",
+      0.7043943062982536,
+      1.0658536585365854,
+      0.21940863337204802
+    ],
+    [
+      "carvalhopurus",
+      "Categorical",
+      "APos",
+      0.703642492357115,
+      0.9951219512195122,
+      0.21613433991482772
+    ],
+    [
+      "carvalhopurus",
+      "Categorical",
+      "A",
+      0.7410234871336594,
+      0.9170731707317074,
+      0.19561556329849014
+    ],
+    [
+      "carvalhopurus",
+      "ExtremeTrees",
+      "APosProsFl",
+      0.6703644090331929,
+      1.1634146341463414,
+      0.24744483159117303
+    ],
+    [
+      "carvalhopurus",
+      "ExtremeTrees",
+      "APosPros",
+      0.6876518491573376,
+      1.1195121951219513,
+      0.23934862562911344
+    ],
+    [
+      "carvalhopurus",
+      "ExtremeTrees",
+      "APos",
+      0.702006581065373,
+      1.0341463414634147,
+      0.22220770421989933
+    ],
+    [
+      "carvalhopurus",
+      "ExtremeTrees",
+      "A",
+      0.7133769640660114,
+      1.0,
+      0.21776132404181184
+    ],
+    [
+      "carvalhopurus",
+      "SVM",
+      "APosProsFl",
+      0.7126752584563346,
+      1.048780487804878,
+      0.22266260162601625
+    ],
+    [
+      "carvalhopurus",
+      "SVM",
+      "APosPros",
+      0.7382846478313089,
+      0.9195121951219513,
+      0.20870112272551297
+    ],
+    [
+      "carvalhopurus",
+      "SVM",
+      "APos",
+      0.7455589617724421,
+      0.8853658536585366,
+      0.2023586914440573
+    ],
+    [
+      "carvalhopurus",
+      "SVM",
+      "A",
+      0.7320655723176844,
+      0.9585365853658536,
+      0.21360143244289587
+    ],
+    [
+      "carvalhopurus",
+      "CorPaR",
+      "APosProsFl",
+      0.3496790634833126,
+      2.9560975609756097,
+      0.597367402245451
+    ],
+    [
+      "carvalhopurus",
+      "CorPaR",
+      "APosPros",
+      0.44044865740743644,
+      2.282926829268293,
+      0.4679210220673636
+    ],
+    [
+      "carvalhopurus",
+      "CorPaR",
+      "APos",
+      0.43899004205771236,
+      2.3804878048780487,
+      0.49254742547425473
+    ],
+    [
+      "carvalhopurus",
+      "CorPaR",
+      "A",
+      0.5388820085564425,
+      1.8146341463414635,
+      0.3730807200929152
+    ]
+  ]
+}
