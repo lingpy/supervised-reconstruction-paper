@@ -1,21 +1,21 @@
 """
 Module provides methods for linguistic reconstruction.
 """
+import random
+import itertools
+import collections
+
 from lingpy.align.sca import Alignments, get_consensus
 from lingpy.sequence.sound_classes import prosodic_string, class2tokens
 from lingpy.align.multiple import Multiple
 from lingpy.align.pairwise import edit_dist, nw_align
 from lingpy.evaluate.acd import _get_bcubed_score as get_bcubed_score
-from collections import defaultdict
 from lingpy.align.sca import normalize_alignment
-import random
 import networkx as nx
 from networkx.algorithms.clique import find_cliques
-from itertools import combinations
 
 
 def ungap(alignment, languages, proto):
-    cols = []
     pidxs = []
     for i, taxon in enumerate(languages):
         if taxon == proto:
@@ -61,8 +61,10 @@ def ungap(alignment, languages, proto):
 
 
 def clean_sound(sound):
-    itms = sound.split('.')
-    return ".".join([s.split('/')[1] if "/" in s else s for s in itms])
+    """
+    Get rid of "a/b" notation for sound segments.
+    """
+    return ".".join([s.split('/')[1] if "/" in s else s for s in sound.split('.')])
 
 
 def alm2tok(seq, gap="-"):
@@ -71,10 +73,11 @@ def alm2tok(seq, gap="-"):
 
 
 def unsegment(seq):
-    out = []
-    for itm in seq:
-        out += itm.split('.')
-    return out
+    """
+    >>> unsegment(['a', 'b.c'])
+    ... ['a', 'b', 'c']
+    """
+    return list(itertools.chain(*[itm.split('.') for itm in seq]))
 
 
 class CorPaRClassifier(object):
@@ -85,18 +88,10 @@ class CorPaRClassifier(object):
         self.threshold = threshold
 
     def compatible(self, ptA, ptB):
-        match, mismatch = 0, 0
-        for a, b in zip(ptA, ptB):
-            if not a or not b:
-                pass
-            elif a == b:
-                match += 1
-            else:
-                mismatch += 1
-        return match, mismatch
+        c = collections.Counter([a == b for a, b in zip(ptA, ptB) if a and b])
+        return c[True], c[False]
 
     def consensus(self, nodes):
-        
         cons = []
         for i in range(len(nodes[0])):
             nocons = True
@@ -115,11 +110,11 @@ class CorPaRClassifier(object):
         TODO: think about post-processing procedure for candidates!
         """
         # get identical patterns
-        P = defaultdict(list)
+        P = collections.defaultdict(list)
         for i, row in enumerate(X):
             P[tuple(row+[y[i]])] += [i]
         # make graph
-        for (pA, vA), (pB, vB) in combinations(P.items(), r=2):
+        for (pA, vA), (pB, vB) in itertools.combinations(P.items(), r=2):
             match, mismatch = self.compatible(pA, pB)
             if not mismatch and match >= self.threshold:
                 if not pA in self.G:
@@ -127,8 +122,8 @@ class CorPaRClassifier(object):
                 if not pB in self.G:
                     self.G.add_node(pB, freq=len(vB))
                 self.G.add_edge(pA, pB, weight=match)
-        self.patterns = defaultdict(lambda : defaultdict(list))
-        self.lookup = defaultdict(lambda : defaultdict(int))
+        self.patterns = collections.defaultdict(lambda : collections.defaultdict(list))
+        self.lookup = collections.defaultdict(lambda : collections.defaultdict(int))
         # get cliques
         for nodes in find_cliques(self.G):
             cons = self.consensus(list(nodes))
@@ -149,7 +144,7 @@ class CorPaRClassifier(object):
             self.predictions[ptn] = self.predictions[ptnB]
 
         # make index of data points for quick search based on attested data
-        self.ptnlkp = defaultdict(list)
+        self.ptnlkp = collections.defaultdict(list)
         for ptn in self.patterns:
             for i in range(len(ptn)):
                 if ptn[i] != self.missing:
@@ -417,8 +412,8 @@ class PatternReconstructor(ReconstructionBase):
 
         @param clf: a classifier with a predict function.
         """
-        self.patterns = defaultdict(lambda : defaultdict(list))
-        self.occurrences = defaultdict(list)
+        self.patterns = collections.defaultdict(lambda : collections.defaultdict(list))
+        self.occurrences = collections.defaultdict(list)
         self.func = func or transform_alignment
         
         for cogid, alignment, languages in self.iter_sequences(
@@ -509,20 +504,13 @@ class PatternReconstructor(ReconstructionBase):
         return alm2tok(out) if desegment else out
 
 
-def eval_by_dist(data, func=None, **kw):
+def eval_by_dist(data, func=edit_dist, **kw):
     """
     Evaluate by measuring distances between sequences.
     
     @note: Defaults to the unnormalized edit distance.
     """
-    func = func or edit_dist
-    scores = []
-    for seqA, seqB in data:
-        if not seqA:
-            seqA = ["?"]
-        if not seqB:
-            seqB = ["?"]
-        scores += [func(seqA, seqB, **kw)]
+    scores = [func(seqA or ['?'], seqB or ['?'], **kw) for seqA, seqB in data]
     return sum(scores)/len(scores)
 
 
@@ -531,11 +519,7 @@ def eval_by_bcubes(data, func=None, **kw):
     func = nw_align
     almsA, almsB = [], []
     for seqA, seqB in data:
-        if not seqA:
-            seqA = ["?"]
-        if not seqB:
-            seqB = ["?"]
-        almA, almB, score = func(seqA, seqB, **kw)
+        almA, almB, score = func(seqA or ['?'], seqB or ['?'], **kw)
         for a, b in zip(almA, almB):
             if not a in numsA:
                 numsA[a] = max(numsA.values())+1
@@ -545,6 +529,3 @@ def eval_by_bcubes(data, func=None, **kw):
             almsB += [numsB[b]]
     p, r = get_bcubed_score(almsA, almsB), get_bcubed_score(almsB, almsA)
     return 2*(p*r)/(p+r)
-                
-
-
