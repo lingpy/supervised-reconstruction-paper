@@ -66,6 +66,7 @@ def clean_sound(sound):
 
 
 def alm2tok(seq, gap="-"):
+    """Turn an alignent into a sequence."""
     return [clean_sound(x) for x in unsegment(seq) if x != gap]
 
 
@@ -78,7 +79,7 @@ def unsegment(seq):
 
 class CorPaRClassifier(object):
 
-    def __init__(self, minrefs=2, missing=0, threshold=1):
+    def __init__(self, missing=0, threshold=1):
         self.G = nx.Graph()
         self.missing = 0
         self.threshold = threshold
@@ -203,19 +204,24 @@ class ReconstructionBase(Alignments):
         self.tgtidx = self.cols.index(target)
         self.lngidx = {t: self.cols.index(t) for t in self.languages}
 
-    def iter_alignments(self, valid_target=True):
+    def iter_sequences(self, valid_target=True, aligned=False):
+        """
+        Iterate over aligned or unaligned sequences with or without the target \
+                sequence.
+        """
+        seq_ref = self._alignments if aligned else self._segments
         for cogid, idxs in self.etd[self._ref].items():
             if valid_target and idxs[self.tgtidx]:
                 if self._mode == "fuzzy":
                     target = self[
                             idxs[self.tgtidx][0],
-                            self._alignment
+                            seq_ref
                             ].n[
                                     self[
                                         idxs[self.tgtidx][0], self._ref
                                         ].index(cogid)]
                 else:
-                    target = self[idxs[self.tgtidx][0], self._alignment]
+                    target = self[idxs[self.tgtidx][0], seq_ref]
                 alignment, languages = [], []
                 for j, lng in enumerate(self.languages):
                     lidx = self.lngidx[lng]
@@ -223,13 +229,14 @@ class ReconstructionBase(Alignments):
                         languages += [lng]
                         idx = idxs[lidx][0]
                         if self._mode == "fuzzy":
-                            alm = self[idx, self._alignment].n[
+                            alm = self[idx, seq_ref].n[
                                     self[idx, self._ref].index(cogid)]
                         else:
-                            alm = self[idx, self._alignment]
+                            alm = self[idx, seq_ref]
                         alignment.append([clean_sound(x) for x in alm])
                 alignment.append([clean_sound(x) for x in target])
-                alignment = normalize_alignment(alignment)
+                if aligned:
+                    alignment = normalize_alignment(alignment)
                 languages.append(self.target)
                 yield cogid, alignment, languages
             elif not valid_target:
@@ -240,12 +247,13 @@ class ReconstructionBase(Alignments):
                         languages += [lng]
                         idx = idxs[lidx][0]
                         if self._mode == "fuzzy":
-                            alm = self[idx, self._alignment].n[
+                            alm = self[idx, seq_ref].n[
                                     self[idx, self._ref].index(cogid)]
                         else:
-                            alm = self[idx, self._alignment]
+                            alm = self[idx, seq_ref]
                         alignment.append(alm)
-                normalize_alignment(alignment)
+                if aligned: 
+                    alignment = normalize_alignment(alignment)
                 yield cogid, alignment, languages
 
 
@@ -254,9 +262,11 @@ class Trainer(ReconstructionBase):
     Base class to split data into test and training sets.
     """
 
-    def split(self, proportions=None, seed=None, minrefs=1):
+    def split(self, proportions=None, seed=None, minrefs=2):
         """
         Split into training, test, and evaluation set.
+
+        @param minrefs: minimal number of reflexes when splitting the data. 
         """
         if seed:
             random.seed(seed)
@@ -264,7 +274,7 @@ class Trainer(ReconstructionBase):
         assert sum(proportions) == 100
         
         sample = {}
-        for cogid, alignment, languages in self.iter_alignments(
+        for cogid, alignment, languages in self.iter_sequences(
                 valid_target=True):
             if alignment[:-1] and len(languages) > minrefs:
                 sample[cogid] = (alignment[:-1], alignment[-1], languages[:-1])
@@ -328,7 +338,7 @@ class OneHot(object):
 
 
 
-def simple_align(
+def transform_alignment(
         seqs, 
         languages, 
         all_languages,
@@ -401,7 +411,7 @@ class PatternReconstructor(ReconstructionBase):
     Automatic reconstruction with correspondence patterns.
     """
 
-    def fit(self, clf=None, onehot=False, func=None):
+    def fit(self, clf=None, onehot=False, func=None, aligned=False):
         """
         Fit a classifier to the data.
 
@@ -409,9 +419,10 @@ class PatternReconstructor(ReconstructionBase):
         """
         self.patterns = defaultdict(lambda : defaultdict(list))
         self.occurrences = defaultdict(list)
-        self.func = func or simple_align
+        self.func = func or transform_alignment
         
-        for cogid, alignment, languages in self.iter_alignments(valid_target=True):
+        for cogid, alignment, languages in self.iter_sequences(
+                valid_target=True, aligned=aligned):
             if len(alignment) >= 2:
                 matrix = self.func(
                         alignment,
@@ -425,11 +436,8 @@ class PatternReconstructor(ReconstructionBase):
                     for j, lng in enumerate(self.languages):
                         if row[j] not in [self.missing]:
                             self.occurrences[lng, j, row[j]] += [(cogid, i)]
-                        #print(lng, j, row[j], row, ptn)
                     for j in range(len(self.languages)+1, len(row)):
-                        #print(j, row[j], row, ptn)
                         self.occurrences["feature-{0}".format(j-1), j-1, row[j]] += [(cogid, i)]
-                    #input()
         
         self.snd2idx = {(i, self.missing): 0 for i in
                 range(len(matrix[0]))}
@@ -477,8 +485,13 @@ class PatternReconstructor(ReconstructionBase):
             self.clf.fit(self.matrix, self.solutions)
         self.idx2tgt = {v: k for k, v in self.tgt2idx.items()}
 
-    def predict(self, alignment, languages, unknown="?", onehot=False):
+    def predict(
+            self, alignment, languages, unknown="?", onehot=False,
+            desegment=True):
         """
+        Predict a target word from an alignment.
+
+        @param desegment: Return the form without gaps and ungapped tokens.
         """
         matrix = self.func(alignment, languages, self.languages, training=False)
         for row in matrix:
@@ -492,8 +505,8 @@ class PatternReconstructor(ReconstructionBase):
                 new_matrix[i][j] = self.snd2idx.get((j, char), 0)
         if hasattr(self, "onehot"):
             new_matrix = self.onehot(new_matrix)
-        return [self.idx2tgt.get(idx, unknown) for idx in self.clf.predict(new_matrix)]
-
+        out = [self.idx2tgt.get(idx, unknown) for idx in self.clf.predict(new_matrix)]
+        return alm2tok(out) if desegment else out
 
 
 def eval_by_dist(data, func=None, **kw):
