@@ -10,3 +10,11 @@ git clone https://github.com/lexibank/wangbai.git
 cd wangbai
 git checkout v1.0
 cd ..
+git clone https://github.com/lexibank/pharaocoracholaztecan.git
+cd pharaocoracholaztecan
+git checkout v1.0
+cd ..
+git clone https://github.com/lexibank/davletshinaztecan.git
+cd davletshinaztecan
+git checkout v1.0
+cd ..
