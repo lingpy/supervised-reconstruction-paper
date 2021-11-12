@@ -1,68 +1,60 @@
 """
 Module provides methods for linguistic reconstruction.
 """
+import random
+import itertools
+import collections
+
 from lingpy.align.sca import Alignments, get_consensus
 from lingpy.sequence.sound_classes import prosodic_string, class2tokens
 from lingpy.align.multiple import Multiple
 from lingpy.align.pairwise import edit_dist, nw_align
 from lingpy.evaluate.acd import _get_bcubed_score as get_bcubed_score
-from collections import defaultdict
 from lingpy.align.sca import normalize_alignment
-import random
 import networkx as nx
 from networkx.algorithms.clique import find_cliques
-from itertools import combinations
 
 
 def ungap(alignment, languages, proto):
-    cols = []
-    pidxs = []
-    for i, taxon in enumerate(languages):
-        if taxon == proto:
-            pidxs += [i]
+    """
+    >>> ungap([['a', 'b'], ['x', '-'], ['y', '-']], ['proto', 'l1', 'l2'], 'proto')
+    ... [['a.b'], ['x'], ['y']]
+    >>> ungap([['a', 'b'], ['x', '-'], ['y', 'h']], ['proto', 'l1', 'l2'], 'proto')
+    ... [['a', 'b'], ['x', '-'], ['y', 'h']]
+    """
+    pidxs = [i for i, taxon in enumerate(languages) if taxon == proto]
     merges = []
-    for i in range(len(alignment[0])):
+    for i in range(len(alignment[0])):  # go through the rows of the alignment ...
         col = [row[i] for row in alignment]
-        col_rest = [site for j, site in enumerate(col) if j not in pidxs]
-        if "-" in col_rest and len(set(col_rest)) == 1:
+        # ... looking for gap-only alignments (in non-proto languages):
+        if {site for j, site in enumerate(col) if j not in pidxs} == {'-'}:
             merges += [i]
-    if merges:
-        new_alms = []
-        for i, row in enumerate(alignment):
-            new_alm = []
-            mergeit = False
-            started = True
-            for j, cell in enumerate(row):
-                if j in merges or mergeit:
-                    mergeit = False
-                    if not started: #j != 0:
-                        if cell == "-":
-                            pass
-                        else:
-                            if not new_alm[-1]:
-                                new_alm[-1] += cell
-                            else:
-                                new_alm[-1] += '.'+cell
-                    else:
-                        mergeit = True
-                        if cell == "-":
-                            new_alm += [""]
-                        else:
-                            new_alm += [cell]
+    if not merges:
+        return alignment
+    new_alms = []
+    for i, row in enumerate(alignment):
+        new_alm, mergeit, started = [], False, True
+        for j, cell in enumerate(row):
+            if j in merges or mergeit:
+                mergeit = False
+                if not started: #j != 0:
+                    if cell != "-":
+                        new_alm[-1] += '.' + cell if new_alm[-1] else cell
                 else:
-                    started = False
-                    new_alm += [cell]
-            for k, cell in enumerate(new_alm):
-                if not cell:
-                    new_alm[k] = "-"
-            new_alms += [new_alm]
-        return new_alms
-    return alignment
+                    mergeit = True
+                    new_alm.append("" if cell == "-" else cell)
+            else:
+                started = False
+                new_alm.append(cell)
+        new_alms.append([cell or "-" for cell in new_alm])
+    return new_alms
 
 
 def clean_sound(sound):
-    itms = sound.split('.')
-    return ".".join([s.split('/')[1] if "/" in s else s for s in itms])
+    """
+    Get rid of "a/b" notation for sound segments.
+    """
+    return ".".join([s.split('/')[1] if "/" in s else s for s in sound.split('.')])
 
 
 def alm2tok(seq, gap="-"):
@@ -71,10 +63,11 @@ def alm2tok(seq, gap="-"):
 
 
 def unsegment(seq):
-    out = []
-    for itm in seq:
-        out += itm.split('.')
-    return out
+    """
+    >>> unsegment(['a', 'b.c'])
+    ... ['a', 'b', 'c']
+    """
+    return list(itertools.chain(*[itm.split('.') for itm in seq]))
 
 
 class CorPaRClassifier(object):
@@ -85,18 +78,13 @@ class CorPaRClassifier(object):
         self.threshold = threshold
 
     def compatible(self, ptA, ptB):
-        match, mismatch = 0, 0
-        for a, b in zip(ptA, ptB):
-            if not a or not b:
-                pass
-            elif a == b:
-                match += 1
-            else:
-                mismatch += 1
-        return match, mismatch
+        """
+        Returns counts of matching and non-matching sites
+        """
+        c = collections.Counter([a == b for a, b in zip(ptA, ptB) if a and b])
+        return c[True], c[False]
 
     def consensus(self, nodes):
-        
         cons = []
         for i in range(len(nodes[0])):
             nocons = True
@@ -115,78 +103,62 @@ class CorPaRClassifier(object):
         TODO: think about post-processing procedure for candidates!
         """
         # get identical patterns
-        P = defaultdict(list)
+        P = collections.defaultdict(list)
         for i, row in enumerate(X):
-            P[tuple(row+[y[i]])] += [i]
+            P[tuple(row + [y[i]])].append(i)
         # make graph
-        for (pA, vA), (pB, vB) in combinations(P.items(), r=2):
+        for (pA, vA), (pB, vB) in itertools.combinations(P.items(), r=2):
             match, mismatch = self.compatible(pA, pB)
             if not mismatch and match >= self.threshold:
-                if not pA in self.G:
+                if pA not in self.G:
                     self.G.add_node(pA, freq=len(vA))
-                if not pB in self.G:
+                if pB not in self.G:
                     self.G.add_node(pB, freq=len(vB))
                 self.G.add_edge(pA, pB, weight=match)
-        self.patterns = defaultdict(lambda : defaultdict(list))
-        self.lookup = defaultdict(lambda : defaultdict(int))
+        self.patterns = collections.defaultdict(collections.Counter)
+        self.lookup = collections.defaultdict(collections.Counter)
         # get cliques
         for nodes in find_cliques(self.G):
             cons = self.consensus(list(nodes))
             self.patterns[cons[:-1]][cons[-1]] = len(nodes)
             for node in nodes:
                 self.lookup[node[:-1]][cons[:-1]] += len(nodes)
-        self.candidates = {}
-        self.predictions = {}
-        for ptn in self.patterns:
-            self.predictions[ptn] = [x for x, y in sorted(
-                self.patterns[ptn].items(),
-                key=lambda p: p[1],
-                reverse=True)][0]
-        for ptn in self.lookup:
-            ptnB = [x for x, y in sorted(self.lookup[ptn].items(),
-                key=lambda p: p[1],
-                reverse=True)][0]
-            self.predictions[ptn] = self.predictions[ptnB]
+        self.predictions = {
+            ptn: counts.most_common(1)[0][0] for ptn, counts in self.patterns.items()}
+        for ptn, counts in self.lookup.items():
+            self.predictions[ptn] = self.predictions[counts.most_common(1)[0][0]]
 
         # make index of data points for quick search based on attested data
-        self.ptnlkp = defaultdict(list)
+        self.ptnlkp = collections.defaultdict(list)
         for ptn in self.patterns:
             for i in range(len(ptn)):
                 if ptn[i] != self.missing:
                     self.ptnlkp[i, ptn[i]] += [ptn]
 
-        
     def predict(self, matrix):
         out = []
         for row in matrix:
             ptn = tuple(row)
-            try:
-                out += [self.predictions[ptn]]
-            except KeyError:
-                candidates = []
-                visited = set()
-                for i in range(len(ptn)-1):
+            if ptn in self.predictions:
+                out.append(self.predictions[ptn])
+            else:
+                candidates = collections.Counter()
+                for i in range(len(ptn) - 1):
                     if ptn[i] != self.missing:
                         for ptnB in self.ptnlkp[i, ptn[i]]:
-                            if ptnB not in visited:
-                                visited.add(ptnB)
+                            if ptnB not in candidates:
                                 match, mismatch = self.compatible(ptn, ptnB)
                                 if match and not mismatch:
-                                    candidates += [(ptnB, match+len(ptn))]
-                                elif match-mismatch:
-                                    candidates += [(ptnB, match-mismatch)]
+                                    candidates[ptnB] = match + len(ptn)
+                                elif match - mismatch:
+                                    candidates[ptnB] = match - mismatch
                 if candidates:
-                    ptn = [x for x, y in sorted(
-                        candidates,
-                        key=lambda p: p[1],
-                        reverse=True)][0]
-                    self.predictions[tuple(row)] = self.predictions[ptn]
+                    self.predictions[tuple(row)] = self.predictions[candidates.most_common(1)[0][0]]
                     out += [self.predictions[tuple(row)]]
                 else:
                     out += [self.missing]
         return out
         
-
 
 class ReconstructionBase(Alignments):
     """
@@ -417,8 +389,8 @@ class PatternReconstructor(ReconstructionBase):
 
         @param clf: a classifier with a predict function.
         """
-        self.patterns = defaultdict(lambda : defaultdict(list))
-        self.occurrences = defaultdict(list)
+        self.patterns = collections.defaultdict(lambda : collections.defaultdict(list))
+        self.occurrences = collections.defaultdict(list)
         self.func = func or transform_alignment
         
         for cogid, alignment, languages in self.iter_sequences(
@@ -509,20 +481,13 @@ class PatternReconstructor(ReconstructionBase):
         return alm2tok(out) if desegment else out
 
 
-def eval_by_dist(data, func=None, **kw):
+def eval_by_dist(data, func=edit_dist, **kw):
     """
     Evaluate by measuring distances between sequences.
     
     @note: Defaults to the unnormalized edit distance.
     """
-    func = func or edit_dist
-    scores = []
-    for seqA, seqB in data:
-        if not seqA:
-            seqA = ["?"]
-        if not seqB:
-            seqB = ["?"]
-        scores += [func(seqA, seqB, **kw)]
+    scores = [func(seqA or ['?'], seqB or ['?'], **kw) for seqA, seqB in data]
     return sum(scores)/len(scores)
 
 
@@ -531,11 +496,7 @@ def eval_by_bcubes(data, func=None, **kw):
     func = nw_align
     almsA, almsB = [], []
     for seqA, seqB in data:
-        if not seqA:
-            seqA = ["?"]
-        if not seqB:
-            seqB = ["?"]
-        almA, almB, score = func(seqA, seqB, **kw)
+        almA, almB, score = func(seqA or ['?'], seqB or ['?'], **kw)
         for a, b in zip(almA, almB):
             if not a in numsA:
                 numsA[a] = max(numsA.values())+1
@@ -545,6 +506,3 @@ def eval_by_bcubes(data, func=None, **kw):
             almsB += [numsB[b]]
     p, r = get_bcubed_score(almsA, almsB), get_bcubed_score(almsB, almsA)
     return 2*(p*r)/(p+r)
-                
-
-
