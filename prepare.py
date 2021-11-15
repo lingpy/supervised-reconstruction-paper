@@ -1,21 +1,19 @@
 """
 Prepare test and training data for the experiments.
 """
-from lingrexpi.rec import Trainer
+from lingrexpi.reconstruct import Trainer
 from pathlib import Path
 import json
 from tabulate import tabulate
 from tqdm import tqdm as progressbar
 
 datasets = {
-        "davletshinaztecan": ("ProtoAztecan", "Aztecan"),
-        #"wangbai": ("ProtoBai", "Bai"),
-        #"hillburmish": ("ProtoBurmish", "Burmish"),
-        "pharaocoracholaztecan": ("ProtoCoracholNahua", "Corachol"),
-        #"ltkkaren": ("ProtoKaren", "Karen"),
-        #"yanglalo": ("ProtoLalo", "Lalo"),
-        #"carvalhopurus": ("ProtoPurus", "Purus"),
-        #"meloniromance": ("Latin", "Romance"),
+        "wangbai": ("ProtoBai", "Bai"),
+        "hillburmish": ("ProtoBurmish", "Burmish"),
+        "ltkkaren": ("ProtoKaren", "Karen"),
+        "yanglalo": ("ProtoLalo", "Lalo"),
+        "carvalhopurus": ("ProtoPurus", "Purus"),
+        "meloniromance": ("Latin", "Romance"),
         }
 table = []
 for ds, (proto, name) in progressbar(datasets.items()):

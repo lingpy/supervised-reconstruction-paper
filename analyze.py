@@ -1,7 +1,7 @@
 """
 Analyze the data.
 """
-from lingrexpi.rec import (
+from lingrexpi.reconstruct import (
         PatternReconstructor, CorPaRClassifier,
         transform_alignment)
 from sklearn.svm import SVC

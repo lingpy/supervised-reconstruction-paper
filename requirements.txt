@@ -6,6 +6,7 @@ colorlog==6.6.0
 csvw==1.11.0
 cycler==0.11.0
 decorator==5.1.0
+igraph==0.9.8
 ipython==7.29.0
 isodate==0.6.0
 jedi==0.18.0
@@ -31,12 +32,14 @@ pyedictor==0.3
 Pygments==2.10.0
 pyparsing==3.0.6
 python-dateutil==2.8.2
+python-igraph==0.9.8
 PyYAML==6.0
 rfc3986==1.5.0
 scikit-learn==1.0.1
 scipy==1.7.2
 six==1.16.0
 tabulate==0.8.9
+texttable==1.6.4
 threadpoolctl==3.0.0
 tqdm==4.62.3
 traitlets==5.1.1

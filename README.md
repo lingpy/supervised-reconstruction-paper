@@ -1,4 +1,4 @@
-# Code and Data to Replicate the Study "Supervised Reconstruction"
+# Code and Data to Replicate the Study "A New Framework for Fast Automated Phonological Reconstruction Using Trimmed Alignments and Sound Correspondence Patterns"
 
 ## Data
 
