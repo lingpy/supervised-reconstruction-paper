@@ -11,7 +11,7 @@ from statistics import mean
 from glob import glob
 from collections import defaultdict
 from lingpy import *
-from lingrexpi.reconstruct import eval_by_dist, eval_by_bcubes
+from lingrex.reconstruct import eval_by_dist, eval_by_bcubes
 from tqdm import tqdm as progressbar
 
 

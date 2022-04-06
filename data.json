@@ -1,0 +1,44 @@
+{
+  "hillburmish": {
+    "proto": "ProtoBurmish",
+    "name": "Burmish",
+    "path": "lexibank/hillburmish",
+    "version": "81925a29",
+    "cognates": "partial_cognacy"
+  },
+  "wangbai": {
+    "proto": "ProtoBai",
+    "name": "Bai",
+    "path": "lexibank/wangbai",
+    "version": "v1.0",
+    "cognates": ""
+  },
+  "ltkkaren": {
+    "proto": "ProtoKaren",
+    "name": "Karen",
+    "path": "lexibank/luangthongkumkaren",
+    "version": "8f428ba1",
+    "cognates": "partial_cognacy"
+  },
+  "meloniromance": {
+    "proto": "Latin",
+    "name": "Romance",
+    "path": "lexibank/meloniromance",
+    "version": "7e6206f6",
+    "cognates": "cognacy"
+  },
+  "carvalhopurus": {
+    "proto": "ProtoPurus",
+    "name": "Purus",
+    "path": "lexibank/carvalhopurus",
+    "version": "v1.0.1",
+    "cognates": "cogid_cognatesetid"
+  },
+  "yanglalo": {
+    "proto": "ProtoLalo",
+    "name": "Lalo",
+    "path": "lexibank/yanglalo",
+    "version": "v3.0",
+    "cognates": ""
+  }
+}

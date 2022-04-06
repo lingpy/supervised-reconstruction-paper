@@ -1,7 +1,7 @@
 """
 Prepare test and training data for the experiments.
 """
-from lingrexpi.reconstruct import Trainer
+from pkg.util import Trainer
 from pathlib import Path
 import json
 from tabulate import tabulate
@@ -15,6 +15,7 @@ datasets = {
         "carvalhopurus": ("ProtoPurus", "Purus"),
         "meloniromance": ("Latin", "Romance"),
         }
+
 table = []
 for ds, (proto, name) in progressbar(datasets.items()):
     trn = Trainer(
@@ -45,4 +46,4 @@ for ds, (proto, name) in progressbar(datasets.items()):
                 "results", "testitems", name, "test-{0}.json".format(i+1)), 
                 "w") as f:
             json.dump(test_set, f)
-print(tabulate(table))
+print(tabulate(table, tablefmt="latex"))
