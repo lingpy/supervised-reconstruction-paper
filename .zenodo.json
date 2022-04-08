@@ -1,0 +1,31 @@
+{
+    "title": "A New Framework for Fast Automated Phonological Reconstruction Using Trimmed Alignments and Sound Correspondence Patterns",
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Robert Forkel"
+        },
+        {
+            "name": "Nathan W. Hill"
+        }
+    ],
+    "access_right": "open",
+    "keywords": [
+        "linguistics",
+        "cldf:Wordlist"
+    ],
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "upload_type": "software",
+    "communities": [
+        {
+            "identifier": "digling"
+        },
+        {
+            "identifier": "calc"
+        }
+    ]
+}
