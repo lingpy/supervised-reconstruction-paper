@@ -115,5 +115,4 @@ This will create three plots, two showing individual results, one showing combin
  Romance   &      0.7262 &   0.7192 & 0.6871 & 0.7253 & 0.6705 \\
 \hline
 \end{tabular}
-
 ```
