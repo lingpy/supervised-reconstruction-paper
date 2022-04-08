@@ -2,9 +2,20 @@
 
 ## Data
 
-The data is originally coded in CLDF (Forkel et al. 2018) and then converted to TSV formats needed as input for the framework. The conversion is done automatically with the help of the [pyedictor](https://github.com/lingpy/pyedictor) tool. Two datasets are for now only offered in the form of a TSV file, since they were not published in this form before, but repositories in the form of CLDF are planned to be published later. 
+The data is originally coded in CLDF (Forkel et al. 2018) and then converted to TSV formats needed as input for the framework. The conversion is done automatically with the help of the [pyedictor](https://github.com/lingpy/pyedictor) tool.  
 
-If you are interested in how the original data was converted to the TSV files from the CLDF datasets, please check the shell-scripts in the folder `repos`.
+To download the data, you can use this Python script:
+
+```
+$ python download.py
+```
+
+To prepare the data, we offer a Make file that uses `pyedictor` to convert the wordlists into their desired format:
+
+```
+$ make all
+```
+
 
 ## Code
 
@@ -18,6 +29,21 @@ To prepare the split of test and training data, the script `prepare.py` loads al
 
 ```
 $ python prepare.py
+```
+
+This will provide as output a table in LaTeX format:
+
+```
+\begin{tabular}{lrrr}
+\hline
+ Bai     & 10 &  459 &  3866 \\
+ Burmish &  9 &  269 &  1711 \\
+ Karen   & 11 &  365 &  3231 \\
+ Lalo    &  8 & 1251 &  7815 \\
+ Purus   &  4 &  199 &   693 \\
+ Romance &  6 & 4147 & 18806 \\
+\hline
+\end{tabular}
 ```
 
 To run the actual analysis for SVM classifiers, type:

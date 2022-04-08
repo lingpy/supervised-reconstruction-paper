@@ -1,7 +1,7 @@
 """
 Analyze the data.
 """
-from lingrexpi.reconstruct import (
+from lingrex.reconstruct import (
         PatternReconstructor, CorPaRClassifier,
         transform_alignment)
 from sklearn.svm import SVC
@@ -87,4 +87,6 @@ for ds, proto in datasets:
                 with open(res_path, "w") as f:
                     for a, b in results:
                         f.write(" ".join(a)+"\t"+" ".join(b)+"\n")
+            else:
+                print("Skipping existing analysis.")
 

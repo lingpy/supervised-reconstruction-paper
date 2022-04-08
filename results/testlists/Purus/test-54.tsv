@@ -1,656 +1,628 @@
 ID	DOCULECT	CONCEPT	FORM	TOKENS	ALIGNMENT	COGID
-532	Apurina	1	mane	m a n e	m a n e	1
-533	Inapari	1	mana	m a n a	m a n a	1
-534	Yine	1	mane	m a n e	m a n e	1
-535	ProtoPurus	1	mane	m a n e	m a n e	1
-387	Apurina	10	kiri	k i r i	k i r i	10
-388	Inapari	10	hiri	h i r i	h i r i	10
-389	Yine	10	hi	h i	h i	10
-390	ProtoPurus	10	kiri	k i r i	k i r i	10
-487	Apurina	100	tsomi	ts o m i	ts o m i	100
-488	Inapari	100	tomi	t o m i	t o m i	100
-489	Yine	100	tsomi	ts o m i	ts o m i	100
-490	ProtoPurus	100	tsomi	ts o m i	ts o m i	100
-645	Apurina	101	kẽtʃi	k ẽ tʃ i	k ẽ tʃ i	101
-646	Inapari	101	uri	u r i	u r i	101
-647	Yine	101	çnɨ	ç n ɨ	ç n ɨ	101
-648	ProtoPurus	101	kenɨ	k e n ɨ	k e n ɨ	101
-241	Apurina	102	ʃima	ʃ i m a	ʃ i m a	102
-242	Inapari	102	hima	h i m a	h i m a	102
-243	Yine	102	ʃima	ʃ i m a	ʃ i m a	102
-244	ProtoPurus	102	sima	s i m a	s i m a	102
-166	Apurina	103	oma	o m a	o m a	103
-167	Inapari	103	huma	h u m a	h u m a	103
-168	Yine	103	homa	h o m a	h o m a	103
-169	ProtoPurus	103	huma	h u m a	h u m a	103
-543	Inapari	104	juturo	j u t u r o	j u t u r o	104
-544	Yine	104	jotlo	j o t l o	j o t l o	104
-545	ProtoPurus	104	juturo	j u t u r o	j u t u r o	104
-324	Apurina	105	ʃijo	ʃ i j o	ʃ i j o	105
-325	Inapari	105	hiju	h i j u	h i j u	105
-326	Yine	105	ʃjo	ʃ j o	ʃ j o	105
-327	ProtoPurus	105	siju	s i j u	s i j u	105
-62	Apurina	106	majorɨ	m a j o r ɨ	m a j o r ɨ	106
-63	Inapari	106	majuri	m a j u r i	m a j u r i	106
-64	Yine	106	majlɨ	m a j l ɨ	m a j l ɨ	106
-65	ProtoPurus	106	majurɨ	m a j u r ɨ	m a j u r ɨ	106
-320	Apurina	107	irẽka	i r ẽ k a	i r ẽ k a	107
-321	Inapari	107	hireʔa	h i r e ʔ a	h i r e ʔ a	107
-322	Yine	107	hijeka	h i j e k a	h i j e k a	107
-323	ProtoPurus	107	hireka	h i r e k a	h i r e k a	107
-428	Inapari	108	hitʃitʃi	h i tʃ i tʃ i	h i tʃ i tʃ i	108
-429	Yine	108	hitʃitʃi	h i tʃ i tʃ i	h i tʃ i tʃ i	108
-430	ProtoPurus	108	hititi	h i t i t i	h i t i t i	108
-416	Apurina	11	apɨ	a p ɨ	a p ɨ	11
-417	Inapari	11	apɨ	a p ɨ	a p ɨ	11
-418	Yine	11	hi	h i	h i	11
-419	ProtoPurus	11	hapɨ	h a p ɨ	h a p ɨ	11
-293	Apurina	110	opai	o p a i	o p a i	110
-294	Inapari	110	hupai	h u p a i	h u p a i	110
-295	Yine	110	hopʃi	h o p ʃ i	h o p ʃ i	110
-296	ProtoPurus	110	hupai	h u p a i	h u p a i	110
-460	Apurina	111	kokoi	k o k o i	k o k o i	111
-461	Inapari	111	uʔui	u ʔ u i	u ʔ u i	111
-462	ProtoPurus	111	kukui	k u k u i	k u k u i	111
-622	Apurina	112	musa	m u s a	m u s a	112
-623	Inapari	112	muã	m u ã	m u ã	112
-624	Yine	112	mosa	m o s a	m o s a	112
-625	ProtoPurus	112	musa	m u s a	m u s a	112
-267	Apurina	113	ãamɨna	ã a m ɨ n a	ã a m ɨ n a	113
-268	Inapari	113	haamɨna	h a a m ɨ n a	h a a m ɨ n a	113
-269	Yine	113	hahmɨna	h a h m ɨ n a	h a h m ɨ n a	113
-270	ProtoPurus	113	haha	h a h a	h a h a	113
-594	Apurina	114	kona	k o n a	k o n a	114
-595	Inapari	114	una	u n a	u n a	114
-596	Yine	114	kona	k o n a	k o n a	114
-597	ProtoPurus	114	kuna	k u n a	k u n a	114
-453	Inapari	115	atari	a t a r i	a t a r i	115
-454	Yine	115	katslɨ	k a ts l ɨ	k a ts l ɨ	115
-455	ProtoPurus	115	katsarɨ	k a ts a r ɨ	k a ts a r ɨ	115
-520	Apurina	116	porɨ	p o r ɨ	p o r ɨ	116
-521	Inapari	116	puri	p u r i	p u r i	116
-522	Yine	116	hi	h i	h i	116
-523	ProtoPurus	116	purɨ	p u r ɨ	p u r ɨ	116
-37	Apurina	117	ke	k e	k e	117
-38	Inapari	117	ano	a n o	a n o	117
-39	Yine	117	hi	h i	h i	117
-40	ProtoPurus	117	ke	k e	k e	117
-77	Apurina	118	kɨ	k ɨ	k ɨ	118
-78	Inapari	118	rana	r a n a	r a n a	118
-79	Yine	118	hi	h i	h i	118
-80	ProtoPurus	118	kɨ	k ɨ	k ɨ	118
-473	Inapari	119	patʃa	p a tʃ a	p a tʃ a	119
-474	Yine	119	hi	h i	h i	119
-475	ProtoPurus	119	pata	p a t a	p a t a	119
-179	Apurina	120	ɨ̃wɨ	ɨ̃ w ɨ	ɨ̃ w ɨ	120
-180	Inapari	120	aawɨrɨ	a a w ɨ r ɨ	a a w ɨ r ɨ	120
-181	Yine	120	hi	h i	h i	120
-182	ProtoPurus	120	hɨwɨ	h ɨ w ɨ	h ɨ w ɨ	120
-290	Apurina	122	katsuparɨ	k a ts u p a r ɨ	k a ts u p a r ɨ	122
-291	Inapari	122	atupari	a t u p a r i	a t u p a r i	122
-292	ProtoPurus	122	katsuparɨ	k a ts u p a r ɨ	k a ts u p a r ɨ	122
-652	Apurina	123	kɨparɨ	k ɨ p a r ɨ	k ɨ p a r ɨ	123
-653	Inapari	123	hɨpari	h ɨ p a r i	h ɨ p a r i	123
-654	Yine	123	çipalɨ	ç i p a l ɨ	ç i p a l ɨ	123
-655	ProtoPurus	123	kɨparɨ	k ɨ p a r ɨ	k ɨ p a r ɨ	123
-99	Inapari	124	anɨrɨ	a n ɨ r ɨ	a n ɨ r ɨ	124
-100	Yine	124	kanrɨ	k a n r ɨ	k a n r ɨ	124
-101	ProtoPurus	124	kanɨrɨ	k a n ɨ r ɨ	k a n ɨ r ɨ	124
-195	Inapari	125	himeʔa	h i m e ʔ a	h i m e ʔ a	125
-196	Yine	125	çimeka	ç i m e k a	ç i m e k a	125
-197	ProtoPurus	125	kimeka	k i m e k a	k i m e k a	125
-566	Inapari	126	hisi	h i s i	h i s i	126
-567	Yine	126	ʃiçi	ʃ i ç i	ʃ i ç i	126
-568	ProtoPurus	126	si	s i	s i	126
-407	Inapari	127	hurutʃi	h u r u tʃ i	h u r u tʃ i	127
-408	Yine	127	holotɨ	h o l o t ɨ	h o l o t ɨ	127
-409	ProtoPurus	127	hurutɨ	h u r u t ɨ	h u r u t ɨ	127
-649	Inapari	128	umari	u m a r i	u m a r i	128
-650	Yine	128	komlɨ	k o m l ɨ	k o m l ɨ	128
-651	ProtoPurus	128	kumarɨ	k u m a r ɨ	k u m a r ɨ	128
-641	Apurina	129	ãpɨkɨrɨ	ã p ɨ k ɨ r ɨ	ã p ɨ k ɨ r ɨ	129
-642	Inapari	129	hapisiri	h a p i s i r i	h a p i s i r i	129
-643	Yine	129	hapiçrɨ	h a p i ç r ɨ	h a p i ç r ɨ	129
-644	ProtoPurus	129	hapɨkɨrɨ	h a p ɨ k ɨ r ɨ	h a p ɨ k ɨ r ɨ	129
-115	Apurina	13	tenɨ	t e n ɨ	t e n ɨ	13
-116	Inapari	13	tʃini	tʃ i n i	tʃ i n i	13
-117	Yine	13	tnɨ	t n ɨ	t n ɨ	13
-118	ProtoPurus	13	tenɨ	t e n ɨ	t e n ɨ	13
-372	Apurina	130	piɲi	p i ɲ i	p i ɲ i	130
-373	Inapari	130	pini	p i n i	p i n i	130
-374	Yine	130	pin	p i n	p i n	130
-375	ProtoPurus	130	pini	p i n i	p i n i	130
-271	Apurina	131	atokatʃi	a t o k a tʃ i	a t o k a tʃ i	131
-272	Inapari	131	tuʔati	t u ʔ a t i	t u ʔ a t i	131
-273	Yine	131	tkatʃi	t k a tʃ i	t k a tʃ i	131
-274	ProtoPurus	131	atukatsi	a t u k a ts i	a t u k a ts i	131
-524	Apurina	132	kasɨrɨ	k a s ɨ r ɨ	k a s ɨ r ɨ	132
-525	Inapari	132	aɨrɨ	a ɨ r ɨ	a ɨ r ɨ	132
-526	Yine	132	ksɨrɨ	k s ɨ r ɨ	k s ɨ r ɨ	132
-527	ProtoPurus	132	kasɨrɨ	k a s ɨ r ɨ	k a s ɨ r ɨ	132
-616	Inapari	133	jati	j a t i	j a t i	133
-617	Yine	133	jetʃ	j e tʃ	j e tʃ	133
-618	ProtoPurus	133	jatsi	j a ts i	j a ts i	133
-257	Inapari	134	apetʃa	a p e tʃ a	a p e tʃ a	134
-258	Yine	134	kapet	k a p e t	k a p e t	134
-259	ProtoPurus	134	kapeta	k a p e t a	k a p e t a	134
-376	Apurina	135	i	i	i	135
-377	Inapari	135	hitʃima	h i tʃ i m a	h i tʃ i m a	135
-378	ProtoPurus	135	hitima	h i t i m a	h i t i m a	135
-629	Apurina	136	kɨsi	k ɨ s i	k ɨ s i	136
-630	Yine	136	kʃi	k ʃ i	k ʃ i	136
-631	ProtoPurus	136	kɨsi	k ɨ s i	k ɨ s i	136
-357	Apurina	137	ɨpowã	ɨ p o w ã	ɨ p o w ã	137
-358	Inapari	137	hipuã	h i p u ã	h i p u ã	137
-359	Yine	137	hipow̥a	h i p o w̥ a	h i p o w̥ a	137
-360	ProtoPurus	137	hɨpu	h ɨ p u	h ɨ p u	137
-447	Inapari	138	huni	h u n i	h u n i	138
-448	Yine	138	honɨ	h o n ɨ	h o n ɨ	138
-449	ProtoPurus	138	hunɨ	h u n ɨ	h u n ɨ	138
-467	Apurina	14	tenɨ	t e n ɨ	t e n ɨ	14
-468	Inapari	14	tʃini	tʃ i n i	tʃ i n i	14
-469	ProtoPurus	14	tenɨ	t e n ɨ	t e n ɨ	14
-591	Inapari	140	titi	t i t i	t i t i	140
-592	Yine	140	tʃitʃi	tʃ i tʃ i	tʃ i tʃ i	140
-593	ProtoPurus	140	tsitsi	ts i ts i	ts i ts i	140
-337	Inapari	142	a	a	a	142
-338	Yine	142	hi	h i	h i	142
-339	ProtoPurus	142	pɨna	p ɨ n a	p ɨ n a	142
-102	Inapari	143	hutʃari	h u tʃ a r i	h u tʃ a r i	143
-103	Yine	143	sotlɨ	s o t l ɨ	s o t l ɨ	143
-104	ProtoPurus	143	sutarɨ	s u t a r ɨ	s u t a r ɨ	143
-85	Inapari	144	atinu	a t i n u	a t i n u	144
-86	Yine	144	katʃino	k a tʃ i n o	k a tʃ i n o	144
-87	ProtoPurus	144	katsinu	k a ts i n u	k a ts i n u	144
-516	Apurina	145	awa	a w a	a w a	145
-517	Inapari	145	r	r	r	145
-518	Yine	145	r	r	r	145
-519	ProtoPurus	145	awa	a w a	a w a	145
-383	Apurina	146	apoka	a p o k a	a p o k a	146
-384	Inapari	146	r	r	r	146
-385	Yine	146	hapok	h a p o k	h a p o k	146
-386	ProtoPurus	146	apuka	a p u k a	a p u k a	146
-187	Apurina	147	ɨna	ɨ n a	ɨ n a	147
-188	Inapari	147	r	r	r	147
-189	Yine	147	r	r	r	147
-190	ProtoPurus	147	ɨna	ɨ n a	ɨ n a	147
-48	Inapari	148	i	i	i	148
-49	Yine	148	satok	s a t o k	s a t o k	148
-50	ProtoPurus	148	satuka	s a t u k a	s a t u k a	148
-1	Apurina	149	jana	j a n a	j a n a	149
-2	Inapari	149	i	i	i	149
-3	Yine	149	jan	j a n	j a n	149
-4	ProtoPurus	149	jana	j a n a	j a n a	149
-509	Apurina	15	toro	t o r o	t o r o	15
-510	Inapari	15	turu	t u r u	t u r u	15
-511	ProtoPurus	15	turu	t u r u	t u r u	15
-431	Inapari	150	rɨ	r ɨ	r ɨ	150
-432	Yine	150	rɨ	r ɨ	r ɨ	150
-433	ProtoPurus	150	kunuha	k u n u h a	k u n u h a	150
-135	Inapari	151	r	r	r	151
-136	Yine	151	h	h	h	151
-137	ProtoPurus	151	akapa	a k a p a	a k a p a	151
-170	Inapari	152	i	i	i	152
-171	Yine	152	i	i	i	152
-172	ProtoPurus	152	tserɨ	ts e r ɨ	ts e r ɨ	152
-73	Apurina	154	ɲika	ɲ i k a	ɲ i k a	154
-74	Inapari	154	i	i	i	154
-75	Yine	154	nika	n i k a	n i k a	154
-76	ProtoPurus	154	nika	n i k a	n i k a	154
-173	Inapari	156	i	i	i	156
-174	Yine	156	tʃin	tʃ i n	tʃ i n	156
-175	ProtoPurus	156	tsina	ts i n a	ts i n a	156
-41	Inapari	157	ri	r i	r i	157
-42	Yine	157	tokanɨ	t o k a n ɨ	t o k a n ɨ	157
-43	ProtoPurus	157	tukanə	t u k a n ə	t u k a n ə	157
-105	Inapari	158	i	i	i	158
-106	Yine	158	jokan	j o k a n	j o k a n	158
-107	ProtoPurus	158	jukana	j u k a n a	j u k a n a	158
-11	Inapari	159	i	i	i	159
-12	Yine	159	tom̥a	t o m̥ a	t o m̥ a	159
-13	ProtoPurus	159	tuma	t u m a	t u m a	159
-191	Apurina	16	ãkɨ	ã k ɨ	ã k ɨ	16
-192	Inapari	16	ahɨ	a h ɨ	a h ɨ	16
-193	Yine	16	haç	h a ç	h a ç	16
-194	ProtoPurus	16	hakɨ	h a k ɨ	h a k ɨ	16
-410	Inapari	160	i	i	i	160
-411	Yine	160	hi	h i	h i	160
-412	ProtoPurus	160	nani	n a n i	n a n i	160
-160	Apurina	161	kipa	k i p a	k i p a	161
-161	Inapari	161	i	i	i	161
-162	ProtoPurus	161	kipa	k i p a	k i p a	161
-81	Apurina	163	noã	n o ã	n o ã	163
-82	Inapari	163	r	r	r	163
-83	Yine	163	hanoh	h a n o h	h a n o h	163
-84	ProtoPurus	163	hano	h a n o	h a n o	163
-108	Inapari	164	i	i	i	164
-109	Yine	164	ka	k a	k a	164
-110	ProtoPurus	164	ka	k a	k a	164
-138	Apurina	165	taka	t a k a	t a k a	165
-139	Inapari	165	rɨ	r ɨ	r ɨ	165
-140	Yine	165	rɨ	r ɨ	r ɨ	165
-141	ProtoPurus	165	taka	t a k a	t a k a	165
-92	Inapari	166	i	i	i	166
-93	Yine	166	sito	s i t o	s i t o	166
-94	ProtoPurus	166	sɨtu	s ɨ t u	s ɨ t u	166
-5	Inapari	167	i	i	i	167
-6	Yine	167	tal̥a	t a l̥ a	t a l̥ a	167
-7	ProtoPurus	167	taraha	t a r a h a	t a r a h a	167
-131	Apurina	168	kema	k e m a	k e m a	168
-132	Inapari	168	i	i	i	168
-133	Yine	168	çema	ç e m a	ç e m a	168
-134	ProtoPurus	168	kema	k e m a	k e m a	168
-479	Apurina	169	etama	e t a m a	e t a m a	169
-480	Inapari	169	r	r	r	169
-481	Yine	169	r	r	r	169
-482	ProtoPurus	169	eta	e t a	e t a	169
-554	Apurina	17	opana	o p a n a	o p a n a	17
-555	Inapari	17	upana	u p a n a	u p a n a	17
-556	Yine	17	hi	h i	h i	17
-557	ProtoPurus	17	hupana	h u p a n a	h u p a n a	17
-328	Inapari	170	r	r	r	170
-329	Yine	170	r	r	r	170
-330	ProtoPurus	170	ɨma	ɨ m a	ɨ m a	170
-498	Apurina	171	pika	p i k a	p i k a	171
-499	Inapari	171	i	i	i	171
-500	Yine	171	pika	p i k a	p i k a	171
-501	ProtoPurus	171	pika	p i k a	p i k a	171
-95	Apurina	172	ɨmaka	ɨ m a k a	ɨ m a k a	172
-96	Inapari	172	r	r	r	172
-97	Yine	172	r	r	r	172
-98	ProtoPurus	172	ɨmaka	ɨ m a k a	ɨ m a k a	172
-365	Inapari	173	rɨ	r ɨ	r ɨ	173
-366	Yine	173	hi	h i	h i	173
-367	ProtoPurus	173	kurɨ	k u r ɨ	k u r ɨ	173
-237	Apurina	174	ɨpɨ̃	ɨ p ɨ̃	ɨ p ɨ̃	174
-238	Inapari	174	r	r	r	174
-239	Yine	174	hipna	h i p n a	h i p n a	174
-240	ProtoPurus	174	ɨpɨna	ɨ p ɨ n a	ɨ p ɨ n a	174
-491	Inapari	176	rɨ	r ɨ	r ɨ	176
-492	Yine	176	hi	h i	h i	176
-493	ProtoPurus	176	wara	w a r a	w a r a	176
-215	Inapari	177	i	i	i	177
-216	Yine	177	kota	k o t a	k o t a	177
-217	ProtoPurus	177	kuta	k u t a	k u t a	177
-163	Inapari	178	juhi	j u h i	j u h i	178
-164	Yine	178	joç	j o ç	j o ç	178
-165	ProtoPurus	178	juki	j u k i	j u k i	178
-502	Apurina	179	apa	a p a	a p a	179
-503	Inapari	179	r	r	r	179
-504	Yine	179	r	r	r	179
-505	ProtoPurus	179	apa	a p a	a p a	179
-601	Apurina	18	erẽka	e r ẽ k a	e r ẽ k a	18
-602	Inapari	18	ɨraː	ɨ r aː	ɨ r aː	18
-603	Yine	18	hi	h i	h i	18
-604	ProtoPurus	18	hɨra	h ɨ r a	h ɨ r a	18
-51	Inapari	180	i	i	i	180
-52	Yine	180	jotsʰa	j o tsʰ a	j o tsʰ a	180
-53	ProtoPurus	180	jutsa	j u ts a	j u ts a	180
-483	Apurina	181	miʃi	m i ʃ i	m i ʃ i	181
-484	Inapari	181	amiru	a m i r u	a m i r u	181
-485	Yine	181	ka	k a	k a	181
-486	ProtoPurus	181	mɨsi	m ɨ s i	m ɨ s i	181
-123	Apurina	182	natʃi	n a tʃ i	n a tʃ i	182
-124	Inapari	182	nati	n a t i	n a t i	182
-125	Yine	182	natʃi	n a tʃ i	n a tʃ i	182
-126	ProtoPurus	182	natsi	n a ts i	n a ts i	182
-361	Apurina	183	pate	p a t e	p a t e	183
-362	Inapari	183	a	a	a	183
-363	Yine	183	pate	p a t e	p a t e	183
-364	ProtoPurus	183	pate	p a t e	p a t e	183
-317	Inapari	184	hame	h a m e	h a m e	184
-318	Yine	184	hame	h a m e	h a m e	184
-319	ProtoPurus	184	hame	h a m e	h a m e	184
-635	Apurina	185	tʃĩkare	tʃ ĩ k a r e	tʃ ĩ k a r e	185
-636	Yine	185	ka	k a	k a	185
-637	ProtoPurus	185	ka	k a	k a	185
-283	Inapari	186	poteja	p o t e j a	p o t e j a	186
-284	Yine	186	potsja	p o ts j a	p o ts j a	186
-285	ProtoPurus	186	potseja	p o ts e j a	p o ts e j a	186
-632	Inapari	187	puperi	p u p e r i	p u p e r i	187
-633	Yine	187	popri	p o p r i	p o p r i	187
-634	ProtoPurus	187	puperi	p u p e r i	p u p e r i	187
-638	Inapari	188	herutʃi	h e r u tʃ i	h e r u tʃ i	188
-639	Yine	188	herotɨ	h e r o t ɨ	h e r o t ɨ	188
-640	ProtoPurus	188	herutɨ	h e r u t ɨ	h e r u t ɨ	188
-397	Inapari	189	pɨːnorɨ	p ɨː n o r ɨ	p ɨː n o r ɨ	189
-398	Yine	189	hinolɨ	h i n o l ɨ	h i n o l ɨ	189
-399	ProtoPurus	189	po	p o	p o	189
-354	Inapari	19	ɨtʃi	ɨ tʃ i	ɨ tʃ i	19
-355	Yine	19	hi	h i	h i	19
-356	ProtoPurus	19	hɨtɨ	h ɨ t ɨ	h ɨ t ɨ	19
-234	Inapari	190	teno	t e n o	t e n o	190
-235	Yine	190	teno	t e n o	t e n o	190
-236	ProtoPurus	190	teno	t e n o	t e n o	190
-413	Inapari	191	rapɨtʃa	r a p ɨ tʃ a	r a p ɨ tʃ a	191
-414	Yine	191	rapɨko	r a p ɨ k o	r a p ɨ k o	191
-415	ProtoPurus	191	rapɨ	r a p ɨ	r a p ɨ	191
-470	Inapari	192	aniʔa	a n i ʔ a	a n i ʔ a	192
-471	Yine	192	r	r	r	192
-472	ProtoPurus	192	anika	a n i k a	a n i k a	192
-536	Apurina	193	epi	e p i	e p i	193
-537	Inapari	193	hepi	h e p i	h e p i	193
-538	Yine	193	hepi	h e p i	h e p i	193
-539	ProtoPurus	193	hepi	h e p i	h e p i	193
-626	Inapari	194	mapa	m a p a	m a p a	194
-627	Yine	194	mapa	m a p a	m a p a	194
-628	ProtoPurus	194	mapa	m a p a	m a p a	194
-437	Inapari	196	pi	p i	p i	196
-438	Yine	196	pi	p i	p i	196
-439	ProtoPurus	196	pi	p i	p i	196
-44	Apurina	197	rɨ	r ɨ	r ɨ	197
-45	Inapari	197	rɨ	r ɨ	r ɨ	197
-46	Yine	197	rɨ	r ɨ	r ɨ	197
-47	ProtoPurus	197	rɨ	r ɨ	r ɨ	197
-577	Apurina	198	ro	r o	r o	198
-578	Inapari	198	ro	r o	r o	198
-579	Yine	198	ro	r o	r o	198
-580	ProtoPurus	198	ro	r o	r o	198
-450	Apurina	199	nanɨ	n a n ɨ	n a n ɨ	199
-451	Yine	199	nanɨ	n a n ɨ	n a n ɨ	199
-452	ProtoPurus	199	nanɨ	n a n ɨ	n a n ɨ	199
-550	Apurina	2	kɨwɨ	k ɨ w ɨ	k ɨ w ɨ	2
-551	Inapari	2	hɨwɨ	h ɨ w ɨ	h ɨ w ɨ	2
-552	Yine	2	çiwɨ	ç i w ɨ	ç i w ɨ	2
-553	ProtoPurus	2	kɨwɨ	k ɨ w ɨ	k ɨ w ɨ	2
-569	Apurina	20	kotsa	k o ts a	k o ts a	20
-570	Inapari	20	uta	u t a	u t a	20
-571	Yine	20	hi	h i	h i	20
-572	ProtoPurus	20	kutsa	k u ts a	k u ts a	20
-225	Inapari	200	naʔa	n a ʔ a	n a ʔ a	200
-226	Yine	200	t	t	t	200
-227	ProtoPurus	200	naka	n a k a	n a k a	200
-540	Inapari	201	jaʔa	j a ʔ a	j a ʔ a	201
-541	Yine	201	jaka	j a k a	j a k a	201
-542	ProtoPurus	201	jaka	j a k a	j a k a	201
-264	Inapari	202	putʃi	p u tʃ i	p u tʃ i	202
-265	Yine	202	potɨ	p o t ɨ	p o t ɨ	202
-266	ProtoPurus	202	putɨ	p u t ɨ	p u t ɨ	202
-221	Apurina	205	ta	t a	t a	205
-222	Inapari	205	tʃahi	tʃ a h i	tʃ a h i	205
-223	Yine	205	ta	t a	t a	205
-224	ProtoPurus	205	ta	t a	t a	205
-309	Apurina	206	tʃi	tʃ i	tʃ i	206
-310	Inapari	206	ti	t i	t i	206
-311	Yine	206	tʃi	tʃ i	tʃ i	206
-312	ProtoPurus	206	tsi	ts i	ts i	206
-619	Inapari	21	mutu	m u t u	m u t u	21
-620	Yine	21	hi	h i	h i	21
-621	ProtoPurus	21	mutu	m u t u	m u t u	21
-204	Inapari	22	tʃapari	tʃ a p a r i	tʃ a p a r i	22
-205	Yine	22	hi	h i	h i	22
-206	ProtoPurus	22	tapari	t a p a r i	t a p a r i	22
-176	Apurina	23	pori	p o r i	p o r i	23
-177	Inapari	23	puri	p u r i	p u r i	23
-178	ProtoPurus	23	puri	p u r i	p u r i	23
-340	Inapari	24	uhɨ	u h ɨ	u h ɨ	24
-341	Yine	24	hi	h i	h i	24
-342	ProtoPurus	24	sukɨ	s u k ɨ	s u k ɨ	24
-434	Inapari	25	paru	p a r u	p a r u	25
-435	Yine	25	hi	h i	h i	25
-436	ProtoPurus	25	paru	p a r u	p a r u	25
-146	Apurina	27	kano	k a n o	k a n o	27
-147	Inapari	27	ano	a n o	a n o	27
-148	Yine	27	kano	k a n o	k a n o	27
-149	ProtoPurus	27	kano	k a n o	k a n o	27
-506	Inapari	28	hitu	h i t u	h i t u	28
-507	Yine	28	hitso	h i ts o	h i ts o	28
-508	ProtoPurus	28	hitsu	h i ts u	h i ts u	28
-347	Apurina	29	pio	p i o	p i o	29
-348	Inapari	29	muju	m u j u	m u j u	29
-349	Yine	29	hi	h i	h i	29
-350	ProtoPurus	29	muju	m u j u	m u j u	29
-494	Apurina	3	okɨ	o k ɨ	o k ɨ	3
-495	Inapari	3	ohɨ	o h ɨ	o h ɨ	3
-496	Yine	3	hi	h i	h i	3
-497	ProtoPurus	3	hokɨ	h o k ɨ	h o k ɨ	3
-142	Apurina	30	no	n o	n o	30
-143	Inapari	30	nu	n u	n u	30
-144	Yine	30	hi	h i	h i	30
-145	ProtoPurus	30	nu	n u	n u	30
-528	Apurina	31	mata	m a t a	m a t a	31
-529	Inapari	31	matʃa	m a tʃ a	m a tʃ a	31
-530	Yine	31	hi	h i	h i	31
-531	ProtoPurus	31	mata	m a t a	m a t a	31
-153	Apurina	33	ʃipi	ʃ i p i	ʃ i p i	33
-154	Inapari	33	ipi	i p i	i p i	33
-155	Yine	33	hi	h i	h i	33
-156	ProtoPurus	33	si	s i	s i	33
-54	Apurina	34	mekɨ	m e k ɨ	m e k ɨ	34
-55	Inapari	34	mehɨ	m e h ɨ	m e h ɨ	34
-56	Yine	34	hi	h i	h i	34
-57	ProtoPurus	34	mekɨ	m e k ɨ	m e k ɨ	34
-18	Apurina	35	nakɨ	n a k ɨ	n a k ɨ	35
-19	Inapari	35	a	a	a	35
-20	Yine	35	hi	h i	h i	35
-21	ProtoPurus	35	nakɨ	n a k ɨ	n a k ɨ	35
-253	Apurina	36	tika	t i k a	t i k a	36
-254	Inapari	36	ri	r i	r i	36
-255	Yine	36	rɨ	r ɨ	r ɨ	36
-256	ProtoPurus	36	tika	t i k a	t i k a	36
-150	Inapari	37	ɨhɨnɨ	ɨ h ɨ n ɨ	ɨ h ɨ n ɨ	37
-151	Yine	37	hiçnɨ	h i ç n ɨ	h i ç n ɨ	37
-152	ProtoPurus	37	ɨkɨnɨ	ɨ k ɨ n ɨ	ɨ k ɨ n ɨ	37
-573	Apurina	38	tsɨnãa	ts ɨ n ã a	ts ɨ n ã a	38
-574	Inapari	38	tɨnɨ	t ɨ n ɨ	t ɨ n ɨ	38
-575	Yine	38	tsɨn̥a	ts ɨ n̥ a	ts ɨ n̥ a	38
-576	ProtoPurus	38	tsɨnɨ	ts ɨ n ɨ	ts ɨ n ɨ	38
-198	Apurina	39	ĩː	ĩː	ĩː	39
-199	Yine	39	ç	ç	ç	39
-200	ProtoPurus	39	ihi	i h i	i h i	39
-211	Apurina	4	kenako	k e n a k o	k e n a k o	4
-212	Inapari	4	hanaʔo	h a n a ʔ o	h a n a ʔ o	4
-213	Yine	4	çnako	ç n a k o	ç n a k o	4
-214	ProtoPurus	4	kena	k e n a	k e n a	4
-279	Apurina	40	iwãka	i w ã k a	i w ã k a	40
-280	Inapari	40	ɨwaʔa	ɨ w a ʔ a	ɨ w a ʔ a	40
-281	Yine	40	hiwaka	h i w a k a	h i w a k a	40
-282	ProtoPurus	40	hɨwaka	h ɨ w a k a	h ɨ w a k a	40
-334	Inapari	41	pana	p a n a	p a n a	41
-335	Yine	41	pan	p a n	p a n	41
-336	ProtoPurus	41	pana	p a n a	p a n a	41
-313	Apurina	42	awa	a w a	a w a	42
-314	Inapari	42	i	i	i	42
-315	Yine	42	pok	p o k	p o k	42
-316	ProtoPurus	42	puku	p u k u	p u k u	42
-8	Inapari	44	hatʃini	h a tʃ i n i	h a tʃ i n i	44
-9	Yine	44	hatnɨ	h a t n ɨ	h a t n ɨ	44
-10	ProtoPurus	44	hatɨnɨ	h a t ɨ n ɨ	h a t ɨ n ɨ	44
-30	Apurina	45	ãpo	ã p o	ã p o	45
-31	Yine	45	hatnɨ	h a t n ɨ	h a t n ɨ	45
-32	ProtoPurus	45	hapo	h a p o	h a p o	45
-403	Apurina	46	tapo	t a p o	t a p o	46
-404	Inapari	46	tʃapu	tʃ a p u	tʃ a p u	46
-405	Yine	46	hitpo	h i t p o	h i t p o	46
-406	ProtoPurus	46	tapu	t a p u	t a p u	46
-228	Inapari	47	haari	h a a r i	h a a r i	47
-229	Yine	47	kaʃri	k a ʃ r i	k a ʃ r i	47
-230	ProtoPurus	47	kasiri	k a s i r i	k a s i r i	47
-245	Apurina	49	kanawa	k a n a w a	k a n a w a	49
-246	Inapari	49	anawa	a n a w a	a n a w a	49
-247	Yine	49	kanawa	k a n a w a	k a n a w a	49
-248	ProtoPurus	49	kanawa	k a n a w a	k a n a w a	49
-368	Apurina	5	piti	p i t i	p i t i	5
-369	Inapari	5	pitʃi	p i tʃ i	p i tʃ i	5
-370	Yine	5	pitʃi	p i tʃ i	p i tʃ i	5
-371	ProtoPurus	5	piti	p i t i	p i t i	5
-157	Inapari	50	pɨmari	p ɨ m a r i	p ɨ m a r i	50
-158	Yine	50	pɨmlɨ	p ɨ m l ɨ	p ɨ m l ɨ	50
-159	ProtoPurus	50	pɨmarɨ	p ɨ m a r ɨ	p ɨ m a r ɨ	50
-111	Apurina	51	kãkɨtɨ	k ã k ɨ t ɨ	k ã k ɨ t ɨ	51
-112	Inapari	51	ahɨtʃi	a h ɨ tʃ i	a h ɨ tʃ i	51
-113	Yine	51	kaçitɨ	k a ç i t ɨ	k a ç i t ɨ	51
-114	ProtoPurus	51	kakɨtɨ	k a k ɨ t ɨ	k a k ɨ t ɨ	51
-343	Apurina	52	kamatʃi	k a m a tʃ i	k a m a tʃ i	52
-344	Inapari	52	amati	a m a t i	a m a t i	52
-345	Yine	52	kamtʃi	k a m tʃ i	k a m tʃ i	52
-346	ProtoPurus	52	kama	k a m a	k a m a	52
-260	Apurina	53	kɨkɨ	k ɨ k ɨ	k ɨ k ɨ	53
-261	Inapari	53	ehɨ	e h ɨ	e h ɨ	53
-262	Yine	53	çeçi	ç e ç i	ç e ç i	53
-263	ProtoPurus	53	kekɨ	k e k ɨ	k e k ɨ	53
-400	Apurina	54	sɨto	s ɨ t o	s ɨ t o	54
-401	Yine	54	sɨtʃo	s ɨ tʃ o	s ɨ tʃ o	54
-402	ProtoPurus	54	sɨtio	s ɨ t i o	s ɨ t i o	54
-286	Apurina	55	ɨrɨ	ɨ r ɨ	ɨ r ɨ	55
-287	Inapari	55	ɨrɨ	ɨ r ɨ	ɨ r ɨ	55
-288	Yine	55	r	r	r	55
-289	ProtoPurus	55	hɨrɨ	h ɨ r ɨ	h ɨ r ɨ	55
-14	Apurina	57	ɨnɨro	ɨ n ɨ r o	ɨ n ɨ r o	57
-15	Inapari	57	ɨnɨru	ɨ n ɨ r u	ɨ n ɨ r u	57
-16	Yine	57	r	r	r	57
-17	ProtoPurus	57	ɨnɨru	ɨ n ɨ r u	ɨ n ɨ r u	57
-562	Apurina	58	natu	n a t u	n a t u	58
-563	Inapari	58	natu	n a t u	n a t u	58
-564	Yine	58	nato	n a t o	n a t o	58
-565	ProtoPurus	58	natu	n a t u	n a t u	58
-231	Inapari	59	tɨrɨ	t ɨ r ɨ	t ɨ r ɨ	59
-232	Yine	59	hi	h i	h i	59
-233	ProtoPurus	59	tɨrɨ	t ɨ r ɨ	t ɨ r ɨ	59
-440	Apurina	6	nama	n a m a	n a m a	6
-441	Inapari	6	nama	n a m a	n a m a	6
-442	Yine	6	nama	n a m a	n a m a	6
-443	ProtoPurus	6	nama	n a m a	n a m a	6
-127	Apurina	61	mekaɲi	m e k a ɲ i	m e k a ɲ i	61
-128	Inapari	61	meʔani	m e ʔ a n i	m e ʔ a n i	61
-129	Yine	61	hi	h i	h i	61
-130	ProtoPurus	61	mekani	m e k a n i	m e k a n i	61
-609	Apurina	62	mekaɲi	m e k a ɲ i	m e k a ɲ i	62
-610	Inapari	62	meʔani	m e ʔ a n i	m e ʔ a n i	62
-611	Yine	62	to	t o	t o	62
-612	ProtoPurus	62	mekani	m e k a n i	m e k a n i	62
-512	Apurina	63	imatɨkɨ	i m a t ɨ k ɨ	i m a t ɨ k ɨ	63
-513	Inapari	63	imatuhɨti	i m a t u h ɨ t i	i m a t u h ɨ t i	63
-514	Yine	63	himatçi	h i m a t ç i	h i m a t ç i	63
-515	ProtoPurus	63	himatukɨ	h i m a t u k ɨ	h i m a t u k ɨ	63
-218	Inapari	64	imahɨ	i m a h ɨ	i m a h ɨ	64
-219	Yine	64	himaçi	h i m a ç i	h i m a ç i	64
-220	ProtoPurus	64	himakɨ	h i m a k ɨ	h i m a k ɨ	64
-331	Inapari	65	pariʔare	p a r i ʔ a r e	p a r i ʔ a r e	65
-332	Yine	65	palikle	p a l i k l e	p a l i k l e	65
-333	ProtoPurus	65	parikare	p a r i k a r e	p a r i k a r e	65
-275	Apurina	66	epɨrɨ	e p ɨ r ɨ	e p ɨ r ɨ	66
-276	Inapari	66	epɨrɨ	e p ɨ r ɨ	e p ɨ r ɨ	66
-277	Yine	66	r	r	r	66
-278	ProtoPurus	66	epɨ	e p ɨ	e p ɨ	66
-581	Inapari	67	epɨro	e p ɨ r o	e p ɨ r o	67
-582	Yine	67	r	r	r	67
-583	ProtoPurus	67	epɨ	e p ɨ	e p ɨ	67
-58	Apurina	68	akɨro	a k ɨ r o	a k ɨ r o	68
-59	Inapari	68	ahɨro	a h ɨ r o	a h ɨ r o	68
-60	Yine	68	r	r	r	68
-61	ProtoPurus	68	akɨro	a k ɨ r o	a k ɨ r o	68
-420	Apurina	69	atokɨrɨ	a t o k ɨ r ɨ	a t o k ɨ r ɨ	69
-421	Inapari	69	atuhɨrɨ	a t u h ɨ r ɨ	a t u h ɨ r ɨ	69
-422	Yine	69	r	r	r	69
-423	ProtoPurus	69	atukɨrɨ	a t u k ɨ r ɨ	a t u k ɨ r ɨ	69
-379	Apurina	7	poto	p o t o	p o t o	7
-380	Inapari	7	potu	p o t u	p o t u	7
-381	Yine	7	hi	h i	h i	7
-382	ProtoPurus	7	potu	p o t u	p o t u	7
-391	Apurina	70	pɨra	p ɨ r a	p ɨ r a	70
-392	Yine	70	pra	p r a	p r a	70
-393	ProtoPurus	70	pɨra	p ɨ r a	p ɨ r a	70
-605	Apurina	71	kajatɨ	k a j a t ɨ	k a j a t ɨ	71
-606	Inapari	71	ajatʃi	a j a tʃ i	a j a tʃ i	71
-607	Yine	71	kajatɨ	k a j a t ɨ	k a j a t ɨ	71
-608	ProtoPurus	71	kajatɨ	k a j a t ɨ	k a j a t ɨ	71
-394	Inapari	72	hipetʃi	h i p e tʃ i	h i p e tʃ i	72
-395	Yine	72	hipetɨ	h i p e t ɨ	h i p e t ɨ	72
-396	ProtoPurus	72	hipetɨ	h i p e t ɨ	h i p e t ɨ	72
-587	Apurina	73	kotʃi	k o tʃ i	k o tʃ i	73
-588	Inapari	73	uti	u t i	u t i	73
-589	Yine	73	kotʃi	k o tʃ i	k o tʃ i	73
-590	ProtoPurus	73	kutsi	k u ts i	k u ts i	73
-22	Apurina	74	pekiri	p e k i r i	p e k i r i	74
-23	Inapari	74	pehiri	p e h i r i	p e h i r i	74
-24	Yine	74	peçri	p e ç r i	p e ç r i	74
-25	ProtoPurus	74	pekiri	p e k i r i	p e k i r i	74
-456	Apurina	75	kapiʃi	k a p i ʃ i	k a p i ʃ i	75
-457	Inapari	75	apiː	a p iː	a p iː	75
-458	Yine	75	kapʃi	k a p ʃ i	k a p ʃ i	75
-459	ProtoPurus	75	kapisiri	k a p i s i r i	k a p i s i r i	75
-66	Apurina	76	meriti	m e r i t i	m e r i t i	76
-67	Inapari	76	meritʃi	m e r i tʃ i	m e r i tʃ i	76
-68	Yine	76	mritʃi	m r i tʃ i	m r i tʃ i	76
-69	ProtoPurus	76	meriti	m e r i t i	m e r i t i	76
-249	Apurina	77	irarɨ	i r a r ɨ	i r a r ɨ	77
-250	Inapari	77	hirari	h i r a r i	h i r a r i	77
-251	Yine	77	hijalɨ	h i j a l ɨ	h i j a l ɨ	77
-252	ProtoPurus	77	hirarɨ	h i r a r ɨ	h i r a r ɨ	77
-207	Apurina	79	kema	k e m a	k e m a	79
-208	Inapari	79	hama	h a m a	h a m a	79
-209	Yine	79	çema	ç e m a	ç e m a	79
-210	ProtoPurus	79	kema	k e m a	k e m a	79
-558	Apurina	8	ʃiãpoto	ʃ i ã p o t o	ʃ i ã p o t o	8
-559	Inapari	8	ijapotu	i j a p o t u	i j a p o t u	8
-560	Yine	8	hi	h i	h i	8
-561	ProtoPurus	8	sia	s i a	s i a	8
-546	Apurina	80	tʃikotɨ	tʃ i k o t ɨ	tʃ i k o t ɨ	80
-547	Inapari	80	tiʔutʃi	t i ʔ u tʃ i	t i ʔ u tʃ i	80
-548	Yine	80	tʃkotɨ	tʃ k o t ɨ	tʃ k o t ɨ	80
-549	ProtoPurus	80	tsikutɨ	ts i k u t ɨ	ts i k u t ɨ	80
-26	Apurina	81	kiɲa	k i ɲ a	k i ɲ a	81
-27	Inapari	81	aina	a i n a	a i n a	81
-28	Yine	81	kina	k i n a	k i n a	81
-29	ProtoPurus	81	kaina	k a i n a	k a i n a	81
-444	Apurina	82	makara	m a k a r a	m a k a r a	82
-445	Inapari	82	maʔara	m a ʔ a r a	m a ʔ a r a	82
-446	ProtoPurus	82	makara	m a k a r a	m a k a r a	82
-305	Apurina	83	ɨmɨnɨ	ɨ m ɨ n ɨ	ɨ m ɨ n ɨ	83
-306	Inapari	83	himeni	h i m e n i	h i m e n i	83
-307	Yine	83	himnɨ	h i m n ɨ	h i m n ɨ	83
-308	ProtoPurus	83	hɨmenɨ	h ɨ m e n ɨ	h ɨ m e n ɨ	83
-70	Inapari	84	mapitiri	m a p i t i r i	m a p i t i r i	84
-71	Yine	84	maptʃiri	m a p tʃ i r i	m a p tʃ i r i	84
-72	ProtoPurus	84	mapitsiri	m a p i ts i r i	m a p i ts i r i	84
-424	Apurina	85	kajukɨrɨ	k a j u k ɨ r ɨ	k a j u k ɨ r ɨ	85
-425	Inapari	85	ajuhɨrɨ	a j u h ɨ r ɨ	a j u h ɨ r ɨ	85
-426	Yine	85	kʃijoçrɨ	k ʃ i j o ç r ɨ	k ʃ i j o ç r ɨ	85
-427	ProtoPurus	85	kajukɨrɨ	k a j u k ɨ r ɨ	k a j u k ɨ r ɨ	85
-183	Apurina	86	sɨ̃pɨrɨ	s ɨ̃ p ɨ r ɨ	s ɨ̃ p ɨ r ɨ	86
-184	Inapari	86	hipɨrɨ	h i p ɨ r ɨ	h i p ɨ r ɨ	86
-185	Yine	86	sɨprɨ	s ɨ p r ɨ	s ɨ p r ɨ	86
-186	ProtoPurus	86	sɨpɨrɨ	s ɨ p ɨ r ɨ	s ɨ p ɨ r ɨ	86
-301	Apurina	87	katʃitɨ	k a tʃ i t ɨ	k a tʃ i t ɨ	87
-302	Inapari	87	atitʃi	a t i tʃ i	a t i tʃ i	87
-303	Yine	87	katʃitʃi	k a tʃ i tʃ i	k a tʃ i tʃ i	87
-304	ProtoPurus	87	katsitɨ	k a ts i t ɨ	k a ts i t ɨ	87
-297	Apurina	88	maɲiː	m a ɲ iː	m a ɲ iː	88
-298	Inapari	88	maneĩ	m a n e ĩ	m a n e ĩ	88
-299	Yine	88	manahi	m a n a h i	m a n a h i	88
-300	ProtoPurus	88	manahi	m a n a h i	m a n a h i	88
-88	Apurina	89	kamara	k a m a r a	k a m a r a	89
-89	Inapari	89	amara	a m a r a	a m a r a	89
-90	Yine	89	kamla	k a m l a	k a m l a	89
-91	ProtoPurus	89	kamara	k a m a r a	k a m a r a	89
-119	Apurina	9	nɨnɨ	n ɨ n ɨ	n ɨ n ɨ	9
-120	Inapari	9	neni	n e n i	n e n i	9
-121	Yine	9	hi	h i	h i	9
-122	ProtoPurus	9	nenɨ	n e n ɨ	n e n ɨ	9
-463	Apurina	90	sanɨ	s a n ɨ	s a n ɨ	90
-464	Inapari	90	hani	h a n i	h a n i	90
-465	Yine	90	sanɨ	s a n ɨ	s a n ɨ	90
-466	ProtoPurus	90	sanɨ	s a n ɨ	s a n ɨ	90
-33	Apurina	91	aɲiːo	a ɲ iː o	a ɲ iː o	91
-34	Inapari	91	haniju	h a n i j u	h a n i j u	91
-35	Yine	91	hahjo	h a h j o	h a h j o	91
-36	ProtoPurus	91	haniju	h a n i j u	h a n i j u	91
-613	Apurina	92	mapa	m a p a	m a p a	92
-614	Inapari	92	mapaa	m a p a a	m a p a a	92
-615	ProtoPurus	92	mapa	m a p a	m a p a	92
-476	Inapari	93	heri	h e r i	h e r i	93
-477	Yine	93	çerɨ	ç e r ɨ	ç e r ɨ	93
-478	ProtoPurus	93	kerɨ	k e r ɨ	k e r ɨ	93
-584	Apurina	95	tsopata	ts o p a t a	ts o p a t a	95
-585	Inapari	95	topatʃa	t o p a tʃ a	t o p a tʃ a	95
-586	ProtoPurus	95	tsopata	ts o p a t a	ts o p a t a	95
-201	Inapari	96	pɨtʃaana	p ɨ tʃ a a n a	p ɨ tʃ a a n a	96
-202	Yine	96	pɨtʰana	p ɨ tʰ a n a	p ɨ tʰ a n a	96
-203	ProtoPurus	96	pɨtahana	p ɨ t a h a n a	p ɨ t a h a n a	96
-351	Inapari	97	heʔuru	h e ʔ u r u	h e ʔ u r u	97
-352	Yine	97	heklo	h e k l o	h e k l o	97
-353	ProtoPurus	97	hekuru	h e k u r u	h e k u r u	97
-598	Inapari	98	upari	u p a r i	u p a r i	98
-599	Yine	98	koplɨ	k o p l ɨ	k o p l ɨ	98
-600	ProtoPurus	98	kuparɨ	k u p a r ɨ	k u p a r ɨ	98
+413	Apurina	1	tʃikotɨ	tʃ i k o t ɨ	tʃ i k o t ɨ	1
+414	Inapari	1	tiʔutʃi	t i ʔ u tʃ i	t i ʔ u tʃ i	1
+415	Yine	1	tʃkotɨ	tʃ k o t ɨ	tʃ k o t ɨ	1
+416	ProtoPurus	1	tsikutɨ	ts i k u t ɨ	ts i k u t ɨ	1
+319	Inapari	1000	juhi	j u h i	j u h i	1000
+320	Yine	1000	joç	j o ç	j o ç	1000
+321	ProtoPurus	1000	juki	j u k i	j u k i	1000
+57	Inapari	1007	teri	t e r i	t e r i	1007
+58	Yine	1007	tserɨ	ts e r ɨ	ts e r ɨ	1007
+59	ProtoPurus	1007	tserɨ	ts e r ɨ	ts e r ɨ	1007
+441	Inapari	1008	tʃa	tʃ a	tʃ a	1008
+442	Yine	1008	ta	t a	t a	1008
+443	ProtoPurus	1008	ta	t a	t a	1008
+182	Apurina	1017	kema	k e m a	k e m a	1017
+183	Inapari	1017	hama	h a m a	h a m a	1017
+184	Yine	1017	çema	ç e m a	ç e m a	1017
+185	ProtoPurus	1017	kema	k e m a	k e m a	1017
+30	Apurina	1025	oka	o k a	o k a	1025
+31	Yine	1025	hka	h k a	h k a	1025
+32	ProtoPurus	1025	hoka	h o k a	h o k a	1025
+485	Apurina	103	majorɨ	m a j o r ɨ	m a j o r ɨ	103
+486	Inapari	103	majuri	m a j u r i	m a j u r i	103
+487	Yine	103	majlɨ	m a j l ɨ	m a j l ɨ	103
+488	ProtoPurus	103	majurɨ	m a j u r ɨ	m a j u r ɨ	103
+571	Inapari	1032	ɨma	ɨ m a	ɨ m a	1032
+572	Yine	1032	ɨma	ɨ m a	ɨ m a	1032
+573	ProtoPurus	1032	ɨma	ɨ m a	ɨ m a	1032
+222	Inapari	1041	ʔuri	ʔ u r i	ʔ u r i	1041
+223	Yine	1041	hi	h i	h i	1041
+224	ProtoPurus	1041	ha	h a	h a	1041
+536	Inapari	1051	ʔunṹa	ʔ u n ṹ a	ʔ u n ṹ a	1051
+537	Yine	1051	knoha	k n o h a	k n o h a	1051
+538	ProtoPurus	1051	kunuha	k u n u h a	k u n u h a	1051
+246	Inapari	1058	tʃaraː	tʃ a r aː	tʃ a r aː	1058
+247	Yine	1058	tal̥a	t a l̥ a	t a l̥ a	1058
+248	ProtoPurus	1058	taraha	t a r a h a	t a r a h a	1058
+131	Apurina	1065	taka	t a k a	t a k a	1065
+132	Inapari	1065	tʃaʔa	tʃ a ʔ a	tʃ a ʔ a	1065
+133	Yine	1065	tak	t a k	t a k	1065
+134	ProtoPurus	1065	taka	t a k a	t a k a	1065
+26	Apurina	108	irẽka	i r ẽ k a	i r ẽ k a	108
+27	Inapari	108	hireʔa	h i r e ʔ a	h i r e ʔ a	108
+28	Yine	108	hijeka	h i j e k a	h i j e k a	108
+29	ProtoPurus	108	hireka	h i r e k a	h i r e k a	108
+371	Inapari	1083	ʔutʃa	ʔ u tʃ a	ʔ u tʃ a	1083
+372	Yine	1083	kota	k o t a	k o t a	1083
+373	ProtoPurus	1083	kuta	k u t a	k u t a	1083
+521	Inapari	1093	tina	t i n a	t i n a	1093
+522	Yine	1093	tʃin	tʃ i n	tʃ i n	1093
+523	ProtoPurus	1093	tsina	ts i n a	ts i n a	1093
+548	Apurina	1099	etama	e t a m a	e t a m a	1099
+549	Inapari	1099	etʃa	e tʃ a	e tʃ a	1099
+550	Yine	1099	et	e t	e t	1099
+551	ProtoPurus	1099	eta	e t a	e t a	1099
+619	Inapari	1110	jutãː	j u t ãː	j u t ãː	1110
+620	Yine	1110	jotsʰa	j o tsʰ a	j o tsʰ a	1110
+621	ProtoPurus	1110	jutsa	j u ts a	j u ts a	1110
+603	Apurina	1125	ɨmaka	ɨ m a k a	ɨ m a k a	1125
+604	Inapari	1125	ɨmɨʔa	ɨ m ɨ ʔ a	ɨ m ɨ ʔ a	1125
+605	Yine	1125	ɨmka	ɨ m k a	ɨ m k a	1125
+606	ProtoPurus	1125	ɨmaka	ɨ m a k a	ɨ m a k a	1125
+80	Inapari	113	hitʃitʃi	h i tʃ i tʃ i	h i tʃ i tʃ i	113
+81	Yine	113	hitʃitʃi	h i tʃ i tʃ i	h i tʃ i tʃ i	113
+82	ProtoPurus	113	hititi	h i t i t i	h i t i t i	113
+189	Inapari	1134	tuʔana	t u ʔ a n a	t u ʔ a n a	1134
+190	Yine	1134	tokanɨ	t o k a n ɨ	t o k a n ɨ	1134
+191	ProtoPurus	1134	tukanə	t u k a n ə	t u k a n ə	1134
+542	Inapari	1142	aʔapa	a ʔ a p a	a ʔ a p a	1142
+543	Yine	1142	akap	a k a p	a k a p	1142
+544	ProtoPurus	1142	akapa	a k a p a	a k a p a	1142
+328	Inapari	1152	niʔuruʔa	n i ʔ u r u ʔ a	n i ʔ u r u ʔ a	1152
+329	Yine	1152	niklok	n i k l o k	n i k l o k	1152
+330	ProtoPurus	1152	nikuru	n i k u r u	n i k u r u	1152
+272	Apurina	1160	noã	n o ã	n o ã	1160
+273	Inapari	1160	ano	a n o	a n o	1160
+274	Yine	1160	hanoh	h a n o h	h a n o h	1160
+275	ProtoPurus	1160	hano	h a n o	h a n o	1160
+119	Apurina	1171	jana	j a n a	j a n a	1171
+120	Inapari	1171	jana	j a n a	j a n a	1171
+121	Yine	1171	jan	j a n	j a n	1171
+122	ProtoPurus	1171	jana	j a n a	j a n a	1171
+349	Apurina	1179	kipa	k i p a	k i p a	1179
+350	Inapari	1179	hipa	h i p a	h i p a	1179
+351	ProtoPurus	1179	kipa	k i p a	k i p a	1179
+265	Apurina	1186	eroka	e r o k a	e r o k a	1186
+266	Yine	1186	erka	e r k a	e r k a	1186
+267	ProtoPurus	1186	eroka	e r o k a	e r o k a	1186
+87	Apurina	1192	nɨnɨ	n ɨ n ɨ	n ɨ n ɨ	1192
+88	Inapari	1192	neni	n e n i	n e n i	1192
+89	Yine	1192	nnɨ	n n ɨ	n n ɨ	1192
+90	ProtoPurus	1192	nenɨ	n e n ɨ	n e n ɨ	1192
+36	Apurina	1200	ãamɨna	ã a m ɨ n a	ã a m ɨ n a	1200
+37	Inapari	1200	haamɨna	h a a m ɨ n a	h a a m ɨ n a	1200
+38	Yine	1200	hahmɨna	h a h m ɨ n a	h a h m ɨ n a	1200
+39	ProtoPurus	1200	mɨna	m ɨ n a	m ɨ n a	1200
+384	Apurina	1206	sɨ̃pɨrɨ	s ɨ̃ p ɨ r ɨ	s ɨ̃ p ɨ r ɨ	1206
+385	Inapari	1206	hipɨrɨ	h i p ɨ r ɨ	h i p ɨ r ɨ	1206
+386	Yine	1206	sɨprɨ	s ɨ p r ɨ	s ɨ p r ɨ	1206
+387	ProtoPurus	1206	sɨpɨrɨ	s ɨ p ɨ r ɨ	s ɨ p ɨ r ɨ	1206
+510	Apurina	121	erẽka	e r ẽ k a	e r ẽ k a	121
+511	Inapari	121	ɨraː	ɨ r aː	ɨ r aː	121
+512	Yine	121	hraha	h r a h a	h r a h a	121
+513	ProtoPurus	121	hɨra	h ɨ r a	h ɨ r a	121
+225	Apurina	1211	epi	e p i	e p i	1211
+226	Inapari	1211	hepi	h e p i	h e p i	1211
+227	Yine	1211	hepi	h e p i	h e p i	1211
+228	ProtoPurus	1211	hepi	h e p i	h e p i	1211
+615	Apurina	1216	tsɨnãa	ts ɨ n ã a	ts ɨ n ã a	1216
+616	Inapari	1216	tɨnɨ	t ɨ n ɨ	t ɨ n ɨ	1216
+617	Yine	1216	tsɨn̥a	ts ɨ n̥ a	ts ɨ n̥ a	1216
+618	ProtoPurus	1216	tsɨnɨ	ts ɨ n ɨ	ts ɨ n ɨ	1216
+139	Apurina	1223	ta	t a	t a	1223
+140	Inapari	1223	tʃahi	tʃ a h i	tʃ a h i	1223
+141	Yine	1223	ta	t a	t a	1223
+142	ProtoPurus	1223	ta	t a	t a	1223
+599	Apurina	1229	poko	p o k o	p o k o	1229
+600	Inapari	1229	puʔu	p u ʔ u	p u ʔ u	1229
+601	Yine	1229	pok	p o k	p o k	1229
+602	ProtoPurus	1229	puku	p u k u	p u k u	1229
+611	Apurina	1237	sanɨ	s a n ɨ	s a n ɨ	1237
+612	Inapari	1237	hani	h a n i	h a n i	1237
+613	Yine	1237	sanɨ	s a n ɨ	s a n ɨ	1237
+614	ProtoPurus	1237	sanɨ	s a n ɨ	s a n ɨ	1237
+50	Inapari	1242	huni	h u n i	h u n i	1242
+51	Yine	1242	honɨ	h o n ɨ	h o n ɨ	1242
+52	ProtoPurus	1242	hunɨ	h u n ɨ	h u n ɨ	1242
+232	Inapari	1246	poteja	p o t e j a	p o t e j a	1246
+233	Yine	1246	potsja	p o ts j a	p o ts j a	1246
+234	ProtoPurus	1246	potseja	p o ts e j a	p o ts e j a	1246
+448	Apurina	1257	mekɨ	m e k ɨ	m e k ɨ	1257
+449	Inapari	1257	mehɨ	m e h ɨ	m e h ɨ	1257
+450	Yine	1257	meçi	m e ç i	m e ç i	1257
+451	ProtoPurus	1257	mekɨ	m e k ɨ	m e k ɨ	1257
+528	Apurina	1278	tsomi	ts o m i	ts o m i	1278
+529	Inapari	1278	tomi	t o m i	t o m i	1278
+530	Yine	1278	tsomi	ts o m i	ts o m i	1278
+531	ProtoPurus	1278	tsomi	ts o m i	ts o m i	1278
+435	Inapari	1285	heni	h e n i	h e n i	1285
+436	Yine	1285	çnɨ	ç n ɨ	ç n ɨ	1285
+437	ProtoPurus	1285	kenɨ	k e n ɨ	k e n ɨ	1285
+574	Inapari	129	mapitiri	m a p i t i r i	m a p i t i r i	129
+575	Yine	129	maptʃiri	m a p tʃ i r i	m a p tʃ i r i	129
+576	ProtoPurus	129	mapitsiri	m a p i ts i r i	m a p i ts i r i	129
+581	Inapari	1292	apetʃa	a p e tʃ a	a p e tʃ a	1292
+582	Yine	1292	kapet	k a p e t	k a p e t	1292
+583	ProtoPurus	1292	kapeta	k a p e t a	k a p e t a	1292
+532	Apurina	1297	epɨrɨ	e p ɨ r ɨ	e p ɨ r ɨ	1297
+533	Inapari	1297	epɨrɨ	e p ɨ r ɨ	e p ɨ r ɨ	1297
+534	Yine	1297	epɨrɨ	e p ɨ r ɨ	e p ɨ r ɨ	1297
+535	ProtoPurus	1297	epɨ	e p ɨ	e p ɨ	1297
+410	Inapari	1306	epɨro	e p ɨ r o	e p ɨ r o	1306
+411	Yine	1306	epɨro	e p ɨ r o	e p ɨ r o	1306
+412	ProtoPurus	1306	epɨ	e p ɨ	e p ɨ	1306
+178	Apurina	133	mane	m a n e	m a n e	133
+179	Inapari	133	mana	m a n a	m a n a	133
+180	Yine	133	mane	m a n e	m a n e	133
+181	ProtoPurus	133	mane	m a n e	m a n e	133
+261	Apurina	140	apɨ	a p ɨ	a p ɨ	140
+262	Inapari	140	apɨ	a p ɨ	a p ɨ	140
+263	Yine	140	hapɨ	h a p ɨ	h a p ɨ	140
+264	ProtoPurus	140	hapɨ	h a p ɨ	h a p ɨ	140
+22	Apurina	147	tapo	t a p o	t a p o	147
+23	Inapari	147	tʃapu	tʃ a p u	tʃ a p u	147
+24	Yine	147	hitpo	h i t p o	h i t p o	147
+25	ProtoPurus	147	tapu	t a p u	t a p u	147
+115	Apurina	153	porɨ	p o r ɨ	p o r ɨ	153
+116	Inapari	153	puri	p u r i	p u r i	153
+117	Yine	153	plɨ	p l ɨ	p l ɨ	153
+118	ProtoPurus	153	purɨ	p u r ɨ	p u r ɨ	153
+308	Apurina	159	tenɨ	t e n ɨ	t e n ɨ	159
+309	Inapari	159	tʃini	tʃ i n i	tʃ i n i	159
+310	Yine	159	tnɨ	t n ɨ	t n ɨ	159
+311	ProtoPurus	159	tenɨ	t e n ɨ	t e n ɨ	159
+514	Apurina	17	kotsa	k o ts a	k o ts a	17
+515	Inapari	17	uta	u t a	u t a	17
+516	Yine	17	kotsa	k o ts a	k o ts a	17
+517	ProtoPurus	17	kutsa	k u ts a	k u ts a	17
+489	Apurina	172	katatɨ	k a t a t ɨ	k a t a t ɨ	172
+490	Inapari	172	atʃatu	a tʃ a t u	a tʃ a t u	172
+491	Yine	172	katato	k a t a t o	k a t a t o	172
+492	ProtoPurus	172	katatu	k a t a t u	k a t a t u	172
+507	Inapari	177	mutu	m u t u	m u t u	177
+508	Yine	177	moto	m o t o	m o t o	177
+509	ProtoPurus	177	mutu	m u t u	m u t u	177
+438	Inapari	183	atari	a t a r i	a t a r i	183
+439	Yine	183	katslɨ	k a ts l ɨ	k a ts l ɨ	183
+440	ProtoPurus	183	katsarɨ	k a ts a r ɨ	k a ts a r ɨ	183
+462	Apurina	187	kanawa	k a n a w a	k a n a w a	187
+463	Inapari	187	anawa	a n a w a	a n a w a	187
+464	Yine	187	kanawa	k a n a w a	k a n a w a	187
+465	ProtoPurus	187	kanawa	k a n a w a	k a n a w a	187
+205	Inapari	192	hipetʃi	h i p e tʃ i	h i p e tʃ i	192
+206	Yine	192	hipetɨ	h i p e t ɨ	h i p e t ɨ	192
+207	ProtoPurus	192	hipetɨ	h i p e t ɨ	h i p e t ɨ	192
+399	Apurina	196	ka	k a	k a	196
+400	Yine	196	ka	k a	k a	196
+401	ProtoPurus	196	ka	k a	k a	196
+255	Apurina	201	toro	t o r o	t o r o	201
+256	Inapari	201	turu	t u r u	t u r u	201
+257	ProtoPurus	201	turu	t u r u	t u r u	201
+500	Inapari	208	pi	p i	p i	208
+501	Yine	208	pi	p i	p i	208
+502	ProtoPurus	208	pi	p i	p i	208
+280	Apurina	218	kapiʃi	k a p i ʃ i	k a p i ʃ i	218
+281	Inapari	218	apiː	a p iː	a p iː	218
+282	Yine	218	kapʃi	k a p ʃ i	k a p ʃ i	218
+283	ProtoPurus	218	kapisiri	k a p i s i r i	k a p i s i r i	218
+149	Apurina	223	tsopata	ts o p a t a	ts o p a t a	223
+150	Inapari	223	topatʃa	t o p a tʃ a	t o p a tʃ a	223
+151	ProtoPurus	223	tsopata	ts o p a t a	ts o p a t a	223
+252	Apurina	227	tʃĩkare	tʃ ĩ k a r e	tʃ ĩ k a r e	227
+253	Yine	227	tʃikle	tʃ i k l e	tʃ i k l e	227
+254	ProtoPurus	227	tʃikare	tʃ i k a r e	tʃ i k a r e	227
+60	Apurina	228	ka	k a	k a	228
+61	Yine	228	ka	k a	k a	228
+62	ProtoPurus	228	ka	k a	k a	228
+421	Inapari	240	aniʔa	a n i ʔ a	a n i ʔ a	240
+422	Yine	240	anika	a n i k a	a n i k a	240
+423	ProtoPurus	240	anika	a n i k a	a n i k a	240
+305	Inapari	249	juturo	j u t u r o	j u t u r o	249
+306	Yine	249	jotlo	j o t l o	j o t l o	249
+307	ProtoPurus	249	juturo	j u t u r o	j u t u r o	249
+165	Inapari	253	itu	i t u	i t u	253
+166	Yine	253	ʃitʃo	ʃ i tʃ o	ʃ i tʃ o	253
+167	ProtoPurus	253	situ	s i t u	s i t u	253
+192	Inapari	259	puperi	p u p e r i	p u p e r i	259
+193	Yine	259	popri	p o p r i	p o p r i	259
+194	ProtoPurus	259	puperi	p u p e r i	p u p e r i	259
+111	Apurina	266	opai	o p a i	o p a i	266
+112	Inapari	266	hupai	h u p a i	h u p a i	266
+113	Yine	266	hopʃi	h o p ʃ i	h o p ʃ i	266
+114	ProtoPurus	266	hupai	h u p a i	h u p a i	266
+625	Apurina	275	kenako	k e n a k o	k e n a k o	275
+626	Yine	275	çnako	ç n a k o	ç n a k o	275
+627	ProtoPurus	275	kena	k e n a	k e n a	275
+298	Apurina	28	tʃi	tʃ i	tʃ i	28
+299	Inapari	28	ti	t i	t i	28
+300	Yine	28	tʃi	tʃ i	tʃ i	28
+301	ProtoPurus	28	tsi	ts i	ts i	28
+417	Apurina	284	nakɨ	n a k ɨ	n a k ɨ	284
+418	Inapari	284	nahɨ	n a h ɨ	n a h ɨ	284
+419	Yine	284	naçi	n a ç i	n a ç i	284
+420	ProtoPurus	284	nakɨ	n a k ɨ	n a k ɨ	284
+19	Inapari	292	hitu	h i t u	h i t u	292
+20	Yine	292	hitso	h i ts o	h i ts o	292
+21	ProtoPurus	292	hitsu	h i ts u	h i ts u	292
+552	Apurina	301	okɨ	o k ɨ	o k ɨ	301
+553	Yine	301	hoçi	h o ç i	h o ç i	301
+554	ProtoPurus	301	hokɨ	h o k ɨ	h o k ɨ	301
+452	Inapari	308	ɨhɨnɨ	ɨ h ɨ n ɨ	ɨ h ɨ n ɨ	308
+453	Yine	308	hiçnɨ	h i ç n ɨ	h i ç n ɨ	308
+454	ProtoPurus	308	ɨkɨnɨ	ɨ k ɨ n ɨ	ɨ k ɨ n ɨ	308
+1	Apurina	320	ɨrɨ	ɨ r ɨ	ɨ r ɨ	320
+2	Inapari	320	ɨrɨ	ɨ r ɨ	ɨ r ɨ	320
+3	Yine	320	ɨrɨ	ɨ r ɨ	ɨ r ɨ	320
+4	ProtoPurus	320	hɨrɨ	h ɨ r ɨ	h ɨ r ɨ	320
+76	Apurina	327	imatɨkɨ	i m a t ɨ k ɨ	i m a t ɨ k ɨ	327
+77	Inapari	327	imatuhɨti	i m a t u h ɨ t i	i m a t u h ɨ t i	327
+78	Yine	327	himatçi	h i m a t ç i	h i m a t ç i	327
+79	ProtoPurus	327	himatukɨ	h i m a t u k ɨ	h i m a t u k ɨ	327
+201	Apurina	33	ãpɨkɨrɨ	ã p ɨ k ɨ r ɨ	ã p ɨ k ɨ r ɨ	33
+202	Inapari	33	hapisiri	h a p i s i r i	h a p i s i r i	33
+203	Yine	33	hapiçrɨ	h a p i ç r ɨ	h a p i ç r ɨ	33
+204	ProtoPurus	33	hapɨkɨrɨ	h a p ɨ k ɨ r ɨ	h a p ɨ k ɨ r ɨ	33
+482	Apurina	335	patɨ	p a t ɨ	p a t ɨ	335
+483	Yine	335	patɨ	p a t ɨ	p a t ɨ	335
+484	ProtoPurus	335	patɨ	p a t ɨ	p a t ɨ	335
+406	Apurina	339	tika	t i k a	t i k a	339
+407	Inapari	339	tʃiʔa	tʃ i ʔ a	tʃ i ʔ a	339
+408	Yine	339	tʃka	tʃ k a	tʃ k a	339
+409	ProtoPurus	339	tika	t i k a	t i k a	339
+229	Inapari	348	titi	t i t i	t i t i	348
+230	Yine	348	tʃitʃi	tʃ i tʃ i	tʃ i tʃ i	348
+231	ProtoPurus	348	tsitsi	ts i ts i	ts i ts i	348
+175	Inapari	352	pawa	p a w a	p a w a	352
+176	Yine	352	pawa	p a w a	p a w a	352
+177	ProtoPurus	352	pawa	p a w a	p a w a	352
+444	Apurina	357	ʃima	ʃ i m a	ʃ i m a	357
+445	Inapari	357	hima	h i m a	h i m a	357
+446	Yine	357	ʃima	ʃ i m a	ʃ i m a	357
+447	ProtoPurus	357	sima	s i m a	s i m a	357
+428	Apurina	369	ɨ̃wɨ	ɨ̃ w ɨ	ɨ̃ w ɨ	369
+429	Inapari	369	aawɨrɨ	a a w ɨ r ɨ	a a w ɨ r ɨ	369
+430	Yine	369	hi	h i	h i	369
+431	ProtoPurus	369	hɨwɨ	h ɨ w ɨ	h ɨ w ɨ	369
+584	Inapari	379	heri	h e r i	h e r i	379
+585	Yine	379	çerɨ	ç e r ɨ	ç e r ɨ	379
+586	ProtoPurus	379	kerɨ	k e r ɨ	k e r ɨ	379
+5	Apurina	38	po	p o	p o	38
+6	Inapari	38	po	p o	p o	38
+7	Yine	38	po	p o	p o	38
+8	ProtoPurus	38	po	p o	p o	38
+91	Apurina	384	kiti	k i t i	k i t i	384
+92	Inapari	384	hitʃi	h i tʃ i	h i tʃ i	384
+93	Yine	384	çitʃi	ç i tʃ i	ç i tʃ i	384
+94	ProtoPurus	384	kiti	k i t i	k i t i	384
+268	Apurina	392	ro	r o	r o	392
+269	Inapari	392	ro	r o	r o	392
+270	Yine	392	ro	r o	r o	392
+271	ProtoPurus	392	ro	r o	r o	392
+392	Apurina	397	rɨ	r ɨ	r ɨ	397
+393	Inapari	397	rɨ	r ɨ	r ɨ	397
+394	Yine	397	rɨ	r ɨ	r ɨ	397
+395	ProtoPurus	397	rɨ	r ɨ	r ɨ	397
+72	Apurina	402	mekaɲi	m e k a ɲ i	m e k a ɲ i	402
+73	Inapari	402	meʔani	m e ʔ a n i	m e ʔ a n i	402
+74	Yine	402	mekahjo	m e k a h j o	m e k a h j o	402
+75	ProtoPurus	402	mekani	m e k a n i	m e k a n i	402
+377	Apurina	403	ro	r o	r o	403
+378	Inapari	403	ro	r o	r o	403
+379	ProtoPurus	403	ro	r o	r o	403
+287	Apurina	413	atokɨrɨ	a t o k ɨ r ɨ	a t o k ɨ r ɨ	413
+288	Inapari	413	atuhɨrɨ	a t u h ɨ r ɨ	a t u h ɨ r ɨ	413
+289	Yine	413	atçirɨ	a t ç i r ɨ	a t ç i r ɨ	413
+290	ProtoPurus	413	atukɨrɨ	a t u k ɨ r ɨ	a t u k ɨ r ɨ	413
+363	Apurina	420	akɨro	a k ɨ r o	a k ɨ r o	420
+364	Inapari	420	ahɨro	a h ɨ r o	a h ɨ r o	420
+365	Yine	420	açiro	a ç i r o	a ç i r o	420
+366	ProtoPurus	420	akɨro	a k ɨ r o	a k ɨ r o	420
+127	Apurina	427	mekaɲi	m e k a ɲ i	m e k a ɲ i	427
+128	Inapari	427	meʔani	m e ʔ a n i	m e ʔ a n i	427
+129	Yine	427	mekahji	m e k a h j i	m e k a h j i	427
+130	ProtoPurus	427	mekani	m e k a n i	m e k a n i	427
+396	Apurina	428	rɨ	r ɨ	r ɨ	428
+397	Inapari	428	ri	r i	r i	428
+398	ProtoPurus	428	rɨ	r ɨ	r ɨ	428
+276	Apurina	43	pekiri	p e k i r i	p e k i r i	43
+277	Inapari	43	pehiri	p e h i r i	p e h i r i	43
+278	Yine	43	peçri	p e ç r i	p e ç r i	43
+279	ProtoPurus	43	pekiri	p e k i r i	p e k i r i	43
+388	Apurina	438	piti	p i t i	p i t i	438
+389	Inapari	438	pitʃi	p i tʃ i	p i tʃ i	438
+390	Yine	438	pitʃi	p i tʃ i	p i tʃ i	438
+391	ProtoPurus	438	piti	p i t i	p i t i	438
+235	Inapari	445	muju	m u j u	m u j u	445
+236	Yine	445	mjo	m j o	m j o	445
+237	ProtoPurus	445	muju	m u j u	m u j u	445
+161	Apurina	451	kɨwɨ	k ɨ w ɨ	k ɨ w ɨ	451
+162	Inapari	451	hɨwɨ	h ɨ w ɨ	h ɨ w ɨ	451
+163	Yine	451	çiwɨ	ç i w ɨ	ç i w ɨ	451
+164	ProtoPurus	451	kɨwɨ	k ɨ w ɨ	k ɨ w ɨ	451
+424	Apurina	457	ãkɨ	ã k ɨ	ã k ɨ	457
+425	Inapari	457	ahɨ	a h ɨ	a h ɨ	457
+426	Yine	457	haç	h a ç	h a ç	457
+427	ProtoPurus	457	hakɨ	h a k ɨ	h a k ɨ	457
+158	Inapari	466	pɨːnorɨ	p ɨː n o r ɨ	p ɨː n o r ɨ	466
+159	Yine	466	hinolɨ	h i n o l ɨ	h i n o l ɨ	466
+160	ProtoPurus	466	hɨno	h ɨ n o	h ɨ n o	466
+493	Inapari	479	hame	h a m e	h a m e	479
+494	Yine	479	hame	h a m e	h a m e	479
+495	ProtoPurus	479	hame	h a m e	h a m e	479
+123	Apurina	48	kajukɨrɨ	k a j u k ɨ r ɨ	k a j u k ɨ r ɨ	48
+124	Inapari	48	ajuhɨrɨ	a j u h ɨ r ɨ	a j u h ɨ r ɨ	48
+125	Yine	48	kʃijoçrɨ	k ʃ i j o ç r ɨ	k ʃ i j o ç r ɨ	48
+126	ProtoPurus	48	kajukɨrɨ	k a j u k ɨ r ɨ	k a j u k ɨ r ɨ	48
+545	Inapari	487	pana	p a n a	p a n a	487
+546	Yine	487	pan	p a n	p a n	487
+547	ProtoPurus	487	pana	p a n a	p a n a	487
+591	Apurina	493	kiɲa	k i ɲ a	k i ɲ a	493
+592	Inapari	493	aina	a i n a	a i n a	493
+593	Yine	493	kina	k i n a	k i n a	493
+594	ProtoPurus	493	kaina	k a i n a	k a i n a	493
+16	Inapari	498	hiwejuri	h i w e j u r i	h i w e j u r i	498
+17	Yine	498	ʃwejlɨ	ʃ w e j l ɨ	ʃ w e j l ɨ	498
+18	ProtoPurus	498	siwejurɨ	s i w e j u r ɨ	s i w e j u r ɨ	498
+208	Apurina	502	natʃi	n a tʃ i	n a tʃ i	502
+209	Inapari	502	nati	n a t i	n a t i	502
+210	Yine	502	natʃi	n a tʃ i	n a tʃ i	502
+211	ProtoPurus	502	natsi	n a ts i	n a ts i	502
+186	Inapari	507	putʃi	p u tʃ i	p u tʃ i	507
+187	Yine	507	potɨ	p o t ɨ	p o t ɨ	507
+188	ProtoPurus	507	putɨ	p u t ɨ	p u t ɨ	507
+47	Inapari	511	jaʔa	j a ʔ a	j a ʔ a	511
+48	Yine	511	jaka	j a k a	j a k a	511
+49	ProtoPurus	511	jaka	j a k a	j a k a	511
+331	Apurina	515	maɲiː	m a ɲ iː	m a ɲ iː	515
+332	Inapari	515	maneĩ	m a n e ĩ	m a n e ĩ	515
+333	Yine	515	manahi	m a n a h i	m a n a h i	515
+334	ProtoPurus	515	manahi	m a n a h i	m a n a h i	515
+69	Inapari	520	naʔa	n a ʔ a	n a ʔ a	520
+70	Yine	520	naka	n a k a	n a k a	520
+71	ProtoPurus	520	naka	n a k a	n a k a	520
+9	Apurina	53	katʃitɨ	k a tʃ i t ɨ	k a tʃ i t ɨ	53
+10	Inapari	53	atitʃi	a t i tʃ i	a t i tʃ i	53
+11	Yine	53	katʃitʃi	k a tʃ i tʃ i	k a tʃ i tʃ i	53
+12	ProtoPurus	53	katsitɨ	k a ts i t ɨ	k a ts i t ɨ	53
+402	Apurina	532	ɨpowã	ɨ p o w ã	ɨ p o w ã	532
+403	Inapari	532	hipuã	h i p u ã	h i p u ã	532
+404	Yine	532	hipow̥a	h i p o w̥ a	h i p o w̥ a	532
+405	ProtoPurus	532	hɨpu	h ɨ p u	h ɨ p u	532
+219	Inapari	538	tʃapari	tʃ a p a r i	tʃ a p a r i	538
+220	Yine	538	tpali	t p a l i	t p a l i	538
+221	ProtoPurus	538	tapari	t a p a r i	t a p a r i	538
+171	Apurina	544	poto	p o t o	p o t o	544
+172	Inapari	544	potu	p o t u	p o t u	544
+173	Yine	544	pto	p t o	p t o	544
+174	ProtoPurus	544	potu	p o t u	p o t u	544
+478	Apurina	553	opana	o p a n a	o p a n a	553
+479	Inapari	553	upana	u p a n a	u p a n a	553
+480	Yine	553	hopna	h o p n a	h o p n a	553
+481	ProtoPurus	553	hupana	h u p a n a	h u p a n a	553
+284	Inapari	560	hapa	h a p a	h a p a	560
+285	Yine	560	çepa	ç e p a	ç e p a	560
+286	ProtoPurus	560	kepa	k e p a	k e p a	560
+108	Inapari	576	himeʔa	h i m e ʔ a	h i m e ʔ a	576
+109	Yine	576	çimeka	ç i m e k a	ç i m e k a	576
+110	ProtoPurus	576	kimeka	k i m e k a	k i m e k a	576
+342	Inapari	58	hɨwa	h ɨ w a	h ɨ w a	58
+343	Yine	58	sɨwa	s ɨ w a	s ɨ w a	58
+344	ProtoPurus	58	sɨwa	s ɨ w a	s ɨ w a	58
+43	Apurina	588	kasɨrɨ	k a s ɨ r ɨ	k a s ɨ r ɨ	588
+44	Inapari	588	aɨrɨ	a ɨ r ɨ	a ɨ r ɨ	588
+45	Yine	588	ksɨrɨ	k s ɨ r ɨ	k s ɨ r ɨ	588
+46	ProtoPurus	588	kasɨrɨ	k a s ɨ r ɨ	k a s ɨ r ɨ	588
+466	Apurina	593	aɲiːo	a ɲ iː o	a ɲ iː o	593
+467	Inapari	593	haniju	h a n i j u	h a n i j u	593
+468	Yine	593	hahjo	h a h j o	h a h j o	593
+469	ProtoPurus	593	haniju	h a n i j u	h a n i j u	593
+524	Apurina	598	ɨnɨro	ɨ n ɨ r o	ɨ n ɨ r o	598
+525	Inapari	598	ɨnɨru	ɨ n ɨ r u	ɨ n ɨ r u	598
+526	Yine	598	ɨnro	ɨ n r o	ɨ n r o	598
+527	ProtoPurus	598	ɨnɨru	ɨ n ɨ r u	ɨ n ɨ r u	598
+539	Apurina	6	katsuparɨ	k a ts u p a r ɨ	k a ts u p a r ɨ	6
+540	Inapari	6	atupari	a t u p a r i	a t u p a r i	6
+541	ProtoPurus	6	katsuparɨ	k a ts u p a r ɨ	k a ts u p a r ɨ	6
+13	Inapari	605	imahɨ	i m a h ɨ	i m a h ɨ	605
+14	Yine	605	himaçi	h i m a ç i	h i m a ç i	605
+15	ProtoPurus	605	himakɨ	h i m a k ɨ	h i m a k ɨ	605
+104	Apurina	612	natu	n a t u	n a t u	612
+105	Inapari	612	natu	n a t u	n a t u	612
+106	Yine	612	nato	n a t o	n a t o	612
+107	ProtoPurus	612	natu	n a t u	n a t u	612
+563	Apurina	62	kano	k a n o	k a n o	62
+564	Inapari	62	ano	a n o	a n o	62
+565	Yine	62	kano	k a n o	k a n o	62
+566	ProtoPurus	62	kano	k a n o	k a n o	62
+496	Apurina	623	iwãka	i w ã k a	i w ã k a	623
+497	Inapari	623	ɨwaʔa	ɨ w a ʔ a	ɨ w a ʔ a	623
+498	Yine	623	hiwaka	h i w a k a	h i w a k a	623
+499	ProtoPurus	623	hɨwaka	h ɨ w a k a	h ɨ w a k a	623
+302	Inapari	646	pariʔare	p a r i ʔ a r e	p a r i ʔ a r e	646
+303	Yine	646	palikle	p a l i k l e	p a l i k l e	646
+304	ProtoPurus	646	parikare	p a r i k a r e	p a r i k a r e	646
+33	Inapari	663	herutʃi	h e r u tʃ i	h e r u tʃ i	663
+34	Yine	663	herotɨ	h e r o t ɨ	h e r o t ɨ	663
+35	ProtoPurus	663	herutɨ	h e r u t ɨ	h e r u t ɨ	663
+459	Inapari	667	jati	j a t i	j a t i	667
+460	Yine	667	jetʃ	j e tʃ	j e tʃ	667
+461	ProtoPurus	667	jatsi	j a ts i	j a ts i	667
+470	Apurina	672	kiri	k i r i	k i r i	672
+471	Inapari	672	hiri	h i r i	h i r i	672
+472	Yine	672	hi	h i	h i	672
+473	ProtoPurus	672	kiri	k i r i	k i r i	672
+338	Apurina	679	musa	m u s a	m u s a	679
+339	Inapari	679	muã	m u ã	m u ã	679
+340	Yine	679	mosa	m o s a	m o s a	679
+341	ProtoPurus	679	musa	m u s a	m u s a	679
+53	Apurina	684	kajatɨ	k a j a t ɨ	k a j a t ɨ	684
+54	Inapari	684	ajatʃi	a j a tʃ i	a j a tʃ i	684
+55	Yine	684	kajatɨ	k a j a t ɨ	k a j a t ɨ	684
+56	ProtoPurus	684	kajatɨ	k a j a t ɨ	k a j a t ɨ	684
+98	Inapari	689	atinu	a t i n u	a t i n u	689
+99	Yine	689	katʃino	k a tʃ i n o	k a tʃ i n o	689
+100	ProtoPurus	689	katsinu	k a ts i n u	k a ts i n u	689
+83	Apurina	695	kona	k o n a	k o n a	695
+84	Inapari	695	una	u n a	u n a	695
+85	Yine	695	kona	k o n a	k o n a	695
+86	ProtoPurus	695	kuna	k u n a	k u n a	695
+195	Apurina	706	ãpo	ã p o	ã p o	706
+196	Yine	706	hapo	h a p o	h a p o	706
+197	ProtoPurus	706	hapo	h a p o	h a p o	706
+238	Apurina	717	irarɨ	i r a r ɨ	i r a r ɨ	717
+239	Inapari	717	hirari	h i r a r i	h i r a r i	717
+240	Yine	717	hijalɨ	h i j a l ɨ	h i j a l ɨ	717
+241	ProtoPurus	717	hirarɨ	h i r a r ɨ	h i r a r ɨ	717
+380	Apurina	726	kãkɨtɨ	k ã k ɨ t ɨ	k ã k ɨ t ɨ	726
+381	Inapari	726	ahɨtʃi	a h ɨ tʃ i	a h ɨ tʃ i	726
+382	Yine	726	kaçitɨ	k a ç i t ɨ	k a ç i t ɨ	726
+383	ProtoPurus	726	kakɨtɨ	k a k ɨ t ɨ	k a k ɨ t ɨ	726
+356	Inapari	73	tʃahɨ	tʃ a h ɨ	tʃ a h ɨ	73
+357	Yine	73	hi	h i	h i	73
+358	ProtoPurus	73	takɨ	t a k ɨ	t a k ɨ	73
+249	Apurina	731	pɨra	p ɨ r a	p ɨ r a	731
+250	Yine	731	pra	p r a	p r a	731
+251	ProtoPurus	731	pɨra	p ɨ r a	p ɨ r a	731
+291	Apurina	736	oma	o m a	o m a	736
+292	Inapari	736	huma	h u m a	h u m a	736
+293	Yine	736	homa	h o m a	h o m a	736
+294	ProtoPurus	736	huma	h u m a	h u m a	736
+143	Apurina	741	miʃi	m i ʃ i	m i ʃ i	741
+144	Yine	741	mʃi	m ʃ i	m ʃ i	741
+145	ProtoPurus	741	mɨsi	m ɨ s i	m ɨ s i	741
+95	Apurina	748	nanɨ	n a n ɨ	n a n ɨ	748
+96	Yine	748	nanɨ	n a n ɨ	n a n ɨ	748
+97	ProtoPurus	748	nanɨ	n a n ɨ	n a n ɨ	748
+146	Inapari	752	pɨmari	p ɨ m a r i	p ɨ m a r i	752
+147	Yine	752	pɨmlɨ	p ɨ m l ɨ	p ɨ m l ɨ	752
+148	ProtoPurus	752	pɨmarɨ	p ɨ m a r ɨ	p ɨ m a r ɨ	752
+335	Inapari	756	hina	h i n a	h i n a	756
+336	Yine	756	hina	h i n a	h i n a	756
+337	ProtoPurus	756	hina	h i n a	h i n a	756
+155	Apurina	760	kɨsi	k ɨ s i	k ɨ s i	760
+156	Yine	760	kʃi	k ʃ i	k ʃ i	760
+157	ProtoPurus	760	kɨsi	k ɨ s i	k ɨ s i	760
+212	Apurina	764	kotʃi	k o tʃ i	k o tʃ i	764
+213	Inapari	764	uti	u t i	u t i	764
+214	Yine	764	kotʃi	k o tʃ i	k o tʃ i	764
+215	ProtoPurus	764	kutsi	k u ts i	k u ts i	764
+503	Apurina	769	tsa	ts a	ts a	769
+504	Inapari	769	ta	t a	t a	769
+505	Yine	769	tsa	ts a	ts a	769
+506	ProtoPurus	769	tsa	ts a	ts a	769
+316	Inapari	776	heʔuru	h e ʔ u r u	h e ʔ u r u	776
+317	Yine	776	heklo	h e k l o	h e k l o	776
+318	ProtoPurus	776	hekuru	h e k u r u	h e k u r u	776
+322	Inapari	787	patʃa	p a tʃ a	p a tʃ a	787
+323	Yine	787	pata	p a t a	p a t a	787
+324	ProtoPurus	787	pata	p a t a	p a t a	787
+345	Apurina	79	ʃijo	ʃ i j o	ʃ i j o	79
+346	Inapari	79	hiju	h i j u	h i j u	79
+347	Yine	79	ʃjo	ʃ j o	ʃ j o	79
+348	ProtoPurus	79	siju	s i j u	s i j u	79
+152	Inapari	792	paru	p a r u	p a r u	792
+153	Yine	792	palo	p a l o	p a l o	792
+154	ProtoPurus	792	paru	p a r u	p a r u	792
+135	Apurina	809	mata	m a t a	m a t a	809
+136	Inapari	809	matʃa	m a tʃ a	m a tʃ a	809
+137	Yine	809	mta	m t a	m t a	809
+138	ProtoPurus	809	mata	m a t a	m a t a	809
+258	Apurina	816	makara	m a k a r a	m a k a r a	816
+259	Inapari	816	maʔara	m a ʔ a r a	m a ʔ a r a	816
+260	ProtoPurus	816	makara	m a k a r a	m a k a r a	816
+622	Inapari	820	hurutʃi	h u r u tʃ i	h u r u tʃ i	820
+623	Yine	820	holotɨ	h o l o t ɨ	h o l o t ɨ	820
+624	ProtoPurus	820	hurutɨ	h u r u t ɨ	h u r u t ɨ	820
+359	Apurina	824	ɨmɨnɨ	ɨ m ɨ n ɨ	ɨ m ɨ n ɨ	824
+360	Inapari	824	himeni	h i m e n i	h i m e n i	824
+361	Yine	824	himnɨ	h i m n ɨ	h i m n ɨ	824
+362	ProtoPurus	824	hɨmenɨ	h ɨ m e n ɨ	h ɨ m e n ɨ	824
+518	Inapari	829	tɨrɨ	t ɨ r ɨ	t ɨ r ɨ	829
+519	Yine	829	tɨrɨ	t ɨ r ɨ	t ɨ r ɨ	829
+520	ProtoPurus	829	tɨrɨ	t ɨ r ɨ	t ɨ r ɨ	829
+40	Inapari	835	pɨtʃaana	p ɨ tʃ a a n a	p ɨ tʃ a a n a	835
+41	Yine	835	pɨtʰana	p ɨ tʰ a n a	p ɨ tʰ a n a	835
+42	ProtoPurus	835	pɨtahana	p ɨ t a h a n a	p ɨ t a h a n a	835
+312	Apurina	839	kamatʃi	k a m a tʃ i	k a m a tʃ i	839
+313	Inapari	839	amati	a m a t i	a m a t i	839
+314	Yine	839	kamtʃi	k a m tʃ i	k a m tʃ i	839
+315	ProtoPurus	839	kama	k a m a	k a m a	839
+432	Inapari	845	hutʃari	h u tʃ a r i	h u tʃ a r i	845
+433	Yine	845	sotlɨ	s o t l ɨ	s o t l ɨ	845
+434	ProtoPurus	845	sutarɨ	s u t a r ɨ	s u t a r ɨ	845
+559	Apurina	850	atokatʃi	a t o k a tʃ i	a t o k a tʃ i	850
+560	Inapari	850	tuʔati	t u ʔ a t i	t u ʔ a t i	850
+561	Yine	850	tkatʃi	t k a tʃ i	t k a tʃ i	850
+562	ProtoPurus	850	atukatsi	a t u k a ts i	a t u k a ts i	850
+587	Apurina	855	kɨparɨ	k ɨ p a r ɨ	k ɨ p a r ɨ	855
+588	Inapari	855	hɨpari	h ɨ p a r i	h ɨ p a r i	855
+589	Yine	855	çipalɨ	ç i p a l ɨ	ç i p a l ɨ	855
+590	ProtoPurus	855	kɨparɨ	k ɨ p a r ɨ	k ɨ p a r ɨ	855
+577	Apurina	86	ʃiãpoto	ʃ i ã p o t o	ʃ i ã p o t o	86
+578	Inapari	86	ijapotu	i j a p o t u	i j a p o t u	86
+579	Yine	86	pto	p t o	p t o	86
+580	ProtoPurus	86	potu	p o t u	p o t u	86
+242	Apurina	860	ʃipi	ʃ i p i	ʃ i p i	860
+243	Inapari	860	ipi	i p i	i p i	860
+244	Yine	860	hi	h i	h i	860
+245	ProtoPurus	860	si	s i	s i	860
+367	Apurina	868	kema	k e m a	k e m a	868
+368	Inapari	868	hama	h a m a	h a m a	868
+369	Yine	868	çema	ç e m a	ç e m a	868
+370	ProtoPurus	868	kema	k e m a	k e m a	868
+474	Apurina	873	kamara	k a m a r a	k a m a r a	873
+475	Inapari	873	amara	a m a r a	a m a r a	873
+476	Yine	873	kamla	k a m l a	k a m l a	873
+477	ProtoPurus	873	kamara	k a m a r a	k a m a r a	873
+325	Apurina	879	pori	p o r i	p o r i	879
+326	Inapari	879	puri	p u r i	p u r i	879
+327	ProtoPurus	879	puri	p u r i	p u r i	879
+66	Inapari	886	mapa	m a p a	m a p a	886
+67	Yine	886	mapa	m a p a	m a p a	886
+68	ProtoPurus	886	mapa	m a p a	m a p a	886
+216	Inapari	890	upari	u p a r i	u p a r i	890
+217	Yine	890	koplɨ	k o p l ɨ	k o p l ɨ	890
+218	ProtoPurus	890	kuparɨ	k u p a r ɨ	k u p a r ɨ	890
+352	Apurina	909	awa	a w a	a w a	909
+353	Inapari	909	awa	a w a	a w a	909
+354	Yine	909	awa	a w a	a w a	909
+355	ProtoPurus	909	awa	a w a	a w a	909
+198	Inapari	918	nani	n a n i	n a n i	918
+199	Yine	918	nni	n n i	n n i	918
+200	ProtoPurus	918	nani	n a n i	n a n i	918
+374	Inapari	925	tumaː	t u m aː	t u m aː	925
+375	Yine	925	tom̥a	t o m̥ a	t o m̥ a	925
+376	ProtoPurus	925	tuma	t u m a	t u m a	925
+607	Apurina	932	ɨna	ɨ n a	ɨ n a	932
+608	Inapari	932	ɨna	ɨ n a	ɨ n a	932
+609	Yine	932	ɨna	ɨ n a	ɨ n a	932
+610	ProtoPurus	932	ɨna	ɨ n a	ɨ n a	932
+101	Inapari	941	juʔana	j u ʔ a n a	j u ʔ a n a	941
+102	Yine	941	jokan	j o k a n	j o k a n	941
+103	ProtoPurus	941	jukana	j u k a n a	j u k a n a	941
+295	Inapari	949	wara	w a r a	w a r a	949
+296	Yine	949	wla	w l a	w l a	949
+297	ProtoPurus	949	wara	w a r a	w a r a	949
+567	Apurina	957	ɨpɨ̃	ɨ p ɨ̃	ɨ p ɨ̃	957
+568	Inapari	957	ɨpɨna	ɨ p ɨ n a	ɨ p ɨ n a	957
+569	Yine	957	hipna	h i p n a	h i p n a	957
+570	ProtoPurus	957	ɨpɨna	ɨ p ɨ n a	ɨ p ɨ n a	957
+63	Inapari	967	hɨtu	h ɨ t u	h ɨ t u	967
+64	Yine	967	sito	s i t o	s i t o	967
+65	ProtoPurus	967	sɨtu	s ɨ t u	s ɨ t u	967
+595	Apurina	974	ɲika	ɲ i k a	ɲ i k a	974
+596	Inapari	974	niʔa	n i ʔ a	n i ʔ a	974
+597	Yine	974	nika	n i k a	n i k a	974
+598	ProtoPurus	974	nika	n i k a	n i k a	974
+455	Apurina	981	pika	p i k a	p i k a	981
+456	Inapari	981	piʔa	p i ʔ a	p i ʔ a	981
+457	Yine	981	pika	p i k a	p i k a	981
+458	ProtoPurus	981	pika	p i k a	p i k a	981
+555	Apurina	988	apa	a p a	a p a	988
+556	Inapari	988	apa	a p a	a p a	988
+557	Yine	988	apa	a p a	a p a	988
+558	ProtoPurus	988	apa	a p a	a p a	988
+168	Inapari	99	rapɨtʃa	r a p ɨ tʃ a	r a p ɨ tʃ a	99
+169	Yine	99	rapɨko	r a p ɨ k o	r a p ɨ k o	99
+170	ProtoPurus	99	rapɨ	r a p ɨ	r a p ɨ	99

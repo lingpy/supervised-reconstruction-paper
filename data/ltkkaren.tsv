@@ -265,7 +265,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 2409	SouthernPwo	blow (a fire)	Ɂu³¹ ̈	Ɂu³¹̈	ʔ u ɦ ³¹		302
 2707	SouthernSgaw	blow (a fire)	Ɂu⁵⁵	Ɂu⁵⁵	ʔ u ⁵⁵		302
 3004	WesternBwe	blow (a fire)	u³³	u³³	u ³³		302
-27	ProtoKaren	boar (wild~)	*thɔɁᴰmiᴬ	*thɔɁᴰmiᴬ	tʰ ɔ ʔ ⁵¹ + m i ⁵⁵		315 316
+27	ProtoKaren	boar (wild~)	*thɔɁᴰmiᴬ	*thɔɁᴰmiᴬ	tʰ ɔ ʔ̚ ⁵¹ + m i ⁵⁵		315 316
 370	Kayah	boar (wild~)	thɛ⁵⁵mi¹¹	thɛ⁵⁵mi¹¹	tʰ ɛ ⁵⁵ + m i ¹¹		315 316
 667	Kayan	boar (wild~)	thauɁ⁴⁵mi³³	thauɁ⁴⁵mi³³	tʰ au ʔ ⁴⁵ + m i ³³		315 316
 958	Kayaw	boar (wild~)	tho³³mi³³	tho³³mi³³	tʰ o ³³ + m i ³³		315 316
@@ -739,7 +739,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 2459	SouthernPwo	deaf	Ɂə̃³¹ ̈	Ɂə̃³¹̈	ʔ ə̃ ɦ ³¹		918
 2755	SouthernSgaw	deaf	Ɂə⁵⁵	Ɂə⁵⁵	ʔ ə ⁵⁵		918
 3036	WesternBwe	deaf	tə’o⁵⁵	tə’o⁵⁵	t ə ⁰ + o ⁵⁵		919 918
-78	ProtoKaren	deep	*jɔɁᴰ	*jɔɁᴰ	j ɔ ʔ ⁵¹		930
+78	ProtoKaren	deep	*jɔɁᴰ	*jɔɁᴰ	j ɔ ʔ̚ ⁵¹		930
 414	Kayah	deep	jɛ³³	jɛ³³	j ɛ ³³		930
 705	Kayan	deep	ɈauɁ²¹	ɈauɁ²¹	ɟ au ʔ ²¹		930
 1309	NorthernPao	deep	jɔɁ⁴⁵	jɔɁ⁴⁵	j ɔ ʔ ⁴⁵		930
@@ -974,7 +974,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 2480	SouthernPwo	elephant	kə¹¹chɔ̃⁵³	kə¹¹chɔ̃⁵³	k ə ¹¹ + cʰ ɔ̃ ⁵³		1209 1207
 2777	SouthernSgaw	elephant	kə¹¹chɔ⁵⁵	kə¹¹chɔ⁵⁵	k ə ¹¹ + cʰ ɔ ⁵⁵		1209 1207
 3055	WesternBwe	elephant	(gə) ʃa⁵⁵	_ʃa⁵⁵	ʃ a ⁵⁵		1207
-103	ProtoKaren	embrace, hug	* phɔɁᴰ	*_phɔɁᴰ	pʰ ɔ ʔ ⁵¹		1226
+103	ProtoKaren	embrace, hug	* phɔɁᴰ	*_phɔɁᴰ	pʰ ɔ ʔ̚ ⁵¹		1226
 436	Kayah	embrace, hug	phɛ⁵⁵	phɛ⁵⁵	pʰ ɛ ⁵⁵		1226
 1030	Kayaw	embrace, hug	pho³³	pho³³	pʰ o ³³		1226
 1330	NorthernPao	embrace, hug	phɔɁ²¹	phɔɁ²¹	pʰ ɔ ʔ ²¹		1226
@@ -2536,7 +2536,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 270	ProtoKaren	spider	*gaŋᴬ	*gaŋᴬ	g a ŋ ⁵⁵		3192
 874	Kayan	spider	kaŋ³³	kaŋ³³	k a ŋ ³³		3192
 1185	Kayaw	spider	kɔ³³	kɔ³³	k ɔ ³³		3192
-1468	NorthernPao	spider	kuŋ³³kaŋ³³	kuŋ³³kaŋ³³	k u ŋ ³³ + k a ŋ ³³		3193 3192
+1468	NorthernPao	spider	kuŋ³³kaŋ³³	kuŋ³³kaŋ³³	k u ŋ ³³ + kʰ a ŋ ³³		3193 3192
 1746	NorthernPwo	spider	pu¹¹khɛ⁵̃ ⁵	pu¹¹khɛ⁵̃⁵	p u ¹¹ + kʰ ɛ̃ ⁵⁵		3194 3192
 2325	SouthernPao	spider	jɔŋ³¹kaŋ⁵³	jɔŋ³¹kaŋ⁵³	j ɔ ŋ ³¹ + k a ŋ ⁵³		3195 3192
 2618	SouthernPwo	spider	khɔ̃³¹ ̈	khɔ̃³¹̈	kʰ ɔ̃ ɦ ³¹		3192
@@ -2692,7 +2692,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 591	Kayah	sunlight, hot	ku¹¹	ku¹¹	k u ¹¹		3388
 888	Kayan	sunlight, hot	kau¹¹	kau¹¹	k au ¹¹		3388
 1200	Kayaw	sunlight, hot	ku¹¹	ku¹¹	k u ¹¹		3388
-1480	NorthernPao	sunlight, hot	ja³¹ ̈kho⁵³	ja³¹̈kho⁵³	j a ɦ ³¹ + k o ⁵³		3389 3388
+1480	NorthernPao	sunlight, hot	ja³¹ ̈kho⁵³	ja³¹̈kho⁵³	j a ɦ ³¹ + kʰ o ⁵³		3389 3388
 1760	NorthernPwo	sunlight, hot	khu¹¹ ̈	khu¹¹̈	kʰ u ɦ ¹¹		3388
 2067	NorthernSgaw	sunlight, hot	ta¹¹ko¹¹ ̈	ta¹¹ko¹¹̈	t a ¹¹ + k o ɦ ¹¹		3390 3388
 2338	SouthernPao	sunlight, hot	ko⁵⁵	ko⁵⁵	k o ⁵⁵		3388
@@ -2754,13 +2754,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGIDS
 2639	SouthernPwo	tendon	thɔ̃⁵⁵	thɔ̃⁵⁵	tʰ w ɔ̃ ⁵⁵		3458
 2939	SouthernSgaw	tendon	thu⁴⁵’	thu⁴⁵’	tʰ w ɔ ⁴⁵		3458
 294	ProtoKaren	termite	*b-ɁwaNᴬ	*b-ɁwaNᴬ	b ə ʔ̚ ⁰ + ʔ w a ɴ ⁵⁵		3466 3467
-597	Kayah	termite	phu⁵⁵wa³³	phu⁵⁵wa³³	pʰ u ⁵⁵ + w ɛ ³³		3466 3467
-894	Kayan	termite	baɁ²¹Ɂu⁵³	baɁ²¹Ɂu⁵³	b a ʔ ²¹ + ʔ u ⁵³		3466 3468
-1485	NorthernPao	termite	pi⁵⁵Ɂwa³¹ ̈	pi⁵⁵Ɂwa³¹̈	p i ⁵⁵ + ʔ w a n ɦ ³¹		3466 3467
-1767	NorthernPwo	termite	paɁ²¹Ɂɔ̃⁵⁵	paɁ²¹Ɂɔ̃⁵⁵	p a ʔ ²¹ + ʔ ɔ̃ ⁵⁵		3466 3468
+597	Kayah	termite	phu⁵⁵wa³³	phu⁵⁵wa³³	p u ⁵⁵ + w ɛ ³³		3466 3467
+894	Kayan	termite	baɁ²¹Ɂu⁵³	baɁ²¹Ɂu⁵³	p a ʔ ²¹ + ʔ u ⁵³		3466 3468
+1485	NorthernPao	termite	pi⁵⁵Ɂwa³¹ ̈	pi⁵⁵Ɂwa³¹̈	pʰ i ⁵⁵ + ʔ w a n ɦ ³¹		3466 3467
+1767	NorthernPwo	termite	paɁ²¹Ɂɔ̃⁵⁵	paɁ²¹Ɂɔ̃⁵⁵	pʰ a ʔ ²¹ + ʔ ɔ̃ ⁵⁵		3466 3468
 2074	NorthernSgaw	termite	pə¹¹ɁuɁ⁴⁵	pə¹¹ɁuɁ⁴⁵	p ə ¹¹ + ʔ u ʔ ⁴⁵		3466 3468
 2342	SouthernPao	termite	pi³³Ɂwa³¹ ̈	pi³³Ɂwa³¹̈	p i ³³ + ʔ w a n ɦ ³¹		3466 3467
-2640	SouthernPwo	termite	pu³³Ɂɔ̃³¹ ̈	pu³³Ɂɔ̃³¹̈	p u ³³ + ʔ ɔ̃ ɦ ³¹		3466 3468
+2640	SouthernPwo	termite	pu³³Ɂɔ̃³¹ ̈	pu³³Ɂɔ̃³¹̈	pʰ u ³³ + ʔ ɔ̃ ɦ ³¹		3466 3468
 2940	SouthernSgaw	termite	pə¹¹ɁɔuɁ²¹	pə¹¹ɁɔuɁ²¹	p ə ¹¹ + ʔ ɔu ʔ ²¹		3466 3468
 295	ProtoKaren	termite (winged~)	*biᴮ	*biᴮ	b i ¹¹		3485
 598	Kayah	termite (winged~)	pi¹¹	pi¹¹	p i ¹¹		3485
