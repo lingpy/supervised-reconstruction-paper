@@ -58,7 +58,7 @@ For the CorPaR classifier, type:
 $ python analyze.py corpar
 ```
 
-The results in the form of preditions are written to TSV files in the folders `results/svm` and `results/corpar` respectively. To analyze them by computing edit distance and B-Cubed F-scores, we use the script `evaluate.py`:
+The results in the form of predictions are written to TSV files in the folders `results/svm` and `results/corpar` respectively. To analyze them by computing edit distance and B-Cubed F-scores, we use the script `evaluate.py`:
 
 ```
 $ python evaluate.py

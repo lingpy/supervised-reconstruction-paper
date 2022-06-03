@@ -24,7 +24,7 @@ by_ds = defaultdict(list)
 
 for clf in classifiers:
     for pth in progressbar(list(Path("results", clf).glob("*.tsv"))[:]):
-        with open(pth) as f:
+        with open(pth, "r", encoding="utf-8") as f:
             res = []
             for row in f:
                 res += [[[a.strip() for a in x.split()] for x in row.split("\t")]]
